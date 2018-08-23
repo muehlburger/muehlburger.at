@@ -46,7 +46,8 @@ Mike Roberts&amp;#8217; Definition of Serverless No management of server hosts o
       <pubDate>Tue, 26 Dec 2017 22:02:34 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.</description>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
     </item>
     
     <item>
