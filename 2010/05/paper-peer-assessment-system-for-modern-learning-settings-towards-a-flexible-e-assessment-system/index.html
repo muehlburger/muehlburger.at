@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.46" />
+
+    
+    
+    
+
+<title>[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System • { - }</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System"/>
+<meta name="twitter:description" content="Diese Woche habe ich mich im Zuge der Lehrveranstaltung &#8220;Technology Enhanced Learning&#8220;, abgehalten an der Technischen Universität Graz (TU Graz), mit dem Artikel &#8220;Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System&#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &#8220;Information Search and Retrieval&#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde."/>
+
+<meta property="og:title" content="[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System" />
+<meta property="og:description" content="Diese Woche habe ich mich im Zuge der Lehrveranstaltung &#8220;Technology Enhanced Learning&#8220;, abgehalten an der Technischen Universität Graz (TU Graz), mit dem Artikel &#8220;Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System&#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &#8220;Information Search and Retrieval&#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.muehlburger.at/2010/05/paper-peer-assessment-system-for-modern-learning-settings-towards-a-flexible-e-assessment-system/" />
+
+
+
+<meta property="article:published_time" content="2010-05-04T08:27:09&#43;00:00"/>
+
+<meta property="article:modified_time" content="2010-05-04T08:27:09&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="/css/hyde-hyde.css">
+<link rel="stylesheet" href="/css/print.min.css" media="print">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body >
+        
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://blog.muehlburger.at">{ - }</a>
+      </span>
+      
+      <p class="site__description">
+         Herbert Mühlburger 
+      </p>
+    </div>
+    <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/about/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/2018/02/the-evolution-of-microservices/">
+						<span>The Evolution of Microservices</span>
+					</a>
+				</li>
+			 
+		
+		</li>
+	</ul>
+</div>
+
+    <p>
+      <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+    </p>
+    <p class="copyright">
+      &copy; 2018 .
+      <a href="https://creativecommons.org/licenses/by-sa/4.0">Some Rights Reserved</a>.
+      <br/>Built with
+      <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+      
+    </p>
+  </div>
+  <div>
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1>[paper] – Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System</h1>
+     
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> May 04, 2010
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/computer-science">COMPUTER SCIENCE</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/assessment">assessment</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/distance-learning">distance learning</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/education">education</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/graz">graz</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/graz-university-of-technology">graz university of technology</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/instructional-technology">instructional technology</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/learning-management-system">learning management system</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/methods-and-theories">methods and theories</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/online-teaching-and-learning">online teaching and learning</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/peer-assessment">peer-assessment</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/technology">technology</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/technology-enhanced-learning">technology-enhanced learning</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/tel">tel</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/tu-graz">tu graz</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  <div class="post">
+    
+
+<p>Diese Woche habe ich mich im Zuge der Lehrveranstaltung &#8220;<a title="Technology Enhanced Learning" href="http://tugll.tugraz.at/tel/weblog/" target="_blank">Technology Enhanced Learning</a>&#8220;, abgehalten an der <a title="Technische Universität Graz" href="http://www.tugraz.at" target="_blank">Technischen Universität Graz</a> (<a class="zem_slink" title="Graz University of Technology" rel="geolocation" href="http://maps.google.com/maps?ll=47.0688888889,15.45&spn=0.01,0.01&q=47.0688888889,15.45 (Graz%20University%20of%20Technology)&t=h">TU Graz</a>), mit dem Artikel &#8220;<a title="Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System" href="http://online-journals.org/i-jet/article/view/1229" target="_blank">Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System</a>&#8221; [1] beschäftigt. In diesem Artikel beschreiben die Autoren PASS (Peer ASsessment System), einen Prototypen eines Peer Assessment Systems, der im Zuge der Lehrveranstaltung &#8220;<a title="Information Search and Retrieval" href="https://online.tu-graz.ac.at/tug_online/lv.detail?clvnr=135636&sprache=1" target="_blank">Information Search and Retrieval</a>&#8221; an der TU Graz zur Beurteilung der Studierendenleistungen eingesetzt wurde.</p>
+
+<p>Die Beurteilung beruhte auf einem Experiment das die folgenden acht Phasen durchlief:</p>
+
+<ul>
+<li>Einführungsvortrag des Lehrveranstaltungsbetreuers (10 Minuten)</li>
+<li>Online Lerneinheit (45 Minuten)</li>
+
+<li><p>Online Test (15 Minuten)</p></li>
+
+<li><p>Pause (15 Minuten)</p></li>
+
+<li><p>Online Erstellung von Referenzantworten (15 Minuten)</p></li>
+
+<li><p>Online Peer Assessment Einheit (45 Minuten)</p></li>
+
+<li><p>Fragebogen bezüglich des Experimentes (10 Minuten)</p></li>
+
+<li><p>Präsentation der Resultate</p></li>
+</ul>
+
+<p>Neben diesen acht Phasen wurden Referenzantworten von 5 Tutoren (PhD Studenten mit Dipl.-Ing. Abschluss in Informatik) erstellt, die in der späteren Evaluierung als Basisvergleichswerte für die Bewertung dienen. Es konnte gezeigt werden, dass Studenten durch die Peer Assessment Einheit mehr vom Lehrveranstaltungsstoff behielten. Durch die wiederholte Beurteilung (Assessment) von Fragen der Mitstudenten, wurden verschiedene Sichtweisen auf ein und dasselbe Thema deutlich.</p>
+
+<p><strong>Autoren</strong>:</p>
+
+<p>Mohammad Al-Smadi, Christian Guetl, Frank Kappe</p>
+
+<p>**Referenz:</p>
+
+<p><span style="font-weight: normal;">[1] Al-Smadi, M., Guetl, C., &amp; Kappe, F. (2010). Peer Assessment System for Modern Learning Settings: Towards a Flexible E-Assessment System. <em>International Journal Of Emerging Technologies In Learning (IJET), 5</em>(6). Retrieved May 4, 2010, from <a href="http://online-journals.org/i-jet/article/view/1229" target="_new"><a href="http://online-journals.org/i-jet/article/view/1229">http://online-journals.org/i-jet/article/view/1229</a></a></span>**</p>
+
+<h3 id="related-articles-by-zemanta-a-href-http-online-journals-org-i-jet-article-view-1229-target-new-a"><strong>Related articles by Zemanta</strong><a href="http://online-journals.org/i-jet/article/view/1229" target="_new"></a></h3>
+
+<ul class="zemanta-article-ul">
+  <li class="zemanta-article-ul-li">
+    <a href="http://www.slideshare.net/mebner/ulearning-future-of-education-from-a-technical-perspective">uLearning? Future of Education from a technical perspective</a> (slideshare.net)
+  </li>
+  <li class="zemanta-article-ul-li">
+    <a href="http://elearningblog.tugraz.at/archives/3181">[publication] Interactive Lecturing by Integrating Mobile Devices and Micro-blogging in Higher Education</a> (elearningblog.tugraz.at)
+  </li>
+  <li class="zemanta-article-ul-li">
+    <a href="http://www.slideshare.net/nikilambropoulos/collective-intelligence-and-idea-generation-lambropoulos-vivitsou">Collective Intelligence and Idea Generation Lambropoulos Vivitsou</a> (slideshare.net)
+  </li>
+</ul>
+
+<div class="zemanta-pixie">
+  <a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b9187a09-6080-4ef1-b099-ad6b7eda9041/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=b9187a09-6080-4ef1-b099-ad6b7eda9041" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"></span>
+</div>
+
+  </div>
+  
+
+<div class="post--navigation post--navigation-single">
+    
+    <a href="/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/" class="post--navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Fiverr – Offer or buy a micro services for $5</span>
+    </a>
+    
+    
+    <a href="/2010/05/video-how-fast-is-google-chrome/" class="post--navigation-next">
+      <span class="navigation-tittle">[video] – How fast is Google Chrome?</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
+  integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
+  crossorigin="anonymous">
+</script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

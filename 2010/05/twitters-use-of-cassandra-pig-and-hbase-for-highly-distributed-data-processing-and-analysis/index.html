@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.46" />
+
+    
+    
+    
+
+<title>Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis • { - }</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis"/>
+<meta name="twitter:description" content="Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+[slideshare id=3806196&amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
+(via @kevinweil)
+Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+[slideshare id=3735857&amp;doc=nosqlfordummies-100415085745-phpapp01]
+(via @thobe)
+  "/>
+
+<meta property="og:title" content="Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis" />
+<meta property="og:description" content="Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+[slideshare id=3806196&amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
+(via @kevinweil)
+Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+[slideshare id=3735857&amp;doc=nosqlfordummies-100415085745-phpapp01]
+(via @thobe)
+  " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.muehlburger.at/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/" />
+
+
+
+<meta property="article:published_time" content="2010-05-06T19:43:45&#43;00:00"/>
+
+<meta property="article:modified_time" content="2010-05-06T19:43:45&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="/css/hyde-hyde.css">
+<link rel="stylesheet" href="/css/print.min.css" media="print">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body >
+        
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://blog.muehlburger.at">{ - }</a>
+      </span>
+      
+      <p class="site__description">
+         Herbert Mühlburger 
+      </p>
+    </div>
+    <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/about/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/2018/02/the-evolution-of-microservices/">
+						<span>The Evolution of Microservices</span>
+					</a>
+				</li>
+			 
+		
+		</li>
+	</ul>
+</div>
+
+    <p>
+      <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+    </p>
+    <p class="copyright">
+      &copy; 2018 .
+      <a href="https://creativecommons.org/licenses/by-sa/4.0">Some Rights Reserved</a>.
+      <br/>Built with
+      <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+      
+    </p>
+  </div>
+  <div>
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1>Twitter’s use of Cassandra, Hadoop, Pig and HBase for highly distributed Data Processing and Analysis</h1>
+     
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> May 06, 2010
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/business-intelligence">BUSINESS INTELLIGENCE</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/business">business</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/cassandra">cassandra</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/data-analysis">data analysis</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/data-mining">data mining</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/database">database</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/distributed-computing">distributed computing</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/hadoop">hadoop</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/hbase">hbase</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/kevin-weil">kevin weil</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/pig">pig</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/twitter">twitter</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 1 min read
+</div>
+
+
+  </header>
+  <div class="post">
+    <p>Kevin Weil, Analytics Lead at <a title="Twitter" href="http://twitter.com" target="_blank">Twitter</a> recently gave a presentation on <strong>Twitter’s use of Cassandra, Pig and HBase</strong>. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.</p>
+
+<p>[slideshare id=3806196&amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]</p>
+
+<p>(via <a title="@kevinweil" href="http://twitter.com/kevinweil" target="_blank">@kevinweil</a>)</p>
+
+<p>Another great presentation from <a title="http://www.thobe.org" href="http://www.thobe.org" target="_blank">Tobias Ivarsson</a> gives an overview on NoSQL:</p>
+
+<p>[slideshare id=3735857&amp;doc=nosqlfordummies-100415085745-phpapp01]</p>
+
+<p>(via <a title="Tobias Ivarsson @ Twitter" href="http://twitter.com/thobe" target="_blank">@thobe</a>)</p>
+
+<div class="zemanta-pixie">
+  <a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/69f605dc-45ec-40c6-9a66-e300d0d5dba1/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=69f605dc-45ec-40c6-9a66-e300d0d5dba1" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"></span>
+</div>
+
+  </div>
+  
+
+<div class="post--navigation post--navigation-single">
+    
+    <a href="/2010/05/video-how-fast-is-google-chrome/" class="post--navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">[video] – How fast is Google Chrome?</span>
+    </a>
+    
+    
+    <a href="/2010/05/social-media-revolution-facts-and-figures/" class="post--navigation-next">
+      <span class="navigation-tittle">The Social Media Revolution – Facts and Figures – [video]</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
+  integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
+  crossorigin="anonymous">
+</script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

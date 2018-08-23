@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.46" />
+
+    
+    
+    
+
+<title>[spritpreisrechner.at] – Apps entwickeln • { - }</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="[spritpreisrechner.at] – Apps entwickeln"/>
+<meta name="twitter:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www."/>
+
+<meta property="og:title" content="[spritpreisrechner.at] – Apps entwickeln" />
+<meta property="og:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
+Es werden per HTTP POST Request Anfragen an http://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.muehlburger.at/2011/08/spritpreisrechner-at-apps-entwickeln/" />
+
+
+
+<meta property="article:published_time" content="2011-08-26T09:17:35&#43;00:00"/>
+
+<meta property="article:modified_time" content="2011-08-26T09:17:35&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<link rel="stylesheet" href="/css/hyde-hyde.css">
+<link rel="stylesheet" href="/css/print.min.css" media="print">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+
+</head>
+
+
+    <body >
+        
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://blog.muehlburger.at">{ - }</a>
+      </span>
+      
+      <p class="site__description">
+         Herbert Mühlburger 
+      </p>
+    </div>
+    <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/about/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/2018/02/the-evolution-of-microservices/">
+						<span>The Evolution of Microservices</span>
+					</a>
+				</li>
+			 
+		
+		</li>
+	</ul>
+</div>
+
+    <p>
+      <section class="social">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+    </p>
+    <p class="copyright">
+      &copy; 2018 .
+      <a href="https://creativecommons.org/licenses/by-sa/4.0">Some Rights Reserved</a>.
+      <br/>Built with
+      <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+      
+    </p>
+  </div>
+  <div>
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1>[spritpreisrechner.at] – Apps entwickeln</h1>
+     
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Aug 26, 2011
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/android">ANDROID</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/computer-science">COMPUTER SCIENCE</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/programming">PROGRAMMING</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/android-market">android market</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/http">http</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/json">json</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/latitude">latitude</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/spritpreise">spritpreise</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/spritpreisrechner.at">spritpreisrechner.at</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  <div class="post">
+    <p>Vor kurzem wurde in Österreich der <a title="E-Control Spritpreisrechner" href="http://spritpreisrechner.at/" target="_blank">Spritpreisrechner der E-Control</a> offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige <a title="Android Market Spritpreisrechner Apps" href="https://market.android.com/search?q=spritpreisrechner&so=1&c=apps" target="_blank">Spritpreisrechner Apps</a>.</p>
+
+<p>Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:</p>
+
+<p>Es werden per HTTP POST Request Anfragen an <a title="http://spritpreisrechner.at/espritmap-app/GasStationServlet" href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet" target="_blank"><a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</a></a> geschickt. Wichtig ist dabei der Parameter &#8220;data&#8221; der natürlich mit Werten (Längen- und Breitengraden bzw. einen Suchstring) initialisiert werden muss.</p>
+
+<p>Beispielsweise könnte man folgenden cURL Aufruf ausführen (die Daten in &#8220;data&#8221; sind url-encoded&#8221;):</p>
+
+<p>[code language=&#8221;bash&#8221;]</p>
+
+<p>curl -d &#8220;data=%5B%22Graz%22%2C%22DIE%22%2C15.414262484145%2C47.057105360725%2C15.494085024429%2C47.08048974931%5D&#8221; <a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</a></p>
+
+<p>[/code]</p>
+
+<p>Der HTTP Request Header sieht konkret folgendermaßen aus:</p>
+
+<p>[code]</p>
+
+<p>Request URL:<a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</a></p>
+
+<p>Request Method:POST</p>
+
+<p>Status Code:200 OK</p>
+
+<p>Request Headersview source</p>
+
+<p>Accept:*/*</p>
+
+<p>Accept-Charset:ISO-8859-1,utf-8;q=0.7,*;q=0.3</p>
+
+<p>Accept-Encoding:gzip,deflate,sdch</p>
+
+<p>Accept-Language:de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4</p>
+
+<p>Connection:keep-alive</p>
+
+<p>Content-Length:101</p>
+
+<p>Content-Type:application/x-www-form-urlencoded</p>
+
+<p>Host:spritpreisrechner.at</p>
+
+<p>Origin:<a href="http://spritpreisrechner.at">http://spritpreisrechner.at</a></p>
+
+<p>Referer:<a href="http://spritpreisrechner.at/ts/map.jsp">http://spritpreisrechner.at/ts/map.jsp</a></p>
+
+<p>User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1</p>
+
+<p>X-Requested-With:XMLHttpRequest</p>
+
+<p>Form Dataview URL encoded</p>
+
+<p>data:[&#8220;&#8221;,&#8221;DIE&#8221;,15.409674251128,47.051201316374,15.489496791403,47.074588294516]</p>
+
+<p>Response Headersview source</p>
+
+<p>Connection:Keep-Alive</p>
+
+<p>Content-Type:text/html;charset=UTF-8</p>
+
+<p>Date:Fri, 26 Aug 2011 08:27:11 GMT</p>
+
+<p>Keep-Alive:timeout=4, max=150</p>
+
+<p>Transfer-Encoding:chunked</p>
+
+<p>[/code]</p>
+
+<p>Der Parameter &#8220;data&#8221; enthält einen JSON String der mit folgenden Werten befüllt wird:</p>
+
+<p>[code]</p>
+
+<p>data:[</p>
+
+<p>&#8220;&#8221;, =&gt; <del>Ort (Tankstellen werden in der Nähe dieses Ortes gesucht)</del> <strong>Update:</strong> Vielen Dank an Andreas Stütz!: Dieser Parameter gibt an, ob auch geschlossene Tankstellen angezeigt werden sollen (&#8220;checked&#8221;) oder nicht (&#8220;&#8221;)</p>
+
+<p>&#8220;DIE&#8221;, =&gt; Treibstoffart: &#8220;DIE&#8221; oder &#8220;SUP&#8221; (Diesel oder Super 95)</p>
+
+<p>15.414258888907, =&gt; Longitude 1 (Längengrad)</p>
+
+<p>47.057106335865, =&gt; Latitude 1 (Breitengrad)</p>
+
+<p>15.494081429191, =&gt; Longitude 2 (Längengrad)</p>
+
+<p>47.080490724022 =&gt; Latitude 2 (Breitengrad)</p>
+
+<p>]</p>
+
+<p>[/code]</p>
+
+<p>Longitude 1 und Latitude 1 geben Koordinaten der linken unteren Ecke, Longitude 2 und Latitude 2 die Koordinaten der oberen rechten Ecke an. Das so aufgespannte Rechteck definiert den sichtbaren Bereich auf der Google Maps Karte. Im Zentrum sollte sich sinnvollerweise die aktuelle Position befinden. Innerhalb des sichtbaren Bereiches werden die 5 billigsten Tankstellen mit den dazugehörigen Spritpreisen angezeigt. Um das Rechteck aufzuspannen kann man sich in Android folgendermaßen behelfen:</p>
+
+<ol>
+<li><p>Aktuelle Position mittels Android LocationManager ermitteln</p></li>
+
+<li><p>Mittels der aktuellen Position und der Methoden <a title="getLongitudeSpan()" href="http://code.google.com/intl/de-DE/android/add-ons/google-apis/reference/com/google/android/maps/MapView.html#getLongitudeSpan()" target="_blank">getLongitudeSpan()</a> und <a title="getLatitudeSpan()" href="http://code.google.com/intl/de-DE/android/add-ons/google-apis/reference/com/google/android/maps/MapView.html#getLatitudeSpan()" target="_blank">getLatitudeSpan()</a> die rechte obere und die linke untere Ecke berechnen und anschließend</p></li>
+
+<li><p>Parameter &#8220;data&#8221; mit den ermittelten Werten befüllen und HTTP Post Request abschicken.</p></li>
+</ol>
+
+<p>Wird der oben beschriebene HTTP Request ausgeführt, bekommt man als HTTP Response einen JSON String, der wie folgt aufgebaut ist:</p>
+
+<p>[code]</p>
+
+<p>[</p>
+
+<p>{</p>
+
+<p>&#8220;kredit&#8221;:true,</p>
+
+<p>&#8220;self&#8221;:true,</p>
+
+<p>&#8220;spritPrice&#8221;:[</p>
+
+<p>{</p>
+
+<p>&#8220;amount&#8221;:&#8221;1.262&#8243;,</p>
+
+<p>&#8220;datAnounce&#8221;:&#8221;Thu Aug 25 17:45:55 CEST 2011&#8243;,</p>
+
+<p>&#8220;gasStationId&#8221;:&#8221;7766&#8243;,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;datValid&#8221;:1314287155000,</p>
+
+<p>&#8220;spritId&#8221;:&#8221;DIE&#8221;</p>
+
+<p>}</p>
+
+<p>],</p>
+
+<p>&#8220;automat&#8221;:false,</p>
+
+<p>&#8220;city&#8221;:&#8221;Graz&#8221;,</p>
+
+<p>&#8220;open&#8221;:true,</p>
+
+<p>&#8220;distance&#8221;:1.32,</p>
+
+<p>&#8220;postalCode&#8221;:&#8221;8010&#8243;,</p>
+
+<p>&#8220;gasStationId&#8221;:7766,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;priceSearchDisabled&#8221;:false,</p>
+
+<p>&#8220;longitude&#8221;:&#8221;15.4509774&#8243;,</p>
+
+<p>&#8220;payMethod&#8221;:&#8221;UTA&#8221;,</p>
+
+<p>&#8220;mail&#8221;:&#8221;&#8221;,</p>
+
+<p>&#8220;gasStationName&#8221;:&#8221;Turmöl&#8221;,</p>
+
+<p>&#8220;fax&#8221;:&#8221;433164751524&#8243;,</p>
+
+<p>&#8220;clubCard&#8221;:&#8221;&#8221;,</p>
+
+<p>&#8220;openingHours&#8221;:[</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;06:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Feiertag&#8221;,</p>
+
+<p>&#8220;order&#8221;:8,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;FE&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;22:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;05:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Dienstag&#8221;,</p>
+
+<p>&#8220;order&#8221;:2,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;DI&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;23:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;05:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Montag&#8221;,</p>
+
+<p>&#8220;order&#8221;:1,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;MO&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;23:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;05:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Freitag&#8221;,</p>
+
+<p>&#8220;order&#8221;:5,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;FR&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;23:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;06:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Samstag&#8221;,</p>
+
+<p>&#8220;order&#8221;:6,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;SA&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;22:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;06:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Sonntag&#8221;,</p>
+
+<p>&#8220;order&#8221;:7,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;SO&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;22:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;05:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Mittwoch&#8221;,</p>
+
+<p>&#8220;order&#8221;:3,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;MI&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;23:00&#8243;</p>
+
+<p>},</p>
+
+<p>{</p>
+
+<p>&#8220;beginn&#8221;:&#8221;05:00&#8243;,</p>
+
+<p>&#8220;day&#8221;:{</p>
+
+<p>&#8220;dayLabel&#8221;:&#8221;Donnerstag&#8221;,</p>
+
+<p>&#8220;order&#8221;:4,</p>
+
+<p>&#8220;errorItems&#8221;:[</p>
+
+<p>],</p>
+
+<p>&#8220;errorCode&#8221;:0,</p>
+
+<p>&#8220;day&#8221;:&#8221;DO&#8221;</p>
+
+<p>},</p>
+
+<p>&#8220;end&#8221;:&#8221;23:00&#8243;</p>
+
+<p>}</p>
+
+<p>],</p>
+
+<p>&#8220;access&#8221;:&#8221;&#8221;,</p>
+
+<p>&#8220;url&#8221;:&#8221;&#8221;,</p>
+
+<p>&#8220;serviceText&#8221;:&#8221;ShoprnBistrornWaschanlagernSB-LanzenwäschernDiesel-Schnellläuferrn&#8221;,</p>
+
+<p>&#8220;maestro&#8221;:true,</p>
+
+<p>&#8220;companionship&#8221;:false,</p>
+
+<p>&#8220;address&#8221;:&#8221;Conrad.-v.Hötzendorfstr. 135 &#8220;,</p>
+
+<p>&#8220;club&#8221;:false,</p>
+
+<p>&#8220;errorCode&#8221;:1,</p>
+
+<p>&#8220;service&#8221;:false,</p>
+
+<p>&#8220;latitude&#8221;:&#8221;47.0510643&#8243;,</p>
+
+<p>&#8220;bar&#8221;:true,</p>
+
+<p>&#8220;telephone&#8221;:&#8221;43316475152&#8243;,</p>
+
+<p>&#8220;gasStationInternalId&#8221;:&#8221;CvH&#8221;</p>
+
+<p>}</p>
+
+<p>]</p>
+
+<p>[/code]</p>
+
+<p>Einen Parser für diesen JSON String zu schreiben, dürfte nicht allzu schwer sein. 🙂 Das war auch schon alles um eine App für spritpreisrechner.at entwicklen zu können. Eigentlich ziemlich einfach. Was meint ihr? Freu mich auf Kommentare und Anregungen!</p>
+
+  </div>
+  
+
+<div class="post--navigation post--navigation-single">
+    
+    <a href="/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/" class="post--navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Videos of Google IO 2011 – Android Tracks of Day Two</span>
+    </a>
+    
+    
+    <a href="/2011/11/machine-learning-is-awesome/" class="post--navigation-next">
+      <span class="navigation-tittle">Machine Learning is awesome</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
+  integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
+  crossorigin="anonymous">
+</script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>
