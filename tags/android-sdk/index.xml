@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android Sdk on { - }</title>
+    <title>Android Sdk on muehlburger</title>
     <link>https://muehlburger.github.io/tags/android-sdk/</link>
-    <description>Recent content in Android Sdk on { - }</description>
+    <description>Recent content in Android Sdk on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 12 Mar 2011 18:19:18 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/android-sdk/index.xml" rel="self" type="application/rss+xml" />

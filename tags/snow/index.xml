@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snow on { - }</title>
+    <title>Snow on muehlburger</title>
     <link>https://muehlburger.github.io/tags/snow/</link>
-    <description>Recent content in Snow on { - }</description>
+    <description>Recent content in Snow on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 31 Dec 2009 10:48:31 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/snow/index.xml" rel="self" type="application/rss+xml" />

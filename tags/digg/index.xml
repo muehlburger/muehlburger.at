@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digg on { - }</title>
+    <title>Digg on muehlburger</title>
     <link>https://muehlburger.github.io/tags/digg/</link>
-    <description>Recent content in Digg on { - }</description>
+    <description>Recent content in Digg on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 18 Mar 2007 18:01:26 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/digg/index.xml" rel="self" type="application/rss+xml" />

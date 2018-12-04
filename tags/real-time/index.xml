@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Real Time on { - }</title>
+    <title>Real Time on muehlburger</title>
     <link>https://muehlburger.github.io/tags/real-time/</link>
-    <description>Recent content in Real Time on { - }</description>
+    <description>Recent content in Real Time on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 09 Sep 2010 17:00:14 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/real-time/index.xml" rel="self" type="application/rss+xml" />

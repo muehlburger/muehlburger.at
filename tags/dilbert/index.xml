@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dilbert on { - }</title>
+    <title>Dilbert on muehlburger</title>
     <link>https://muehlburger.github.io/tags/dilbert/</link>
-    <description>Recent content in Dilbert on { - }</description>
+    <description>Recent content in Dilbert on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 09 Jan 2011 13:19:33 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/dilbert/index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ssl on { - }</title>
+    <title>Ssl on muehlburger</title>
     <link>https://muehlburger.github.io/tags/ssl/</link>
-    <description>Recent content in Ssl on { - }</description>
+    <description>Recent content in Ssl on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 05 Jan 2014 15:35:26 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/ssl/index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nosql Summer on { - }</title>
+    <title>Nosql Summer on muehlburger</title>
     <link>https://muehlburger.github.io/categories/nosql-summer/</link>
-    <description>Recent content in Nosql Summer on { - }</description>
+    <description>Recent content in Nosql Summer on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 21 Jul 2010 19:27:07 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/categories/nosql-summer/index.xml" rel="self" type="application/rss+xml" />

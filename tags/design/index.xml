@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design on { - }</title>
+    <title>Design on muehlburger</title>
     <link>https://muehlburger.github.io/tags/design/</link>
-    <description>Recent content in Design on { - }</description>
+    <description>Recent content in Design on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 23 Feb 2009 08:47:52 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />

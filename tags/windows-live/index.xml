@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Windows Live on { - }</title>
+    <title>Windows Live on muehlburger</title>
     <link>https://muehlburger.github.io/tags/windows-live/</link>
-    <description>Recent content in Windows Live on { - }</description>
+    <description>Recent content in Windows Live on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 23 Nov 2009 06:37:06 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/windows-live/index.xml" rel="self" type="application/rss+xml" />

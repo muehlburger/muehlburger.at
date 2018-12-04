@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on { - }</title>
+    <title>Tags on muehlburger</title>
     <link>https://muehlburger.github.io/tags/</link>
-    <description>Recent content in Tags on { - }</description>
+    <description>Recent content in Tags on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 19 Jan 2018 10:26:44 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -2263,10 +2263,10 @@
     
     <item>
       <title>Google I/O</title>
-      <link>https://muehlburger.github.io/tags/google-i/o/</link>
+      <link>https://muehlburger.github.io/tags/google-i-o/</link>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
       
-      <guid>https://muehlburger.github.io/tags/google-i/o/</guid>
+      <guid>https://muehlburger.github.io/tags/google-i-o/</guid>
       <description></description>
     </item>
     

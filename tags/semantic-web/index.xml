@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semantic Web on { - }</title>
+    <title>Semantic Web on muehlburger</title>
     <link>https://muehlburger.github.io/tags/semantic-web/</link>
-    <description>Recent content in Semantic Web on { - }</description>
+    <description>Recent content in Semantic Web on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 10 May 2010 20:14:44 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/semantic-web/index.xml" rel="self" type="application/rss+xml" />

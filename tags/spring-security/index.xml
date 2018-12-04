@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring Security on { - }</title>
+    <title>Spring Security on muehlburger</title>
     <link>https://muehlburger.github.io/tags/spring-security/</link>
-    <description>Recent content in Spring Security on { - }</description>
+    <description>Recent content in Spring Security on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 20 Jan 2017 12:54:40 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/spring-security/index.xml" rel="self" type="application/rss+xml" />

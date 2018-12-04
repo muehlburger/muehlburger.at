@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android Developers on { - }</title>
+    <title>Android Developers on muehlburger</title>
     <link>https://muehlburger.github.io/tags/android-developers/</link>
-    <description>Recent content in Android Developers on { - }</description>
+    <description>Recent content in Android Developers on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 11 May 2011 17:09:56 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/android-developers/index.xml" rel="self" type="application/rss+xml" />

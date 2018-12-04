@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordpress Upgrade on { - }</title>
+    <title>Wordpress Upgrade on muehlburger</title>
     <link>https://muehlburger.github.io/tags/wordpress-upgrade/</link>
-    <description>Recent content in Wordpress Upgrade on { - }</description>
+    <description>Recent content in Wordpress Upgrade on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 28 Dec 2009 22:30:35 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/wordpress-upgrade/index.xml" rel="self" type="application/rss+xml" />

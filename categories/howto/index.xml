@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Howto on { - }</title>
+    <title>Howto on muehlburger</title>
     <link>https://muehlburger.github.io/categories/howto/</link>
-    <description>Recent content in Howto on { - }</description>
+    <description>Recent content in Howto on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 31 Mar 2016 08:27:56 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/categories/howto/index.xml" rel="self" type="application/rss+xml" />

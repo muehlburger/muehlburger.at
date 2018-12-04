@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>East Germany on { - }</title>
+    <title>East Germany on muehlburger</title>
     <link>https://muehlburger.github.io/tags/east-germany/</link>
-    <description>Recent content in East Germany on { - }</description>
+    <description>Recent content in East Germany on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 05 Apr 2007 21:18:32 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/east-germany/index.xml" rel="self" type="application/rss+xml" />

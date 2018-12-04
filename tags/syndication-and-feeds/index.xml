@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syndication and Feeds on { - }</title>
+    <title>Syndication and Feeds on muehlburger</title>
     <link>https://muehlburger.github.io/tags/syndication-and-feeds/</link>
-    <description>Recent content in Syndication and Feeds on { - }</description>
+    <description>Recent content in Syndication and Feeds on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 22 Jan 2009 12:17:23 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/syndication-and-feeds/index.xml" rel="self" type="application/rss+xml" />

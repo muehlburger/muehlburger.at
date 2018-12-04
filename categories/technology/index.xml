@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on { - }</title>
+    <title>Technology on muehlburger</title>
     <link>https://muehlburger.github.io/categories/technology/</link>
-    <description>Recent content in Technology on { - }</description>
+    <description>Recent content in Technology on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 13 Feb 2018 14:34:38 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Mon, 29 Jan 2018 15:34:05 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2018/01/what-are-serverless-architectures/</guid>
-      <description>For those who want to understand &amp;ldquo;Serverless architectures&amp;rdquo;, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
+      <description>For those who want to understand &amp;#8220;Serverless architectures&amp;#8221;, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
 Mike Roberts&amp;#8217; Definition of Serverless No management of server hosts or server processes You as a developer don&amp;#8217;t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
     </item>
     
@@ -47,7 +47,7 @@ Mike Roberts&amp;#8217; Definition of Serverless No management of server hosts o
       
       <guid>https://muehlburger.github.io/2017/02/blockchain-101/</guid>
       <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
-  (via anders.com and anders.com/blockchain)</description>
+(via anders.com and anders.com/blockchain)</description>
     </item>
     
     <item>

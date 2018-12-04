@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Warehousing on { - }</title>
+    <title>Data Warehousing on muehlburger</title>
     <link>https://muehlburger.github.io/tags/data-warehousing/</link>
-    <description>Recent content in Data Warehousing on { - }</description>
+    <description>Recent content in Data Warehousing on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 12 Nov 2009 08:07:33 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />

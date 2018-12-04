@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artificial Intelligence on { - }</title>
+    <title>Artificial Intelligence on muehlburger</title>
     <link>https://muehlburger.github.io/tags/artificial-intelligence/</link>
-    <description>Recent content in Artificial Intelligence on { - }</description>
+    <description>Recent content in Artificial Intelligence on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 16 Nov 2011 11:04:20 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />

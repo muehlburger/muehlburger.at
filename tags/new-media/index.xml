@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Media on { - }</title>
+    <title>New Media on muehlburger</title>
     <link>https://muehlburger.github.io/tags/new-media/</link>
-    <description>Recent content in New Media on { - }</description>
+    <description>Recent content in New Media on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 05 Nov 2008 11:11:56 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/new-media/index.xml" rel="self" type="application/rss+xml" />

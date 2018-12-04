@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Google Talk on { - }</title>
+    <title>Google Talk on muehlburger</title>
     <link>https://muehlburger.github.io/tags/google-talk/</link>
-    <description>Recent content in Google Talk on { - }</description>
+    <description>Recent content in Google Talk on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 05 Feb 2009 09:59:01 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/google-talk/index.xml" rel="self" type="application/rss+xml" />

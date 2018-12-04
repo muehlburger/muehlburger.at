@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter on { - }</title>
+    <title>Twitter on muehlburger</title>
     <link>https://muehlburger.github.io/tags/twitter/</link>
-    <description>Recent content in Twitter on { - }</description>
+    <description>Recent content in Twitter on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 06 May 2011 17:36:10 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/twitter/index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Netzlogbuch on { - }</title>
+    <title>Netzlogbuch on muehlburger</title>
     <link>https://muehlburger.github.io/tags/netzlogbuch/</link>
-    <description>Recent content in Netzlogbuch on { - }</description>
+    <description>Recent content in Netzlogbuch on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 13 Nov 2008 19:40:45 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/netzlogbuch/index.xml" rel="self" type="application/rss+xml" />

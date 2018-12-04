@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Networks on { - }</title>
+    <title>Social Networks on muehlburger</title>
     <link>https://muehlburger.github.io/tags/social-networks/</link>
-    <description>Recent content in Social Networks on { - }</description>
+    <description>Recent content in Social Networks on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 15 Nov 2009 19:18:41 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nexus One on { - }</title>
+    <title>Nexus One on muehlburger</title>
     <link>https://muehlburger.github.io/tags/nexus-one/</link>
-    <description>Recent content in Nexus One on { - }</description>
+    <description>Recent content in Nexus One on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 15 Jun 2007 17:42:48 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/nexus-one/index.xml" rel="self" type="application/rss+xml" />

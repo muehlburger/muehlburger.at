@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Science on { - }</title>
+    <title>Computer Science on muehlburger</title>
     <link>https://muehlburger.github.io/tags/computer-science/</link>
-    <description>Recent content in Computer Science on { - }</description>
+    <description>Recent content in Computer Science on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 02 May 2011 17:49:38 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />

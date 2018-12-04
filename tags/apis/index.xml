@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apis on { - }</title>
+    <title>Apis on muehlburger</title>
     <link>https://muehlburger.github.io/tags/apis/</link>
-    <description>Recent content in Apis on { - }</description>
+    <description>Recent content in Apis on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 16 Apr 2015 13:10:16 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/apis/index.xml" rel="self" type="application/rss+xml" />

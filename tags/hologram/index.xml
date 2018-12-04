@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hologram on { - }</title>
+    <title>Hologram on muehlburger</title>
     <link>https://muehlburger.github.io/tags/hologram/</link>
-    <description>Recent content in Hologram on { - }</description>
+    <description>Recent content in Hologram on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 05 Nov 2008 11:11:56 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/hologram/index.xml" rel="self" type="application/rss+xml" />

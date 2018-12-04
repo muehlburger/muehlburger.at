@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web2.0 on { - }</title>
+    <title>Web2.0 on muehlburger</title>
     <link>https://muehlburger.github.io/tags/web2.0/</link>
-    <description>Recent content in Web2.0 on { - }</description>
+    <description>Recent content in Web2.0 on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 07 May 2009 09:28:12 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/web2.0/index.xml" rel="self" type="application/rss+xml" />
