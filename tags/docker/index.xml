@@ -6,7 +6,7 @@
     <description>Recent content in Docker on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 14:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The Evolution of Microservices</title>
       <link>https://muehlburger.github.io/2018/02/the-evolution-of-microservices/</link>
-      <pubDate>Tue, 13 Feb 2018 14:34:38 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2018/02/the-evolution-of-microservices/</guid>
       <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.

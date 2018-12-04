@@ -6,7 +6,7 @@
     <description>Recent content in Posts on muehlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 14:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://muehlburger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The Evolution of Microservices</title>
       <link>https://muehlburger.github.io/2018/02/the-evolution-of-microservices/</link>
-      <pubDate>Tue, 13 Feb 2018 14:34:38 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2018/02/the-evolution-of-microservices/</guid>
       <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
@@ -43,10 +43,11 @@ Mike Roberts&amp;#8217; Definition of Serverless No management of server hosts o
     <item>
       <title>A Channel Compendium by John Graham-Cumming</title>
       <link>https://muehlburger.github.io/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
-      <pubDate>Tue, 26 Dec 2017 22:02:34 +0000</pubDate>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.</description>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+  </description>
     </item>
     
     <item>
@@ -1719,7 +1720,7 @@ Wo YouTube, Flickr, last.fm, Wikipedia, StudiVZ, SchuelerVZ, Facebook, … Benut
     <item>
       <title>Flickr goes German – Flickr nun auch auf Deutsch verfügbar</title>
       <link>https://muehlburger.github.io/2007/01/flickr-goes-german-flickr-nun-auch-auf-deutsch-verfugbar/</link>
-      <pubDate>Fri, 12 Jan 2007 16:08:32 +0000</pubDate>
+      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
       
       <guid>https://muehlburger.github.io/2007/01/flickr-goes-german-flickr-nun-auch-auf-deutsch-verfugbar/</guid>
       <description>Die bekannte Online Fotocommunity flickr wird nun unter anderem auch auf Deutsch bzw. Chinesisch verfügbar sein.
