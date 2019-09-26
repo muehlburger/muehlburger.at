@@ -5,25 +5,43 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="author" content="Herbert Mühlburger">
-    <meta name="description" content="Herbert Mühlburger&#39;s personal website">
-    <meta name="keywords" content="blog,developer,personal">
+    <meta name="author" content="DI Herbert Mühlburger">
+    <meta name="description" content="Experienced Technology Architect and Senior Software Engineer.">
+    <meta name="keywords" content="Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer">
 
-    <base href="https://muehlburger.github.io">
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="What means Serverless?"/>
+<meta name="twitter:description" content="For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
+Mike Roberts - Definition of Serverless   No management of server hosts or server processes You as a developer don&#8217;t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc."/>
+
+    <meta property="og:title" content="What means Serverless?" />
+<meta property="og:description" content="For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
+Mike Roberts - Definition of Serverless   No management of server hosts or server processes You as a developer don&#8217;t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/" />
+<meta property="article:published_time" content="2018-01-29T15:34:05+00:00" />
+<meta property="article:modified_time" content="2018-01-29T15:34:05+00:00" />
+
+
+    
+      <base href="https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/">
+    
     <title>
-  What means Serverless? · muehlburger
+  What means Serverless? · DI Herbert Mühlburger
 </title>
 
-    <link rel="canonical" href="https://muehlburger.github.io/2018/01/what-are-serverless-architectures/">
+    
+      <link rel="canonical" href="https://blog.muehlburger.at/2018/01/what-are-serverless-architectures/">
+    
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous" />
 
     
       
       
-      <link rel="stylesheet" href="https://muehlburger.github.io/css/coder.min.cd087ace86754b082dec94545567f8361cba42e84f8e15edbc4a9f6e52bd1f6a.css" integrity="sha256-zQh6zoZ1Swgt7JRUVWf4Nhy6QuhPjhXtvEqfblK9H2o=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="https://blog.muehlburger.at/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -31,23 +49,19 @@
     
 
     
-      <link rel="stylesheet" href="https://muehlburger.github.io/css/custom.css">
-    
 
-    <link rel="icon" type="image/png" href="https://muehlburger.github.io/img/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="https://muehlburger.github.io/img/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://blog.muehlburger.at/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://blog.muehlburger.at/images/favicon-16x16.png" sizes="16x16">
 
-    
-
-    <meta name="generator" content="Hugo 0.52" />
+    <meta name="generator" content="Hugo 0.58.3" />
   </head>
 
   <body class=" ">
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="https://muehlburger.github.io">
-      muehlburger
+    <a class="navigation-title" href="https://blog.muehlburger.at">
+      DI Herbert Mühlburger
     </a>
     <input type="checkbox" id="menu-toggle" />
     <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
@@ -55,14 +69,32 @@
       
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://muehlburger.github.io/posts">Blog</a>
+            <a class="navigation-link" href="https://blog.muehlburger.at/posts/">Blog</a>
           </li>
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://muehlburger.github.io/about/">About me</a>
+            <a class="navigation-link" href="https://blog.muehlburger.at/about/">About</a>
           </li>
         
       
+      
+        
+        
+        
+          
+            
+              <li class="navigation-item menu-separator">
+                <span>|</span>
+              </li>
+              
+            
+            <li class="navigation-item">
+              <a href="https://blog.muehlburger.at/de/">Deutsch</a>
+            </li>
+          
+        
+          
+        
       
     </ul>
   </section>
@@ -92,19 +124,19 @@
           </div>
           <div class="categories">
   <i class="fas fa-folder"></i>
-    <a href="https://muehlburger.github.io/categories/serverless/">Serverless</a>
+    <a href="https://blog.muehlburger.at/categories/serverless/">Serverless</a>
       <span class="separator">•</span>
-    <a href="https://muehlburger.github.io/categories/technology/">Technology</a></div>
+    <a href="https://blog.muehlburger.at/categories/technology/">Technology</a></div>
 
           <div class="tags">
   <i class="fas fa-tag"></i>
-    <a href="https://muehlburger.github.io/tags/baas/">BaaS</a>
+    <a href="https://blog.muehlburger.at/tags/baas/">BaaS</a>
       <span class="separator">•</span>
-    <a href="https://muehlburger.github.io/tags/faas/">FaaS</a>
+    <a href="https://blog.muehlburger.at/tags/faas/">FaaS</a>
       <span class="separator">•</span>
-    <a href="https://muehlburger.github.io/tags/paas/">PaaS</a>
+    <a href="https://blog.muehlburger.at/tags/paas/">PaaS</a>
       <span class="separator">•</span>
-    <a href="https://muehlburger.github.io/tags/serverless/">Serverless</a></div>
+    <a href="https://blog.muehlburger.at/tags/serverless/">Serverless</a></div>
 
         </div>
       </header>
@@ -112,9 +144,15 @@
       <div>
         
 
-<p>For those who want to understand &#8220;Serverless architectures&#8221;, I recommend reading <a href="https://martinfowler.com/articles/serverless.html" target="_blank" rel="noopener">this post</a> by <a href="https://twitter.com/mikebroberts" target="_blank" rel="noopener">Mike Roberts</a>. The term Serverless was already used <a href="https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/" target="_blank" rel="noopener">in 2012</a>. Mike defines the following characteristics of serverless architectures:</p>
+<p>For those who want to understand <strong>Serverless architectures</strong>, I recommend reading <a href="https://martinfowler.com/articles/serverless.html">this post</a> by <a href="https://twitter.com/mikebroberts">Mike Roberts</a>. The term Serverless was already used <a href="https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/">in 2012</a>. Mike defines the following characteristics of serverless architectures:</p>
 
-<h3 id="mike-roberts-8217-definition-of-serverless">Mike Roberts&#8217; Definition of Serverless</h3>
+<h3 id="mike-roberts-definition-of-serverless">Mike Roberts - Definition of Serverless</h3>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/i_U_S5Eboy0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 
 <h4 id="no-management-of-server-hosts-or-server-processes">No management of server hosts or server processes</h4>
 
@@ -173,6 +211,9 @@
 
       <footer>
         
+
+
+        
       </footer>
     </article>
 
@@ -184,17 +225,12 @@
       <footer class="footer">
   <section class="container">
     
-      <p>blog.muehlburger.at</p>
+     © 2019
     
-     © 2018
-    
-       · 
-      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
-    
+    · <a href="https://blog.muehlburger.at/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
     
   </section>
 </footer>
-
     </main>
 
     
