@@ -68,21 +68,6 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/kubernetes/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.muehlburger.at/tags/kubernetes/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.muehlburger.at/categories/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -94,6 +79,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.muehlburger.at/categories/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.muehlburger.at/tags/kubernetes/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://blog.muehlburger.at/de/tags/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.muehlburger.at/tags/kubernetes/"
                 />
   </url>
   
@@ -203,12 +203,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/programming/</loc>
+    <loc>https://blog.muehlburger.at/tags/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/programming/</loc>
+    <loc>https://blog.muehlburger.at/categories/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
@@ -478,12 +478,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/art/</loc>
+    <loc>https://blog.muehlburger.at/categories/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/art/</loc>
+    <loc>https://blog.muehlburger.at/tags/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
@@ -798,12 +798,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-models/</loc>
+    <loc>https://blog.muehlburger.at/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/business-models/</loc>
+    <loc>https://blog.muehlburger.at/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
@@ -973,12 +973,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/pentaho/</loc>
+    <loc>https://blog.muehlburger.at/categories/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/pentaho/</loc>
+    <loc>https://blog.muehlburger.at/tags/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -1158,12 +1158,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/machine-learning/</loc>
+    <loc>https://blog.muehlburger.at/tags/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/machine-learning/</loc>
+    <loc>https://blog.muehlburger.at/categories/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
@@ -1323,12 +1323,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/ios/</loc>
+    <loc>https://blog.muehlburger.at/tags/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/ios/</loc>
+    <loc>https://blog.muehlburger.at/categories/ios/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
@@ -1358,12 +1358,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/visualization/</loc>
+    <loc>https://blog.muehlburger.at/categories/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/visualization/</loc>
+    <loc>https://blog.muehlburger.at/tags/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
@@ -1403,12 +1403,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/testing/</loc>
+    <loc>https://blog.muehlburger.at/categories/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/testing/</loc>
+    <loc>https://blog.muehlburger.at/tags/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
