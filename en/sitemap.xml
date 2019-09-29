@@ -38,21 +38,6 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/istio/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.muehlburger.at/de/tags/istio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.muehlburger.at/tags/istio/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.muehlburger.at/categories/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -64,6 +49,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.muehlburger.at/categories/istio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.muehlburger.at/tags/istio/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://blog.muehlburger.at/de/tags/istio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.muehlburger.at/tags/istio/"
                 />
   </url>
   
@@ -203,12 +203,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/programming/</loc>
+    <loc>https://blog.muehlburger.at/categories/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/programming/</loc>
+    <loc>https://blog.muehlburger.at/tags/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
@@ -278,12 +278,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/serverless/</loc>
+    <loc>https://blog.muehlburger.at/tags/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/serverless/</loc>
+    <loc>https://blog.muehlburger.at/categories/serverless/</loc>
     <lastmod>2018-01-29T15:34:05+00:00</lastmod>
   </url>
   
@@ -563,12 +563,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/salesforce/</loc>
+    <loc>https://blog.muehlburger.at/categories/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/salesforce/</loc>
+    <loc>https://blog.muehlburger.at/tags/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
@@ -758,12 +758,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/networks/</loc>
+    <loc>https://blog.muehlburger.at/tags/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/networks/</loc>
+    <loc>https://blog.muehlburger.at/categories/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
@@ -798,12 +798,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-models/</loc>
+    <loc>https://blog.muehlburger.at/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/business-models/</loc>
+    <loc>https://blog.muehlburger.at/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
@@ -938,12 +938,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/business-intelligence/</loc>
+    <loc>https://blog.muehlburger.at/tags/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/business-intelligence/</loc>
+    <loc>https://blog.muehlburger.at/categories/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -1158,12 +1158,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/machine-learning/</loc>
+    <loc>https://blog.muehlburger.at/categories/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/machine-learning/</loc>
+    <loc>https://blog.muehlburger.at/tags/machine-learning/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   
@@ -1358,12 +1358,12 @@
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/categories/visualization/</loc>
+    <loc>https://blog.muehlburger.at/tags/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.muehlburger.at/tags/visualization/</loc>
+    <loc>https://blog.muehlburger.at/categories/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
