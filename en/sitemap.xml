@@ -78,21 +78,6 @@
   </url>
   
   <url>
-    <loc>/categories/kubernetes/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/kubernetes/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -104,6 +89,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/kubernetes/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/kubernetes/"
                 />
   </url>
   
@@ -213,12 +213,12 @@
   </url>
   
   <url>
-    <loc>/tags/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2018-12-26T16:32:23+01:00</lastmod>
   </url>
   
@@ -488,12 +488,12 @@
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
+    <loc>/tags/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
+    <loc>/categories/art/</loc>
     <lastmod>2016-05-01T09:10:11+00:00</lastmod>
   </url>
   
@@ -573,12 +573,12 @@
   </url>
   
   <url>
-    <loc>/tags/salesforce/</loc>
+    <loc>/categories/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/salesforce/</loc>
+    <loc>/tags/salesforce/</loc>
     <lastmod>2015-11-01T11:59:44+00:00</lastmod>
   </url>
   
@@ -808,12 +808,12 @@
   </url>
   
   <url>
-    <loc>/categories/business-models/</loc>
+    <loc>/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/business-models/</loc>
+    <loc>/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
@@ -948,12 +948,12 @@
   </url>
   
   <url>
-    <loc>/categories/business-intelligence/</loc>
+    <loc>/tags/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/business-intelligence/</loc>
+    <loc>/categories/business-intelligence/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -968,12 +968,12 @@
   </url>
   
   <url>
-    <loc>/categories/kettle/</loc>
+    <loc>/tags/kettle/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kettle/</loc>
+    <loc>/categories/kettle/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -1368,12 +1368,12 @@
   </url>
   
   <url>
-    <loc>/tags/visualization/</loc>
+    <loc>/categories/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/visualization/</loc>
+    <loc>/tags/visualization/</loc>
     <lastmod>2011-05-02T17:49:38+00:00</lastmod>
   </url>
   
@@ -1413,12 +1413,12 @@
   </url>
   
   <url>
-    <loc>/categories/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/testing/</loc>
+    <loc>/categories/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
@@ -1958,12 +1958,12 @@
   </url>
   
   <url>
-    <loc>/categories/nosql-summer/</loc>
+    <loc>/tags/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nosql-summer/</loc>
+    <loc>/categories/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
