@@ -6,10 +6,28 @@
     <description>Recent content in Categories on DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>phd</title>
+      <link>/categories/phd/</link>
+      <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
+      
+      <guid>/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/categories/research/</link>
+      <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>istio</title>

@@ -6,10 +6,20 @@
     <description>Recent content in Posts on DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to read research papers</title>
+      <link>/posts/how-to-read-research-papers/</link>
+      <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
+      
+      <guid>/posts/how-to-read-research-papers/</guid>
+      <description>Reading research papers can be time consuming and therefore I looked for strategies to optimize reading research papers. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from Andrew Ng, an Adjunct Professor at Stanford University.
+  Here are my notes on how to read research papers:  Read 5-20 papers to get a basic understanding of a field Read 50 - 100 papers and you have a very good understanding  Steps to read understand a field Andrew proposes the following three steps to understand a field better:</description>
+    </item>
     
     <item>
       <title>Istio</title>
