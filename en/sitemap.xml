@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/tags/phd/</loc>
+    <loc>/categories/phd/</loc>
     <lastmod>2019-11-14T14:55:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/phd/</loc>
+    <loc>/tags/phd/</loc>
     <lastmod>2019-11-14T14:55:26+01:00</lastmod>
   </url>
   
@@ -138,21 +138,6 @@
   </url>
   
   <url>
-    <loc>/tags/kubernetes/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/kubernetes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/kubernetes/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -164,6 +149,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/kubernetes/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/kubernetes/"
                 />
   </url>
   
@@ -798,12 +798,12 @@
   </url>
   
   <url>
-    <loc>/tags/networks/</loc>
+    <loc>/categories/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/networks/</loc>
+    <loc>/tags/networks/</loc>
     <lastmod>2014-07-21T11:23:47+00:00</lastmod>
   </url>
   
@@ -838,12 +838,12 @@
   </url>
   
   <url>
-    <loc>/tags/business-models/</loc>
+    <loc>/categories/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/business-models/</loc>
+    <loc>/tags/business-models/</loc>
     <lastmod>2014-04-14T15:48:20+00:00</lastmod>
   </url>
   
@@ -1013,12 +1013,12 @@
   </url>
   
   <url>
-    <loc>/tags/pentaho/</loc>
+    <loc>/categories/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/pentaho/</loc>
+    <loc>/tags/pentaho/</loc>
     <lastmod>2013-07-23T07:48:40+00:00</lastmod>
   </url>
   
@@ -1443,12 +1443,12 @@
   </url>
   
   <url>
-    <loc>/tags/testing/</loc>
+    <loc>/categories/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/testing/</loc>
+    <loc>/tags/testing/</loc>
     <lastmod>2011-04-19T12:55:52+00:00</lastmod>
   </url>
   
@@ -1988,12 +1988,12 @@
   </url>
   
   <url>
-    <loc>/categories/nosql-summer/</loc>
+    <loc>/tags/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nosql-summer/</loc>
+    <loc>/categories/nosql-summer/</loc>
     <lastmod>2010-07-21T19:27:07+00:00</lastmod>
   </url>
   
