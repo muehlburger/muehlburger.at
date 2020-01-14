@@ -11,14 +11,20 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Problems with WordPress Automatic Upgrade solved"/>
-<meta name="twitter:description" content="Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:
- Downloading update from http://wordpress.org/wordpress-2.9.1.zip.
-Download failed.: Operation timed out with 1201840 out of -1 bytes received"/>
+<meta name="twitter:description" content="&lt;dd class=&quot;wp-caption-dd zemanta-img-attribution&quot;&gt; Image via &lt;a href=&quot;http://www.crunchbase.com&quot;&gt;CrunchBase&lt;/a&gt; &lt;/dd&gt; &lt;/dl&gt;  While trying to upgrade my WordPressinstallation from version 2.9 to version 2.9.1 I always got the following error:
+ _Downloading update from http://wordpress.org/wordpress-2.9.1.zip._
+  Download failed.: Operation timed out with 1201840 out of -1 bytes received
+  Installation Failed
+ After doing some research using Google I found a solution to that problem:
+You just need to edit the following file in order to increase the download timeout:"/>
 
     <meta property="og:title" content="Problems with WordPress Automatic Upgrade solved" />
-<meta property="og:description" content="Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:
- Downloading update from http://wordpress.org/wordpress-2.9.1.zip.
-Download failed.: Operation timed out with 1201840 out of -1 bytes received" />
+<meta property="og:description" content="&lt;dd class=&quot;wp-caption-dd zemanta-img-attribution&quot;&gt; Image via &lt;a href=&quot;http://www.crunchbase.com&quot;&gt;CrunchBase&lt;/a&gt; &lt;/dd&gt; &lt;/dl&gt;  While trying to upgrade my WordPressinstallation from version 2.9 to version 2.9.1 I always got the following error:
+ _Downloading update from http://wordpress.org/wordpress-2.9.1.zip._
+  Download failed.: Operation timed out with 1201840 out of -1 bytes received
+  Installation Failed
+ After doing some research using Google I found a solution to that problem:
+You just need to edit the following file in order to increase the download timeout:" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/2010/01/problems-with-wordpress-automatic-upgrade-solved/" />
 <meta property="article:published_time" content="2010-01-08T16:32:13+00:00" />
@@ -63,7 +69,7 @@ Download failed.: Operation timed out with 1201840 out of -1 bytes received" />
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
   </head>
 
   
@@ -121,85 +127,36 @@ Download failed.: Operation timed out with 1201840 out of -1 bytes received" />
       <h1>Problems with WordPress Automatic Upgrade solved</h1>
     </header>
 
-    <nav>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#related-articles-by-zemanta-zemanta-related-title">Related articles by Zemanta {.zemanta-related-title}</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
-
-<div class="zemanta-img">
-  <div>
-    <dl class="wp-caption alignright">
-      <dt class="wp-caption-dt">
-        <a href="http://www.crunchbase.com/product/wordpress"><img title="Image representing WordPress as depicted in Cr..." src="http://www.crunchbase.com/assets/images/resized/0001/6548/16548v2-max-250x250.png" alt="Image representing WordPress as depicted in Cr..." /></a>
-      </dt>
-      
-      <dd class="wp-caption-dd zemanta-img-attribution">
-        Image via <a href="http://www.crunchbase.com">CrunchBase</a>
-      </dd>
-    </dl>
-  </div>
-</div>
-
-<p>While trying to upgrade my <a title="Wordpress" href="http://www.wordpress.org" target="_blank">WordPress</a> installation from version 2.9 to version 2.9.1 I always got the following error:</p>
-
+    <!-- raw HTML omitted -->
+<pre><code>  &lt;dd class=&quot;wp-caption-dd zemanta-img-attribution&quot;&gt;
+    Image via &lt;a href=&quot;http://www.crunchbase.com&quot;&gt;CrunchBase&lt;/a&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<p>While trying to upgrade my <!-- raw HTML omitted -->WordPress<!-- raw HTML omitted --> installation from version 2.9 to version 2.9.1 I always got the following error:</p>
 <blockquote>
-<p><em>Downloading update from <a href="http://wordpress.org/wordpress-2.9.1.zip">http://wordpress.org/wordpress-2.9.1.zip</a>.</em></p>
-
+<p>_Downloading update from <a href="http://wordpress.org/wordpress-2.9.1.zip._">http://wordpress.org/wordpress-2.9.1.zip._</a></p>
+</blockquote>
+<blockquote>
 <p>Download failed.: Operation timed out with 1201840 out of -1 bytes received</p>
-
+</blockquote>
+<blockquote>
 <p>Installation Failed</p>
 </blockquote>
-
-<p>After doing some research using <a title="Google" href="http://www.google.com" target="_blank">Google </a>I found a solution to that problem:</p>
-
+<p>After doing some research using <!-- raw HTML omitted -->Google <!-- raw HTML omitted -->I found a solution to that problem:</p>
 <p>You just need to edit the following file in order to increase the download timeout:</p>
-
-<pre class="brush: php">/wp-admin/includes/file.php</pre>
-
+<!-- raw HTML omitted -->
 <p>Near line 461 of file.php change the timeout value from:</p>
-
-<pre class="brush: php">$response = wp_remote_get($url, array('timeout' =&gt; 60));</pre>
-
+<!-- raw HTML omitted -->
 <p>to the new value of 120:</p>
-
-<pre class="brush: php">$response = wp_remote_get($url, array('timeout' =&gt; 120));</pre>
-
+<!-- raw HTML omitted -->
 <p>Then try again to upgrade your wordpress installation using the automatic upgrade and it should work properly now. Mine did and I am happy again! 🙂</p>
-
 <p>Cheers and have fun, and leave me a comment if this post was useful for you!</p>
-
 <p>Herbert</p>
-
-<h6 id="related-articles-by-zemanta-zemanta-related-title">Related articles by Zemanta {.zemanta-related-title}</h6>
-
-<ul class="zemanta-article-ul">
-  <li class="zemanta-article-ul-li">
-    13 WordPress Plug-in & Hacks for powering your Blogging Experience (franklinbishop.net)
-  </li>
-  <li class="zemanta-article-ul-li">
-    <a href="http://www.makeuseof.com/tag/wordpress-exploit-scanner-helps-administrators-scan-their-database-for-malicious-files/">WordPress Exploit Scanner Helps Administrators Scan Their Database For Malicious Files</a> (makeuseof.com)
-  </li>
-</ul>
-
-<div class="zemanta-pixie">
-  <a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b43f9d31-c9ac-44bc-b735-45429630585f/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=b43f9d31-c9ac-44bc-b735-45429630585f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"></span>
-</div>
+<h6 class="zemanta-related-title" id="related-articles-by-zemanta-">Related articles by Zemanta</h6>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
   </article>
 </section>
@@ -210,7 +167,7 @@ Download failed.: Operation timed out with 1201840 out of -1 bytes received" />
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
      © 2020
     

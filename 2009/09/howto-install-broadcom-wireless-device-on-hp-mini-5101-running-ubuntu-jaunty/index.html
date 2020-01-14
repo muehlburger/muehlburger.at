@@ -11,10 +11,12 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty"/>
-<meta name="twitter:description" content="Related articles by Zemanta {.zemanta-related-title}           Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c)."/>
+<meta name="twitter:description" content="Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
+After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues."/>
 
     <meta property="og:title" content="How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty" />
-<meta property="og:description" content="Related articles by Zemanta {.zemanta-related-title}           Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c)." />
+<meta property="og:description" content="Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
+After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/" />
 <meta property="article:published_time" content="2009-09-25T17:31:37+00:00" />
@@ -59,7 +61,7 @@
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
   </head>
 
   
@@ -117,69 +119,22 @@
       <h1>How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty</h1>
     </header>
 
-    <nav>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#related-articles-by-zemanta-zemanta-related-title">Related articles by Zemanta {.zemanta-related-title}</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
-
-<div class="mceTemp mceIEcenter">
-  <dl id="attachment_538" class="wp-caption aligncenter" style="width: 440px;">
-    <dt class="wp-caption-dt">
-      <img class="size-large wp-image-538" title="HP Mini 5101" src="http://178.79.139.40/wp-content/uploads/2009/09/hp-mini-copyright-hp-430x343.jpg" alt="HP Mini 5101" width="430" height="343" />
-    </dt>
-  </dl>
-</div>
-
-<p>Yesterday I received my new <strong><a class="zem_slink" title="Hewlett-Packard" rel="homepage" href="http://www.hp.com">HP</a> Mini 5101</strong> running <a class="zem_slink" title="SUSE Linux Enterprise Desktop" rel="wikipedia" href="http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Desktop">Suse Linux Enterprise Desktop</a> 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed <a title="Ubuntu 9.04" href="http://www.ubuntu.com/" target="_blank">Ubuntu 9.04</a> but there were some problems regarding the wireless chipset (<a class="zem_slink" title="Broadcom" rel="homepage" href="http://www.broadcom.com/">Broadcom</a> 5343) and the <a class="zem_slink" title="Ethernet" rel="wikipedia" href="http://en.wikipedia.org/wiki/Ethernet">Ethernet</a> adapter (Marvel 436c).</p>
-
-<p>After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues. Probably you don&#8217;t have internet connection as I didn&#8217;t have. I had to download the packages on another computer and transfer them via a <a class="zem_slink" title="Universal Serial Bus" rel="wikipedia" href="http://en.wikipedia.org/wiki/Universal_Serial_Bus">USB</a> stick to my <strong>HP Mini 5101</strong>:</p>
-
+    <!-- raw HTML omitted -->
+<p>Yesterday I received my new <strong><!-- raw HTML omitted -->HP<!-- raw HTML omitted --> Mini 5101</strong> running <!-- raw HTML omitted -->Suse Linux Enterprise Desktop<!-- raw HTML omitted --> 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed <!-- raw HTML omitted -->Ubuntu 9.04<!-- raw HTML omitted --> but there were some problems regarding the wireless chipset (<!-- raw HTML omitted -->Broadcom<!-- raw HTML omitted --> 5343) and the <!-- raw HTML omitted -->Ethernet<!-- raw HTML omitted --> adapter (Marvel 436c).</p>
+<p>After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues. Probably you don’t have internet connection as I didn’t have. I had to download the packages on another computer and transfer them via a <!-- raw HTML omitted -->USB<!-- raw HTML omitted --> stick to my <strong>HP Mini 5101</strong>:</p>
 <p>The packages to install are the following:</p>
-
 <ol>
-<li><a title="linux-image-2.6.28-15-generic" href="http://packages.ubuntu.com/jaunty-updates/linux-image-2.6.28-15-generic" target="_blank">linux-image-2.6.28-15-generic</a></li>
-<li><a title="http://packages.ubuntu.com/jaunty-updates/linux-backports-modules-2.6.28-15-generic" href="http://packages.ubuntu.com/jaunty-updates/linux-backports-modules-2.6.28-15-generic" target="_blank">linux-backports-modules-2.6.28-15-generic</a></li>
-<li><a title="linux-backports-modules-jaunty-generic" href="http://packages.ubuntu.com/jaunty-updates/linux-backports-modules-jaunty-generic" target="_blank">linux-backports-modules-jaunty-generic</a></li>
-<li><a title="linux-backports-modules-jaunty" href="http://packages.ubuntu.com/jaunty-updates/linux-backports-modules-jaunty" target="_blank">linux-backports-modules-jaunty</a></li>
-<li><a title="linux-restricted-modules-common" href="http://packages.ubuntu.com/jaunty/misc/linux-restricted-modules-common" target="_blank">linux-restricted-modules-common</a></li>
-<li><a title="linux-restricted-modules-2.6.28-15-generic" href="http://packages.ubuntu.com/jaunty/i386/linux-restricted-modules-2.6.28-15-generic" target="_blank">linux-restricted-modules-2.6.28-15-generic</a></li>
+<li><!-- raw HTML omitted -->linux-image-2.6.28-15-generic<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->linux-backports-modules-2.6.28-15-generic<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->linux-backports-modules-jaunty-generic<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->linux-backports-modules-jaunty<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->linux-restricted-modules-common<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->linux-restricted-modules-2.6.28-15-generic<!-- raw HTML omitted --></li>
 </ol>
-
 <p>After downloading, installing and rebooting my system the proprietary drivers could be activated in <em>System -&gt; Administration -&gt; Hardware Drivers</em> and everything worked fine.</p>
-
-<h6 id="related-articles-by-zemanta-zemanta-related-title">Related articles by Zemanta {.zemanta-related-title}</h6>
-
-<ul class="zemanta-article-ul">
-  <li class="zemanta-article-ul-li">
-    <a href="http://techie-buzz.com/linux-tips/how-to-install-skype-ubnutu.html?utm_source=subscriber&utm_medium=rss&utm_campaign=rss">How to Install Skype in Ubuntu</a> (techie-buzz.com)
-  </li>
-  <li class="zemanta-article-ul-li">
-    <a href="http://www.makeuseof.com/tag/how-to-create-an-ubuntu-installation-usb-on-the-mac/">How To Create An Ubuntu Installation USB On The Mac</a> (makeuseof.com)
-  </li>
-  <li class="zemanta-article-ul-li">
-    <a href="http://maketecheasier.com/install-and-use-ubuntu-netbook-remix/2009/09/22">How to Install and Use Ubuntu Netbook Remix</a> (maketecheasier.com)
-  </li>
-</ul>
-
-<div class="zemanta-pixie">
-  <a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6e2eff7c-cbe3-4151-b337-bbaf7e48b234/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=6e2eff7c-cbe3-4151-b337-bbaf7e48b234" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"></span>
-</div>
+<h6 class="zemanta-related-title" id="related-articles-by-zemanta-">Related articles by Zemanta</h6>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
   </article>
 </section>
@@ -190,7 +145,7 @@
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
      © 2020
     

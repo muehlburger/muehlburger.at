@@ -17,7 +17,7 @@
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+      <description>This video explains the concept of channelsin the Go programming languagevery well. Channels are really useful to synchronize Goroutines.
   </description>
     </item>
     

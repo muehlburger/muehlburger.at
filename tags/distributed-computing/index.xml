@@ -17,7 +17,7 @@
       <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
       
       <guid>/2010/07/nosql-summer-in-graz-kick-off-meeting/</guid>
-      <description>Today was the kick-off meeting of NOSQL Summer here in Graz, Austria.
+      <description>Today was the kick-off meeting of NOSQL Summerhere in Graz, Austria.
  A NOSQL Summer is a network of local reading groups, that will decipher &amp;amp; discuss NOSQL-related articles, from late June to early September 2010. Each group sets its own meeting pace (usually once a week or once every two weeks) and select which papers are up for discussion.
 At every cycle, members read the selected paper at home and then meet up for an hour or so to discuss, debate and answer their own questions.</description>
     </item>
@@ -28,13 +28,12 @@ At every cycle, members read the selected paper at home and then meet up for an 
       <pubDate>Thu, 06 May 2010 19:43:45 +0000</pubDate>
       
       <guid>/2010/05/twitters-use-of-cassandra-pig-and-hbase-for-highly-distributed-data-processing-and-analysis/</guid>
-      <description>Kevin Weil, Analytics Lead at Twitter recently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
+      <description>Kevin Weil, Analytics Lead at Twitterrecently gave a presentation on Twitter’s use of Cassandra, Pig and HBase. Specially interesting is how Twitter uses Hadoop and Pig in their data analysis process.
 [slideshare id=3806196&amp;amp;doc=nosqlattwitter-nosqleu2010-100421124212-phpapp02]
 (via @kevinweil)
-Another great presentation from Tobias Ivarsson gives an overview on NoSQL:
+Another great presentation from Tobias Ivarssongives an overview on NoSQL:
 [slideshare id=3735857&amp;amp;doc=nosqlfordummies-100415085745-phpapp01]
-(via @thobe)
-  </description>
+(via @thobe)</description>
     </item>
     
   </channel>

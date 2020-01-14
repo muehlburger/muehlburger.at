@@ -18,7 +18,7 @@
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
     </item>
     
     <item>
@@ -27,7 +27,8 @@ Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;Syste
       <pubDate>Fri, 25 Sep 2009 17:31:37 +0000</pubDate>
       
       <guid>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</guid>
-      <description>Related articles by Zemanta {.zemanta-related-title}           Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c).</description>
+      <description>Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
+After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
     </item>
     
   </channel>

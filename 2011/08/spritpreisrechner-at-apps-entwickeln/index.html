@@ -11,12 +11,12 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="[spritpreisrechner.at] – Apps entwickeln"/>
-<meta name="twitter:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+<meta name="twitter:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Controloffiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
 Es werden per HTTP POST Request Anfragen an http://www."/>
 
     <meta property="og:title" content="[spritpreisrechner.at] – Apps entwickeln" />
-<meta property="og:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+<meta property="og:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Controloffiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
 Es werden per HTTP POST Request Anfragen an http://www." />
 <meta property="og:type" content="article" />
@@ -63,7 +63,7 @@ Es werden per HTTP POST Request Anfragen an http://www." />
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
   </head>
 
   
@@ -160,16 +160,13 @@ Es werden per HTTP POST Request Anfragen an http://www." />
       </header>
 
       <div>
-        <p>Vor kurzem wurde in Österreich der <a title="E-Control Spritpreisrechner" href="http://spritpreisrechner.at/" target="_blank">Spritpreisrechner der E-Control</a> offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige <a title="Android Market Spritpreisrechner Apps" href="https://market.android.com/search?q=spritpreisrechner&so=1&c=apps" target="_blank">Spritpreisrechner Apps</a>.</p>
-
+        <p>Vor kurzem wurde in Österreich der <!-- raw HTML omitted -->Spritpreisrechner der E-Control<!-- raw HTML omitted --> offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige <!-- raw HTML omitted -->Spritpreisrechner Apps<!-- raw HTML omitted -->.</p>
 <p>Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:</p>
-
-<p>Es werden per HTTP POST Request Anfragen an <a title="http://spritpreisrechner.at/espritmap-app/GasStationServlet" href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet" target="_blank"><a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</a></a> geschickt. Wichtig ist dabei der Parameter &ldquo;data&rdquo; der natürlich mit Werten (Längen- und Breitengraden bzw. einen Suchstring) initialisiert werden muss.</p>
-
+<p>Es werden per HTTP POST Request Anfragen an <!-- raw HTML omitted --><a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet%3C/a%3E">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet&lt;/a&gt;</a> geschickt. Wichtig ist dabei der Parameter &ldquo;data&rdquo; der natürlich mit Werten (Längen- und Breitengraden bzw. einen Suchstring) initialisiert werden muss.</p>
 <p>Beispielsweise könnte man folgenden cURL Aufruf ausführen (die Daten in &ldquo;data&rdquo; sind url-encoded&rdquo;):</p>
-<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">curl -d &#34;data=%5B%22Graz%22%2C%22DIE%22%2C15.414262484145%2C47.057105360725%2C15.494085024429%2C47.08048974931%5D&#34; http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</pre></div>
-<p>Der HTTP Request Header sieht konkret folgendermaßen aus:</p>
-<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">Request URL:http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">curl -d &#34;data=%5B%22Graz%22%2C%22DIE%22%2C15.414262484145%2C47.057105360725%2C15.494085024429%2C47.08048974931%5D&#34; http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
+</code></pre></div><p>Der HTTP Request Header sieht konkret folgendermaßen aus:</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">Request URL:http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
 Request Method:POST
 Status Code:200 OK
 Request Headersview source
@@ -192,8 +189,8 @@ Connection:Keep-Alive
 Content-Type:text/html;charset=UTF-8
 Date:Fri, 26 Aug 2011 08:27:11 GMT
 Keep-Alive:timeout=4, max=150
-Transfer-Encoding:chunked</pre></div>
-<p>Der Parameter &ldquo;data&rdquo; enthält einen JSON String der mit folgenden Werten befüllt wird:</p>
+Transfer-Encoding:chunked
+</code></pre></div><p>Der Parameter &ldquo;data&rdquo; enthält einen JSON String der mit folgenden Werten befüllt wird:</p>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
   <span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
   <span style="color:#0ff;font-weight:bold">&#34;DIE&#34;</span>,
@@ -201,26 +198,28 @@ Transfer-Encoding:chunked</pre></div>
   <span style="color:#ff0;font-weight:bold">47.057106335865</span>,
   <span style="color:#ff0;font-weight:bold">15.494081429191</span>,
   <span style="color:#ff0;font-weight:bold">47.080490724022</span>
-]</code></pre></div>
-<p>Hier die Beschreibung der einzelnen Felder:</p>
-<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">[
+]
+</code></pre></div><p>Hier die Beschreibung der einzelnen Felder:</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">[
 &#34;&#34;, =&gt; Ort (Tankstellen werden in der Nähe dieses Ortes gesucht) **Update:** Vielen Dank an Andreas Stütz!: Dieser Parameter gibt an, ob auch geschlossene Tankstellen angezeigt werden sollen (&#34;checked&#34;) oder nicht (&#34;&#34;)
 &#34;DIE&#34;, =&gt; Treibstoffart: &#34;DIE&#34; oder &#34;SUP&#34; (Diesel oder Super 95)
 15.414258888907, =&gt; Longitude 1 (Längengrad)
 47.057106335865, =&gt; Latitude 1 (Breitengrad)
 15.494081429191, =&gt; Longitude 2 (Längengrad)
 47.080490724022 =&gt; Latitude 2 (Breitengrad)  
-]</pre></div>
-<p>Longitude 1 und Latitude 1 geben Koordinaten der linken unteren Ecke, Longitude 2 und Latitude 2 die Koordinaten der oberen rechten Ecke an. Das so aufgespannte Rechteck definiert den sichtbaren Bereich auf der Google Maps Karte. Im Zentrum sollte sich sinnvollerweise die aktuelle Position befinden. Innerhalb des sichtbaren Bereiches werden die 5 billigsten Tankstellen mit den dazugehörigen Spritpreisen angezeigt. Um das Rechteck aufzuspannen kann man sich in Android folgendermaßen behelfen:</p>
-
+]
+</code></pre></div><p>Longitude 1 und Latitude 1 geben Koordinaten der linken unteren Ecke, Longitude 2 und Latitude 2 die Koordinaten der oberen rechten Ecke an. Das so aufgespannte Rechteck definiert den sichtbaren Bereich auf der Google Maps Karte. Im Zentrum sollte sich sinnvollerweise die aktuelle Position befinden. Innerhalb des sichtbaren Bereiches werden die 5 billigsten Tankstellen mit den dazugehörigen Spritpreisen angezeigt. Um das Rechteck aufzuspannen kann man sich in Android folgendermaßen behelfen:</p>
 <ol>
-<li><p>Aktuelle Position mittels Android LocationManager ermitteln</p></li>
-
-<li><p>Mittels der aktuellen Position und der Methoden <a title="getLongitudeSpan()" href="http://code.google.com/intl/de-DE/android/add-ons/google-apis/reference/com/google/android/maps/MapView.html#getLongitudeSpan()" target="_blank">getLongitudeSpan()</a> und <a title="getLatitudeSpan()" href="http://code.google.com/intl/de-DE/android/add-ons/google-apis/reference/com/google/android/maps/MapView.html#getLatitudeSpan()" target="_blank">getLatitudeSpan()</a> die rechte obere und die linke untere Ecke berechnen und anschließend</p></li>
-
-<li><p>Parameter &ldquo;data&rdquo; mit den ermittelten Werten befüllen und HTTP Post Request abschicken.</p></li>
+<li>
+<p>Aktuelle Position mittels Android LocationManager ermitteln</p>
+</li>
+<li>
+<p>Mittels der aktuellen Position und der Methoden <!-- raw HTML omitted -->getLongitudeSpan()<!-- raw HTML omitted --> und <!-- raw HTML omitted -->getLatitudeSpan()<!-- raw HTML omitted --> die rechte obere und die linke untere Ecke berechnen und anschließend</p>
+</li>
+<li>
+<p>Parameter &ldquo;data&rdquo; mit den ermittelten Werten befüllen und HTTP Post Request abschicken.</p>
+</li>
 </ol>
-
 <p>Wird der oben beschriebene HTTP Request ausgeführt, bekommt man als HTTP Response einen JSON String, der wie folgt aufgebaut ist:</p>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
   {
@@ -375,8 +374,8 @@ Transfer-Encoding:chunked</pre></div>
     <span style="font-weight:bold">&#34;telephone&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;43316475152&#34;</span>,
     <span style="font-weight:bold">&#34;gasStationInternalId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;CvH&#34;</span>
   }
-]</code></pre></div>
-<p>Einen Parser für diesen JSON String zu schreiben, dürfte nicht allzu schwer sein. 🙂 Das war auch schon alles um eine App für spritpreisrechner.at entwicklen zu können. Eigentlich ziemlich einfach. Was meint ihr? Freu mich auf Kommentare und Anregungen!</p>
+]
+</code></pre></div><p>Einen Parser für diesen JSON String zu schreiben, dürfte nicht allzu schwer sein. 🙂 Das war auch schon alles um eine App für spritpreisrechner.at entwicklen zu können. Eigentlich ziemlich einfach. Was meint ihr? Freu mich auf Kommentare und Anregungen!</p>
 
       </div>
 
@@ -398,7 +397,7 @@ Transfer-Encoding:chunked</pre></div>
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
      © 2020
     

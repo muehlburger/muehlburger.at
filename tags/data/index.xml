@@ -17,10 +17,9 @@
       <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
       
       <guid>/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
-      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+      <description>Here is a great video explaining how Facebookuses Hadoopand Hiveto build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
 [vimeo 7111203]
-(via Cloudera)
-  </description>
+(via Cloudera)</description>
     </item>
     
   </channel>

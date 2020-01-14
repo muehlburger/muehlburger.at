@@ -17,7 +17,7 @@
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/02/the-evolution-of-microservices/</guid>
-      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.
+      <description>Have you ever wondered on how the concept of Microservicesdeveloped? The following video by Adrian Cockcroftgives a quite good overview on the evolution of microservices.
   (via Scalable Microservices with Kubernetes)</description>
     </item>
     
@@ -27,7 +27,8 @@
       <pubDate>Fri, 19 Jan 2018 10:26:44 +0000</pubDate>
       
       <guid>/2018/01/javascript-rising-stars-2017/</guid>
-      <description>I found an intersting article on the rising stars in the JavaScript world in 2017. There are the most important sections taken from the report. Most Popular Projects Overall  Vue.js strikes again   Once again, Vue.js is the trendiest project of the year, with more than 40,000 stars added on GitHub during the year.  Front-end Frameworks  The Big-3: Vue, React and Angular   Without surprise, the 3 most popular UI frameworks are Vue.</description>
+      <description>In 2016 Create React Appsolved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.
+ Vue Ecosystem  Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+      <description>This video explains the concept of channelsin the Go programming languagevery well. Channels are really useful to synchronize Goroutines.
   </description>
     </item>
     
@@ -56,8 +57,8 @@
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
-      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I&amp;#8217;m going to list here.
-&amp;#8220;100% Stateless with JWT (JSON Web Token)&amp;#8221; by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0and JSON Web Tokens(JWT). In order to get a good understanding on these topics I found several talks that I’m going to list here.
+“100% Stateless with JWT (JSON Web Token)” by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
     </item>
     
     <item>
@@ -75,7 +76,7 @@
       <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
       
       <guid>/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
-      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&#39;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
   Knowledge is Power: Getting out of Trouble by Understanding Git</description>
     </item>
     

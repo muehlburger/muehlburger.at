@@ -17,7 +17,7 @@
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.
+      <description>This video explains the concept of channelsin the Go programming languagevery well. Channels are really useful to synchronize Goroutines.
   </description>
     </item>
     
@@ -27,8 +27,8 @@
       <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
       
       <guid>/2017/02/blockchain-101/</guid>
-      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
-  (via anders.com and anders.com/blockchain)</description>
+      <description>Have you ever wondered how the Blockchainworks? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
+  (via anders.comand anders.com/blockchain)</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@
       <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
       
       <guid>/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
-      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&#39;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
   Knowledge is Power: Getting out of Trouble by Understanding Git</description>
     </item>
     
@@ -57,10 +57,9 @@
       <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
       
       <guid>/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
-      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+      <description>The following talk gives a good overview on the technologies used by Loggly.comto build their scalable real-time-search log-processing infrastructure.
 The slides of the talk can be found here:
-Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
-(via loggly.com)  </description>
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services</description>
     </item>
     
     <item>
@@ -69,7 +68,7 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (A
       <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
       
       <guid>/2014/01/enable-https-everywhere/</guid>
-      <description>[][1]SSL-Report for blog.muehlburger.at Finally I finished to configure my HTTPS protocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
+      <description>Finally I finished to configure my HTTPSprotocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
 There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
     </item>
     
@@ -79,8 +78,7 @@ There is also a great video covering the current state of the art in crypto held
       <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
       
       <guid>/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
-      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called &amp;#8220;Our Choice&amp;#8220;. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating &amp;#8220;Our Choice&amp;#8221;.
-What I find really interesting there are the interactive data visualizations. If you like this video drop me a comment! </description>
+      <description>Mike Matas(@mike_matas) and his teamfrom Push Pop Pressdeveloped a great iPad and iPhone application called “Our Choice“. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating “Our Choice”.</description>
     </item>
     
     <item>
@@ -89,7 +87,7 @@ What I find really interesting there are the interactive data visualizations. If
       <pubDate>Tue, 08 Mar 2011 10:00:54 +0000</pubDate>
       
       <guid>/2011/03/video-bis-an-die-grenzen-des-universums/</guid>
-      <description>&amp;#8220;Bis an die Grenzen des Universums&amp;#8221; ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
+      <description>“Bis an die Grenzen des Universums” ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
 http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
     </item>
     
@@ -99,10 +97,10 @@ http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
       <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
       
       <guid>/2010/09/video-thoughts-on-google-instant/</guid>
-      <description>Image via CrunchBase     Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Here is an introductory video to GoogleInstant the new search feature that Google provides for its search engine.
 http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
-I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional &amp;#8220;push-the-button&amp;#8221; search approach?
-RWW asks how will this change affect your companie&amp;#8217;s search engine optimization?  tries to answer the similar question on if SEO will still be required in 5 years.</description>
+I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?
+RWW asks how will this change affect your companie’s search engine optimization?tries to answer the similar question on if SEO will still be required in 5 years.</description>
     </item>
     
     <item>
@@ -111,10 +109,10 @@ RWW asks how will this change affect your companie&amp;#8217;s search engine opt
       <pubDate>Fri, 07 May 2010 19:09:03 +0000</pubDate>
       
       <guid>/2010/05/social-media-revolution-facts-and-figures/</guid>
-      <description>Related articles {.zemanta-related-title}        The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebook for example has gained 200 million users in just one year. That&amp;#8217;s incredible &amp;#8230;
+      <description>The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebookfor example has gained 200 million users in just one year. That’s incredible …
 http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
-(via crowdspring and mashable)
-Related articles {.zemanta-related-title}  Socialnomics Revisits &amp;#8216;Social Media Revolution&amp;#8217; (socialtimes.</description>
+(via crowdspringand mashable)
+Related articles  Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.com) Social Media Revolution 2 (Refresh) (viralblog.</description>
     </item>
     
     <item>
@@ -123,9 +121,10 @@ Related articles {.zemanta-related-title}  Socialnomics Revisits &amp;#8216;Soci
       <pubDate>Wed, 05 May 2010 18:12:51 +0000</pubDate>
       
       <guid>/2010/05/video-how-fast-is-google-chrome/</guid>
-      <description>These days Google has released a video demonstrating the speed of their new beta Google Chrome browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
+      <description>These days Googlehas released a videodemonstrating the speed of their new betaGoogle Chromebrowser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
 For everybody who is interested in the making of this video will like the following one too:
-(via ReadWriteWeb and Mashable)</description>
+(via ReadWriteWeband Mashable)
+Related articles  Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
     </item>
     
     <item>
@@ -145,7 +144,7 @@ http://www.youtube.com/watch?v=8QvW1XETz2g
       <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
       
       <guid>/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
-      <description>The Virtual Revolution refers to the fact that 20-25% of the word&amp;#8217;s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s populationis using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internetin a wide variety of areas. This means that the digital revolutionthat has shaped our world as we know it now, will happen in these areas too.</description>
     </item>
     
     <item>
@@ -154,7 +153,7 @@ http://www.youtube.com/watch?v=8QvW1XETz2g
       <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
       
       <guid>/2009/12/video-did-you-know-4-0/</guid>
-      <description>There is a new version of the great &amp;#8220;Did you Know&amp;#8221; series. Here is the new video:</description>
+      <description>There is a new version of the great “Did you Know” series. Here is the new video:</description>
     </item>
     
     <item>
@@ -163,7 +162,7 @@ http://www.youtube.com/watch?v=8QvW1XETz2g
       <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
       
       <guid>/2009/11/video-the-evolution-of-google/</guid>
-      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
+      <description>Through @mebnerI have found the following video demonstrating the evolution of Google:</description>
     </item>
     
     <item>
@@ -172,9 +171,9 @@ http://www.youtube.com/watch?v=8QvW1XETz2g
       <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
       
       <guid>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
-      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
+      <description>Since few time I am coding an extension to the open-sourcee-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
 Here is a video that explains it:
-Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
+Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC)and the University of London Institute of Education (IOE).</description>
     </item>
     
     <item>
@@ -183,10 +182,10 @@ Few time ago Mahara UK 09, the very first conference covering the e-portfolio sy
       <pubDate>Thu, 23 Apr 2009 19:22:11 +0000</pubDate>
       
       <guid>/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</guid>
-      <description> The next video is about twitter&amp;#8217;s growth by the unexpected use of the service. Very intersting video!
+      <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!
 This video I found on the gorgeous TED Talks. Enjoy watching.
 (via TED)
-Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textually.org)  Ted 2009 (q-ontech.blogspot.com)  TED conference accepting nominations for TED fellows (boingboing.net)  Curious about Twitter? (nylady.edublogs.org)     </description>
+Related articles by Zemanta </description>
     </item>
     
     <item>
@@ -195,7 +194,7 @@ Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textua
       <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
       
       <guid>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
-      <description>For everybody who is asking: &amp;#8220;What&amp;#8217;s the next step in internet evolution?&amp;#8221; This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
+      <description>For everybody who is asking: “What’s the next step in internet evolution?” This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
 (via TED)</description>
     </item>
     
@@ -206,7 +205,7 @@ Related articles by Zemanta {.zemanta-related-title} TED Conferences app (textua
       
       <guid>/2008/11/university-mathematical-analysis-t1-exam/</guid>
       <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
-What do you think about this video? I think it&amp;#8217;s weird. Well wish me luck for tomorrow.</description>
+What do you think about this video? I think it’s weird. Well wish me luck for tomorrow.</description>
     </item>
     
     <item>
@@ -215,7 +214,7 @@ What do you think about this video? I think it&amp;#8217;s weird. Well wish me l
       <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
       
       <guid>/2008/11/video-cnn-for-holodeck/</guid>
-      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
+      <description>CNNyesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
 http://www.youtube.com/watch?v=x2bRNA2wpYk
 (via webstandard.at)</description>
     </item>
@@ -226,7 +225,7 @@ http://www.youtube.com/watch?v=x2bRNA2wpYk
       <pubDate>Tue, 04 Nov 2008 17:18:51 +0000</pubDate>
       
       <guid>/2008/11/video-acapella-session/</guid>
-      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don&amp;#8217;t froget to close your mouth after you have seen it.
+      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don’t froget to close your mouth after you have seen it.
 (via Basic Thinking Blog)</description>
     </item>
     
@@ -236,7 +235,7 @@ http://www.youtube.com/watch?v=x2bRNA2wpYk
       <pubDate>Mon, 03 Nov 2008 11:50:23 +0000</pubDate>
       
       <guid>/2008/11/video-we-think/</guid>
-      <description>The following video I have found on e-Learning Blog. Just watch and enjoy, &amp;#8230;</description>
+      <description>The following video I have found on e-Learning Blog. Just watch and enjoy, …</description>
     </item>
     
     <item>
@@ -245,8 +244,8 @@ http://www.youtube.com/watch?v=x2bRNA2wpYk
       <pubDate>Wed, 09 May 2007 15:15:16 +0000</pubDate>
       
       <guid>/2007/05/musicmesh-cooles-mediameshup/</guid>
-      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.net ansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
-Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services API von www.last.fm bezogen, passende Videos werden wie gesagt über die API von YouTube gesucht und eingebunden!</description>
+      <description>Für jeden der schon immer mal das Video zu einem Audiotrack sehen wollte sollte sich einmal www.musicmesh.netansehen. Dort kann man nach beliebigen Musikern suchen und sich danach ihre Songs anhören. Das coole dabei, es wird automatisch ein Musikvideo auf youtube gesucht und abgespielt! Sehr coole Sache!
+Metadaten über Musiker, Tracks, Alben, etc… werden per Audioscrobbler Web Services APIvon www.last.fmbezogen, passende Videos werden wie gesagt über die API von YouTubegesucht und eingebunden!</description>
     </item>
     
   </channel>

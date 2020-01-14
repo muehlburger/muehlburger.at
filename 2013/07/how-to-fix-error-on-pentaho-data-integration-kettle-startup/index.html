@@ -11,19 +11,19 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to fix error on Pentaho Data Integration (Kettle) startup"/>
-<meta name="twitter:description" content="Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
-[code language=&#8221;bash&#8221;]spoon.sh[/code]
+<meta name="twitter:description" content="Howto fix startup error of Pentaho Data Integration(Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
+[code language=”bash”]spoon.sh[/code]
 and change the end of the file in the following way:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 # **********************
 # ** Set java runtime options **
 # ** Change 512m to higher values in case you run out of memory **"/>
 
     <meta property="og:title" content="How to fix error on Pentaho Data Integration (Kettle) startup" />
-<meta property="og:description" content="Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
-[code language=&#8221;bash&#8221;]spoon.sh[/code]
+<meta property="og:description" content="Howto fix startup error of Pentaho Data Integration(Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
+[code language=”bash”]spoon.sh[/code]
 and change the end of the file in the following way:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 # **********************
 # ** Set java runtime options **
 # ** Change 512m to higher values in case you run out of memory **" />
@@ -71,7 +71,7 @@ and change the end of the file in the following way:
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
   </head>
 
   
@@ -172,51 +172,29 @@ and change the end of the file in the following way:
       </header>
 
       <div>
-        <p>Howto fix startup error of <a title="Pentaho Data Integration" href="http://kettle.pentaho.com/" target="_blank">Pentaho Data Integration</a> (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open</p>
-
-<p>[code language=&#8221;bash&#8221;]spoon.sh[/code]</p>
-
+        <p>Howto fix startup error of <!-- raw HTML omitted -->Pentaho Data Integration<!-- raw HTML omitted --> (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open</p>
+<p>[code language=”bash”]spoon.sh[/code]</p>
 <p>and change the end of the file in the following way:</p>
-
-<p>[code language=&#8221;bash&#8221;]</p>
-
+<p>[code language=”bash”]</p>
 <p># *<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong></p>
-
 <p># ** Set java runtime options **</p>
-
 <p># ** Change 512m to higher values in case you run out of memory **</p>
-
 <p># ** or set the PENTAHO_DI_JAVA_OPTIONS environment variable **</p>
-
 <p># *<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong>*<strong>*</strong></p>
-
 <p>if [ -z &ldquo;$PENTAHO_DI_JAVA_OPTIONS&rdquo; ]; then</p>
-
-<p>PENTAHO_DI_JAVA_OPTIONS=&ldquo;-Xmx512m -XX:MaxPermSize=256m&rdquo;</p>
-
+<p>PENTAHO_DI_JAVA_OPTIONS=&rdquo;-Xmx512m -XX:MaxPermSize=256m&rdquo;</p>
 <p>fi</p>
-
-<p>OPT=&ldquo;$OPT $PENTAHO_DI_JAVA_OPTIONS -Djava.library.path=$LIBPATH -DKETTLE_HOME=$KETTLE_HOME -DKETTLE_REPOSITORY=$KETTLE_REPOSITORY -DKETTLE_USER=$KETTLE_USER -DKETTLE_PASSWORD=$KETTLE_PASSWORD -DKETTLE_PLUGIN_PACKAGES=$KETTLE_PLUGIN_PACKAGES -DKETTLE_LOG_SIZE_LIMIT=$KETTLE_LOG_SIZE_LIMIT -Dorg.eclipse.swt.browser.XULRunnerPath=/dev/null&rdquo;</p>
-
+<p>OPT=&quot;$OPT $PENTAHO_DI_JAVA_OPTIONS -Djava.library.path=$LIBPATH -DKETTLE_HOME=$KETTLE_HOME -DKETTLE_REPOSITORY=$KETTLE_REPOSITORY -DKETTLE_USER=$KETTLE_USER -DKETTLE_PASSWORD=$KETTLE_PASSWORD -DKETTLE_PLUGIN_PACKAGES=$KETTLE_PLUGIN_PACKAGES -DKETTLE_LOG_SIZE_LIMIT=$KETTLE_LOG_SIZE_LIMIT -Dorg.eclipse.swt.browser.XULRunnerPath=/dev/null&rdquo;</p>
 <p># *<strong>*</strong>*<strong>*</strong>***</p>
-
-<p># ** Run&#8230; **</p>
-
+<p># ** Run… **</p>
 <p># *<strong>*</strong>*<strong>*</strong>***</p>
-
-<p>&rdquo;$_PENTAHO_JAVA&rdquo; $OPT $STARTUP -lib $LIBPATH &ldquo;${1+$@}&rdquo;</p>
-
+<p>&ldquo;$_PENTAHO_JAVA&rdquo; $OPT $STARTUP -lib $LIBPATH &ldquo;${1+$@}&rdquo;</p>
 <p>[/code]</p>
-
 <p>Everything I did was appending</p>
-
-<p>[code language=&#8221;bash&#8221;]-Dorg.eclipse.swt.browser.XULRunnerPath=/dev/null&rdquo;[/code]</p>
-
+<p>[code language=”bash”]-Dorg.eclipse.swt.browser.XULRunnerPath=/dev/null&rdquo;[/code]</p>
 <p>to the</p>
-
-<p>[code language=&#8221;bash&#8221;]OPT[/code]</p>
-
-<p>part as described in ticket <a title="TDI-24139" href="https://jira.talendforge.org/browse/TDI-24139?focusedCommentId=254634&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-254634" target="_blank">TDI-24139</a>.</p>
+<p>[code language=”bash”]OPT[/code]</p>
+<p>part as described in ticket <!-- raw HTML omitted -->TDI-24139<!-- raw HTML omitted -->.</p>
 
       </div>
 
@@ -238,7 +216,7 @@ and change the end of the file in the following way:
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
      © 2020
     

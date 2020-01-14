@@ -18,16 +18,17 @@
       
       <guid>/2014/03/how-to-mount-novell-directory-in-ubuntu/</guid>
       <description>First you have to install ncpfs using apt-get:
-[code language=&amp;#8221;bash&amp;#8221;]
+[code language=”bash”]
 sudo apt-get install ncpfs
 [/code]
 Then mount your novell directories using the following commands:
-[code language=&amp;#8221;bash&amp;#8221;]
+[code language=”bash”]
 mkdir /media/novell
-sudo chown : /media/novell
-sudo ncpmount -S  -A  -U  -u  -g  -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
+sudo chown :/media/novell
+sudo ncpmount -S -A -U -u -g -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
 [/code]
-This will mount all of the volumes. If you wish to mount a specific volume use the -V option.</description>
+This will mount all of the volumes. If you wish to mount a specific volume use the -V option.
+Having issues? Just drop me a line.</description>
     </item>
     
     <item>
@@ -36,9 +37,10 @@ This will mount all of the volumes. If you wish to mount a specific volume use t
       <pubDate>Sat, 12 Mar 2011 18:19:18 +0000</pubDate>
       
       <guid>/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</guid>
-      <description>Image via CrunchBase  In this post I will explain how I set up the Android SDK on Ubuntu for my HTC Desire.
+      <description>In this post I will explain how I set up the Android SDKon Ubuntu for my HTC Desire.
 I first followed the steps for Ubuntu as described in Setting up a Device for Development:
- With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:</description>
+ With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator. Before you can start, there are just a few things to do:
+ Declare your application as “debuggable” in your Android Manifest.</description>
     </item>
     
     <item>
@@ -48,7 +50,7 @@ I first followed the steps for Ubuntu as described in Setting up a Device for D
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;System&amp;#8221; -&amp;gt; &amp;#8220;Systemverwaltung&amp;#8221; -&amp;gt; &amp;#8220;Synaptic Paketverwalung&amp;#8221;. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt &amp;#8220;Einstellungen&amp;#8221;. In den Einstellungen wechselt man auf den Reiter &amp;#8220;Andere Software&amp;#8221; und aktiviert dort &amp;#8220;Canonical-Partner&amp;#8221; bzw. &amp;#8220;Canonical-Partner (Quelltext)&amp;#8221;. Nach dem Klick auf &amp;#8220;Schließen&amp;#8221; werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
     </item>
     
     <item>
@@ -57,7 +59,8 @@ Canonical-Partner Repositories aktivieren: Dies geschieht unter &amp;#8220;Syste
       <pubDate>Fri, 25 Sep 2009 17:31:37 +0000</pubDate>
       
       <guid>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</guid>
-      <description>Related articles by Zemanta {.zemanta-related-title}           Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c).</description>
+      <description>Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
+After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
     </item>
     
   </channel>

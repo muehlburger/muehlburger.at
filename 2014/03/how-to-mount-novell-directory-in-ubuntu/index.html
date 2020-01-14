@@ -12,29 +12,31 @@
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to mount Novell directory in Ubuntu"/>
 <meta name="twitter:description" content="First you have to install ncpfs using apt-get:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 sudo apt-get install ncpfs
 [/code]
 Then mount your novell directories using the following commands:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 mkdir /media/novell
-sudo chown : /media/novell
-sudo ncpmount -S  -A  -U  -u  -g  -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
+sudo chown :/media/novell
+sudo ncpmount -S -A -U -u -g -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
 [/code]
-This will mount all of the volumes. If you wish to mount a specific volume use the -V option."/>
+This will mount all of the volumes. If you wish to mount a specific volume use the -V option.
+Having issues? Just drop me a line."/>
 
     <meta property="og:title" content="How to mount Novell directory in Ubuntu" />
 <meta property="og:description" content="First you have to install ncpfs using apt-get:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 sudo apt-get install ncpfs
 [/code]
 Then mount your novell directories using the following commands:
-[code language=&#8221;bash&#8221;]
+[code language=”bash”]
 mkdir /media/novell
-sudo chown : /media/novell
-sudo ncpmount -S  -A  -U  -u  -g  -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
+sudo chown :/media/novell
+sudo ncpmount -S -A -U -u -g -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8
 [/code]
-This will mount all of the volumes. If you wish to mount a specific volume use the -V option." />
+This will mount all of the volumes. If you wish to mount a specific volume use the -V option.
+Having issues? Just drop me a line." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/2014/03/how-to-mount-novell-directory-in-ubuntu/" />
 <meta property="article:published_time" content="2014-03-12T14:04:18+00:00" />
@@ -79,7 +81,7 @@ This will mount all of the volumes. If you wish to mount a specific volume use t
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.59.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
   </head>
 
   
@@ -173,27 +175,16 @@ This will mount all of the volumes. If you wish to mount a specific volume use t
 
       <div>
         <p>First you have to install ncpfs using apt-get:</p>
-
-<p>[code language=&#8221;bash&#8221;]</p>
-
+<p>[code language=”bash”]</p>
 <p>sudo apt-get install ncpfs</p>
-
 <p>[/code]</p>
-
 <p>Then mount your novell directories using the following commands:</p>
-
-<p>[code language=&#8221;bash&#8221;]</p>
-
+<p>[code language=”bash”]</p>
 <p>mkdir /media/novell</p>
-
-<p>sudo chown <localuser>:<localgroup> /media/novell</p>
-
-<p>sudo ncpmount -S <name-of-netware-server> -A <fully-qualified-name-of-server-or-ip-address> -U <novellusername-using-dot-notation> -u <localusername> -g <localgroup> -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8</p>
-
+<p>sudo chown <!-- raw HTML omitted -->:<!-- raw HTML omitted --> /media/novell</p>
+<p>sudo ncpmount -S <!-- raw HTML omitted --> -A <!-- raw HTML omitted --> -U <!-- raw HTML omitted --> -u <!-- raw HTML omitted --> -g <!-- raw HTML omitted --> -o nfsextras,symlinks,tcp,rw /media/novell -p cp850 -y utf8</p>
 <p>[/code]</p>
-
 <p>This will mount all of the volumes. If you wish to mount a specific volume use the -V option.</p>
-
 <p>Having issues? Just drop me a line.</p>
 
       </div>
@@ -216,7 +207,7 @@ This will mount all of the volumes. If you wish to mount a specific volume use t
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech: 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
      © 2020
     

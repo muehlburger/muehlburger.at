@@ -27,7 +27,7 @@
       <pubDate>Thu, 16 Apr 2015 13:10:16 +0000</pubDate>
       
       <guid>/2015/04/how-to-choose-a-versioning-scheme-for-your-software/</guid>
-      <description>As a developer, there comes the time were you think about how to version your software. One approach is &amp;#8220;Semantic Versioning&amp;#8221; which leverages the level of change on your public API. Depending on what you changed in your code, Semantic Versioning proposes different version numbers:
+      <description>As a developer, there comes the time were you think about how to version your software. One approach is “Semantic Versioning” which leverages the level of change on your public API. Depending on what you changed in your code, Semantic Versioning proposes different version numbers:
  Given a version number MAJOR.MINOR.PATCH, increment the:
  MAJOR version when you make incompatible API changes, MINOR version when you add functionality in a backwards-compatible manner, and PATCH version when you make backwards-compatible bug fixes.</description>
     </item>

@@ -17,10 +17,9 @@
       <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
       
       <guid>/2009/11/video-rethink-the-data-warehouse-with-hadoop-and-hive/</guid>
-      <description>Here is a great video explaining how Facebook uses Hadoop and Hive to build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
+      <description>Here is a great video explaining how Facebookuses Hadoopand Hiveto build Data Warehouses and analyse their huge ammount of data. Every day Facebook gets around 4TB+ of compressed data, which is amazing and also difficult to be analysed.
 [vimeo 7111203]
-(via Cloudera)
-  </description>
+(via Cloudera)</description>
     </item>
     
     <item>
@@ -29,9 +28,9 @@
       <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
       
       <guid>/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
-      <description>Für die Lehrveranstaltung &amp;#8220;Einführung in das wissenschaftliche Arbeiten&amp;#8221; bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema &amp;#8220;Linking Open Data &amp;#8211; Anwendungen für Endanwender&amp;#8221; geschrieben.
+      <description>Für die Lehrveranstaltung “Einführung in das wissenschaftliche Arbeiten” bei Prof. Dr. Klaus Tochtermannhabe ich einen Artikel zum Thema “Linking Open Data – Anwendungen für Endanwender” geschrieben.
 Auszug aus dem Abstract:
- Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+ Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open DataKonzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3CSWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
     </item>
     
     <item>
@@ -40,7 +39,7 @@ Auszug aus dem Abstract:
       <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
       
       <guid>/2009/01/10-interesting-semantic-apps/</guid>
-      <description>One of the highlights of October&amp;#8217;s Web 2.0 Summit in San Francisco was the emergence of &amp;#8216;Semantic Apps&amp;#8217; as a force. Note that we&amp;#8217;re not necessarily talking about the Semantic Web, which is the Tim Berners-Lee W3C led initiative that touts technologies like RDF, OWL and other standards for metadata. Semantic Apps may use those technologies, but not necessarily [ReadWriteWeb 2007].  ReadWriteWeb has published a great list of 10 interesting semantic apps at the end of 2007.</description>
+      <description></description>
     </item>
     
   </channel>

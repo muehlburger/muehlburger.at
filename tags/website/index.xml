@@ -17,9 +17,12 @@
       <pubDate>Fri, 08 Jan 2010 16:32:13 +0000</pubDate>
       
       <guid>/2010/01/problems-with-wordpress-automatic-upgrade-solved/</guid>
-      <description>Related articles by Zemanta {.zemanta-related-title}           Image via CrunchBase     While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:
- Downloading update from http://wordpress.org/wordpress-2.9.1.zip.
-Download failed.: Operation timed out with 1201840 out of -1 bytes received</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  While trying to upgrade my WordPressinstallation from version 2.9 to version 2.9.1 I always got the following error:
+ _Downloading update from http://wordpress.org/wordpress-2.9.1.zip._
+  Download failed.: Operation timed out with 1201840 out of -1 bytes received
+  Installation Failed
+ After doing some research using Google I found a solution to that problem:
+You just need to edit the following file in order to increase the download timeout:</description>
     </item>
     
     <item>
@@ -28,8 +31,8 @@ Download failed.: Operation timed out with 1201840 out of -1 bytes received</des
       <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
       
       <guid>/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
-      <description>Related articles by Zemanta {.zemanta-related-title}        In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
- In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning.</description>
+      <description>In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
+ In this article we first clarify key concepts and assumptions for personalised learningenvironments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning. Subsequently, we propose our alternative, i.e. the concept of a mash-up personal learning environment that provides adaptation mechanisms for learning environment construction and maintenance. The web applicationmash-up solution allows learners to reuse existing (web-based) tools plus services.</description>
     </item>
     
   </channel>

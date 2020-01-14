@@ -17,10 +17,9 @@
       <pubDate>Sat, 06 Sep 2014 07:35:27 +0000</pubDate>
       
       <guid>/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/</guid>
-      <description>The following talk gives a good overview on the technologies used by Loggly.com to build their scalable real-time-search log-processing infrastructure.
+      <description>The following talk gives a good overview on the technologies used by Loggly.comto build their scalable real-time-search log-processing infrastructure.
 The slides of the talk can be found here:
-Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services
-(via loggly.com)  </description>
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services</description>
     </item>
     
     <item>
@@ -29,8 +28,7 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp;amp; Elastic Search (A
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
       
       <guid>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
-      <description>For everybody interested in NoSQL datastores the following presentation by Lorenzo Alberton is worth reading. It gives a good overview of the currently used technologies in the area of NoSQL and discusses the ground filling basics every NoSQL enthusiast should know.  NoSQL Databases: Why, what and when (via quipo)  &amp;nbsp;
-Related Articles NoSQL: Node.js + NoSQL Database = Real Time Chat Applications (themindstorms.blogspot.com)  NoSQL: The NoSQL Gene in SQL Azure Federations (themindstorms.</description>
+      <description> Related Articles </description>
     </item>
     
   </channel>

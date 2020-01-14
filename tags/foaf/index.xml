@@ -17,10 +17,10 @@
       <pubDate>Mon, 17 Nov 2008 08:28:52 +0000</pubDate>
       
       <guid>/2008/11/smob-a-prototype-for-semantic-microblogging/</guid>
-      <description>SMOB is a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
+      <description>SMOBis a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
 [slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]
 John Breslin writes in his blog post:
- The prototype uses FOAF and SIOC to model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
+ The prototype uses FOAFand SIOCto model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
     </item>
     
   </channel>

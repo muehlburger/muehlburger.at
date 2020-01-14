@@ -17,12 +17,12 @@
       <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
       
       <guid>/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
-      <description>Image via Wikipedia  Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.
- Write a testcase
- Watch it failing
- Write the actual source code in you application which enables the test to pass
- Watch the test passing
- Go back to step 1</description>
+      <description>Robotiumis an open sourcetesting framework for Androidapplications. It makes it easy to write complex black-box testcases. Test driven developmentis a methology where tests are written before the actual application.
+  Write a testcase  Watch it failing
+  Write the actual source codein you application which enables the test to pass
+  Watch the test passing
+  Go back to step 1
+  The following video gives you an introduction into Robotium:</description>
     </item>
     
   </channel>
