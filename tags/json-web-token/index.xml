@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSON Web Token on DI Herbert Mühlburger</title>
+    <link>/tags/json-web-token/</link>
+    <description>Recent content in JSON Web Token on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/tags/json-web-token/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JSON Web Token (JWT)</title>
+      <link>/p2234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2234/</guid>
+      <description>JSON Web Token (JWT) is a IETF standard defined in the rfc7519. JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.</description>
+    </item>
+    
+  </channel>
+</rss>

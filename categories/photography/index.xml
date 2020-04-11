@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on DI Herbert Mühlburger</title>
+    <link>/categories/photography/</link>
+    <description>Recent content in Photography on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analoge Entwicklungszeiten für SW-Filme</title>
+      <link>/p2103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2103/</guid>
+      <description>FP4 Plus 125/22 Verdünnung: 1+9
+Entwicklungszeit: 4.15 min mit 20°C
+Entwicklungszeit: 4.00 min mit 24°C
+HP5 Plus 400/24 Verdünnung: 1+9
+Entwicklungszeit: 6.30 min mit 20°C
+Entwicklungszeit: 5.30 min mit 24°C
+ </description>
+    </item>
+    
+    <item>
+      <title>How to backup your data using rsync</title>
+      <link>/p1944/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p1944/</guid>
+      <description>Introduction This post describes my current backup strategy using free open source tools.
+My Requirements (User Stories) My requirements are described in this section.
+ As a user I want to store my photos locally so that I can access them without being dependent on any third party. As a user I want to use primary open source software to backup my files so that I can rely on the expertise of an engaged community keeping this software and my backup strategy alive.</description>
+    </item>
+    
+  </channel>
+</rss>

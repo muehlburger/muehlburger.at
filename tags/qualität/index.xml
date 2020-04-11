@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualität on DI Herbert Mühlburger</title>
+    <link>/tags/qualit%C3%A4t/</link>
+    <description>Recent content in Qualität on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/tags/qualit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Nützliche Tips für eine bessere Commit Message</title>
+      <link>/p1783/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p1783/</guid>
+      <description>Jeder, der mit einem Quellcode-Versionierungssystem wie Gitarbeitet, sollte sich die folgenden fünf Tips zu Herzen nehmen um die Commit Messages zu verbessern. Durch bessere Commit Messages wird auch die Dokumentation des Projekts implizit verbessert. Frei nach dem Motto: “Der Code ist die beste Dokumentation” hier nun die fünf Tips:
+ Die erste Zeile sollte sollte nicht mehr als 50 Zeichen beinhalten. Überprüfe die Rechtschreibung und Grammatik der Commit Message zweimal. Vermeide das -m / –message= Flag bei git commit.</description>
+    </item>
+    
+  </channel>
+</rss>

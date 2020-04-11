@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prototyping on DI Herbert Mühlburger</title>
+    <link>/tags/prototyping/</link>
+    <description>Recent content in prototyping on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jan 2019 21:10:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPRINT - How to validate ideas...</title>
+      <link>/posts/sprint-and-how-to-validate-ideas/</link>
+      <pubDate>Mon, 14 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>/posts/sprint-and-how-to-validate-ideas/</guid>
+      <description>Introduction Jake Knapp and John Zeratsky wrote an excellent book called &amp;ldquo;Sprint&amp;rdquo;. It helps you to focus on most important things.
+The SPRINT process helps teams to validate ideas in just 5 days. Here is the 5 day outline:
+Monday Share all information what you have and make a map.
+Tuesday Develop solutions with sketches.
+Wednesday Decide and focus on three risky ideas.
+Thursday Building Protoype.
+Friday Time for test and one-on-one interviews.</description>
+    </item>
+    
+  </channel>
+</rss>

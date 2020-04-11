@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DI Herbert Mühlburger</title>
+    <title>IT-ZT DI Herbert Mühlburger</title>
     <link>/</link>
-    <description>Recent content on DI Herbert Mühlburger</description>
+    <description>Recent content on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2008 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -137,7 +137,7 @@ There is also a good articleon Apache Kafka Streams with lots of background inf
       <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
       
       <guid>/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
-      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&#39;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
   Knowledge is Power: Getting out of Trouble by Understanding Git</description>
     </item>
     
@@ -389,7 +389,7 @@ Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swip
       
       <guid>/2011/11/simple-flashlight-v-3-0/</guid>
       <description>Die “Simple Flashlight” App für Android ist nun in der Version 3.0 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet.
-Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit  Downloaden und ausprobieren: https://market.android.com/details?id=at.muehlburger.android.simple.flashlight&amp;lt;/a&amp;gt;</description>
+Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit  Downloaden und ausprobieren: https://market.</description>
     </item>
     
     <item>
@@ -1471,8 +1471,9 @@ Hope to enlarge the number of my readers and to interest new people in my posts.
       <pubDate>Fri, 31 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi, I’m Herbert Mühlburger a Solution Architect and Senior Software Engineer living in Austria.
-If you want to get in contact with me just drop me a message below or contact me on Twitter (hmuehlburger).</description>
+      <description>Hi,
+Herbert Mühlburger is a Chartered Engineer in Information Technology and experienced Solution Architect / Senior Software Engineer from Austria.
+IT-ZT DI Herbert Mühlburger, BSc Am Quellenhof 2/3 8301 Laßnitzhöhe mail (at) muehlburger.at  You can reach me as @hmuehlburger as well.</description>
     </item>
     
     <item>
@@ -1698,7 +1699,7 @@ Der bekannte deutschsprachige Film “Gabelstaplerfahrer Klaus” sollte jeder d
       <guid>/2007/04/soziale-netzwerke-im-cafepodcast/</guid>
       <description>“Netzwerke sind so alt wie die Menschheit”, zumindest seit dem Hype den soziale Netzwerke zur Zeit erfahren sollte das wohl jedem von uns bewusst sein. Dieses Thema ist Inhalt dieses Podcasts aus dem bekannten CafePodcast in Bonn:
 Unter den Teilnehmern:
- Christian Rottmann, Gründer und Inhaber des café podcast ( http://www.cafe-podcast.de&amp;lt;/a&amp;gt; ) Oliver Ueberholz, Mitgründer und Gesellschafter von mixxt ( http://www.mixxt.de&amp;lt;/a&amp;gt; ) Marco Ripanti, Gründer und Geschäftsführer von ekaabo ( http://www.</description>
+ Christian Rottmann, Gründer und Inhaber des café podcast ( http://www.cafe-podcast.de) Oliver Ueberholz, Mitgründer und Gesellschafter von mixxt ( http://www.mixxt.de) Marco Ripanti, Gründer und Geschäftsführer von ekaabo ( http://www.ekaabo.de) Thorsten Hahn, Gründer des Banking Club ( http://www.</description>
     </item>
     
     <item>

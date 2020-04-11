@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook Timeline on DI Herbert Mühlburger</title>
+    <link>/tags/facebook-timeline/</link>
+    <description>Recent content in Facebook Timeline on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jun 2013 17:00:18 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/facebook-timeline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I deleted my Facebook account</title>
+      <link>/p1447/</link>
+      <pubDate>Mon, 10 Jun 2013 17:00:18 +0000</pubDate>
+      
+      <guid>/p1447/</guid>
+      <description>In times of PRISMI decided to delete my Facebook account, a second time. My main reasons are the following:
+I want to be in control of my data  I want to be in control of the data that I share. I am concerned about my privacy and therefore I do want to be in control of my data (or at least in as much control as possible) I do not want to have anybody else making aggregations and connections concerning my profiles apart the ones that I explicitly create.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DI Herbert Mühlburger</title>
+    <title>IT-ZT DI Herbert Mühlburger</title>
     <link>/de/</link>
-    <description>Recent content on DI Herbert Mühlburger</description>
+    <description>Recent content on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2008 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,8 +39,8 @@ Kontakt mit uns Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mi
       
       <guid>/de/about/</guid>
       <description>Hallo.
-Mein Name ist Herbert Mühlburger und ich bin Solution Architect und Senior Software Engineer aus Österreich.
-Du erreichst mich an einfachsten via Twitter unter @hmuehlburger.</description>
+Herbert Mühlburger ist IT-Ziviltechniker und erfahrener Solution Architect / Senior Software Engineer aus Österreich.
+IT-ZT DI Herbert Mühlburger, BSc Am Quellenhof 2/3 8301 Laßnitzhöhe mail (at) muehlburger.at  Du erreichst mich auch über @hmuehlburger.</description>
     </item>
     
   </channel>

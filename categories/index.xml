@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on DI Herbert Mühlburger</title>
+    <title>Categories on IT-ZT DI Herbert Mühlburger</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on DI Herbert Mühlburger</description>
+    <description>Recent content in Categories on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
@@ -44,6 +44,15 @@
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
       
       <guid>/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
+      
+      <guid>/categories/video/</guid>
       <description></description>
     </item>
     
@@ -143,15 +152,6 @@
       <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
       
       <guid>/categories/fintec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>/categories/video/</link>
-      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
-      
-      <guid>/categories/video/</guid>
       <description></description>
     </item>
     

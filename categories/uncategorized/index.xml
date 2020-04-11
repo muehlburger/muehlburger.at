@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on DI Herbert Mühlburger</title>
+    <link>/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Nützliche Tips für eine bessere Commit Message</title>
+      <link>/p1783/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p1783/</guid>
+      <description>Jeder, der mit einem Quellcode-Versionierungssystem wie Gitarbeitet, sollte sich die folgenden fünf Tips zu Herzen nehmen um die Commit Messages zu verbessern. Durch bessere Commit Messages wird auch die Dokumentation des Projekts implizit verbessert. Frei nach dem Motto: “Der Code ist die beste Dokumentation” hier nun die fünf Tips:
+ Die erste Zeile sollte sollte nicht mehr als 50 Zeichen beinhalten. Überprüfe die Rechtschreibung und Grammatik der Commit Message zweimal. Vermeide das -m / –message= Flag bei git commit.</description>
+    </item>
+    
+    <item>
+      <title>[salesforce] – How to add an attachment to a case using SFDC REST API</title>
+      <link>/p2164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2164/</guid>
+      <description>https://gist.github.com/muehlburger/f87e7937ee8a3df39e77</description>
+    </item>
+    
+    <item>
+      <title>Analog Photography using my Leica M6</title>
+      <link>/p2046/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2046/</guid>
+      <description>In the last years I get more and more fascinated by analog photography. Leica built the Leica M6one of the best cameras I have ever used. I take photos since nearly 20 years now.
+ Leica M6 TTL Leica Summicron M 50 – 11817 (Made in Germany)  </description>
+    </item>
+    
+    <item>
+      <title>Building GnuCash on Debian</title>
+      <link>/p2188/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2188/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Computer programming as an art</title>
+      <link>/p2149/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2149/</guid>
+      <description>http://www.paulgraham.com/knuth.html</description>
+    </item>
+    
+    <item>
+      <title>Crap Hound</title>
+      <link>/p2243/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2243/</guid>
+      <description>http://craphound.com/</description>
+    </item>
+    
+    <item>
+      <title>Design patterns for container-based distributed systems</title>
+      <link>/p2288/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2288/</guid>
+      <description>Brendan Burns and David Oppenheimer, two Google engineers, wrote a good overview article on design patterns for container-based distributed systems. I really recommend reading this piece as it gives a good overview of emerging design patterns in distributed systems.
+The world of design patterns is not new. A lot of software design patterns originate back to the early 1980s where object-oriented programming emerged and “the object” was the main abstraction.</description>
+    </item>
+    
+    <item>
+      <title>Harward’s Digital Photography Online Course</title>
+      <link>/p2245/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2245/</guid>
+      <description>https://alison.com/courses/Digital-Photography/content</description>
+    </item>
+    
+    <item>
+      <title>How do I convert an ID from 15 to 18 characters?  Two versions of the same ID?</title>
+      <link>/p2099/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2099/</guid>
+      <description>http://www.eltoro.it/apex/ArticleViewer?id=a07A000000NPRiVIAX</description>
+    </item>
+    
+    <item>
+      <title>How to build GnuCash on Ubuntu</title>
+      <link>/p2146/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2146/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>JSON Web Token (JWT)</title>
+      <link>/p2234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2234/</guid>
+      <description>JSON Web Token (JWT) is a IETF standard defined in the rfc7519. JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.</description>
+    </item>
+    
+    <item>
+      <title>Michi Amlings Blog</title>
+      <link>/p2197/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2197/</guid>
+      <description>http://michi-s-culture.blogspot.co.at/</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images</title>
+      <link>/p2084/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2084/</guid>
+      <description>Responsive images are a great way to react on different viewport sizes in web design.
+The following guidelines help you implement responsiveness:
+ use max-width: 100% use calc((100% – 15px) / 3) use vmin and vmax  </description>
+    </item>
+    
+    <item>
+      <title>Salesforce Sites</title>
+      <link>/p2101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2101/</guid>
+      <description>What is Salesforce.com Marketing cloud? https://code.exacttarget.com/
+http://socialcloud.radian6.com/docs
+My life is a hackathon http://blog.jeffdouglas.com/
+Here comes the hammer https://developer.salesforce.com/blogs/engineering/2013/05/here-comes-the-hammer.html
+OKR http://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs
+Asynchronous Processing in Force com https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com</description>
+    </item>
+    
+    <item>
+      <title>Setup letsencrypt for nginx</title>
+      <link>/p2171/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2171/</guid>
+      <description>What is letsencrypt?
+Why is letsencrypt important?
+Why should we use it?
+How did I setup letsencrypt for nginx?
+  https://community.letsencrypt.org/t/how-to-nginx-configuration-to-enable-acme-challenge-support-on-all-http-virtual-hosts/5622
+  https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+   create dir /etc/letsencrypt
+activate “include” in sites-enabled/site.conf
+restart nginx
+ubuntu@ip-172-31-13-40:/opt/letsencrypt$ ./letsencrypt-auto certonly -a webroot –webroot-path=/srv/www/letsencrypt -d moderator.fanfeedback.at
+activate certificate in sites-enabled/sites.conf
+restart nginx</description>
+    </item>
+    
+    <item>
+      <title>Smash the Stack</title>
+      <link>/p2240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2240/</guid>
+      <description>http://insecure.org/stf/smashstack.html</description>
+    </item>
+    
+    <item>
+      <title>Undo</title>
+      <link>/p2186/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2186/</guid>
+      <description>Undo functionality for GnuCash:
+What do we need?
+First class ADT: http://adampetersen.se/Patterns%20in%20C%201.pdf
+Stack implementation: See page 3 http://www.asc.tuwien.ac.at/eprog/download/schmaranz.pdf page 387
+Undo Stack
+Redo Stack</description>
+    </item>
+    
+    <item>
+      <title>Vault und Biscuit</title>
+      <link>/p2195/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2195/</guid>
+      <description>https://www.vaultproject.io: A tool for managing secrets.
+https://github.com/dcoker/biscuit: Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.</description>
+    </item>
+    
+  </channel>
+</rss>

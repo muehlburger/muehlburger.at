@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Logic and Process Automation on DI Herbert Mühlburger</title>
+    <link>/tags/business-logic-and-process-automation/</link>
+    <description>Recent content in Business Logic and Process Automation on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2015 11:29:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/business-logic-and-process-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Certified Salesforce Platform App Builder – Part 2: Business Logic and Process Automation</title>
+      <link>/p2113/</link>
+      <pubDate>Sun, 01 Nov 2015 11:29:12 +0000</pubDate>
+      
+      <guid>/p2113/</guid>
+      <description>Business Logic and Process Automation (27 %) This topic is the most important one in the “Certified Salesforce Platform App Builder” exam. You can expect to get around 17 questions on topics such as Record Types, Formula Fields, Roll-Up Summary Fields, Validaton Rules, Approval Processes, …
+The following table gives an overview on the parts of “Business Logic and Process Automation”:
+&amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Weight&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Questions&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;27%&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;16,2&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;padding-left: 30px;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt;  Record Types Record types can be used to control three things:</description>
+    </item>
+    
+  </channel>
+</rss>

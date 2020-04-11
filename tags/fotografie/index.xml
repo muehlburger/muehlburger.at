@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotografie on DI Herbert Mühlburger</title>
+    <link>/tags/fotografie/</link>
+    <description>Recent content in Fotografie on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/tags/fotografie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to backup your data using rsync</title>
+      <link>/p1944/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p1944/</guid>
+      <description>Introduction This post describes my current backup strategy using free open source tools.
+My Requirements (User Stories) My requirements are described in this section.
+ As a user I want to store my photos locally so that I can access them without being dependent on any third party. As a user I want to use primary open source software to backup my files so that I can rely on the expertise of an engaged community keeping this software and my backup strategy alive.</description>
+    </item>
+    
+  </channel>
+</rss>

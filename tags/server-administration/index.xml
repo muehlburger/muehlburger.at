@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server Administration on DI Herbert Mühlburger</title>
+    <link>/tags/server-administration/</link>
+    <description>Recent content in Server Administration on DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/tags/server-administration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install automatic updates on ubuntu servers</title>
+      <link>/p2178/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/p2178/</guid>
+      <description>This post is just a quick note on keeping my systems up-to-date.
+In order to install the latest ubuntu packages and security updates I follow the steps described in the following guide: https://help.ubuntu.com/lts/serverguide/automatic-updates.html
+What are your best practices to keep your systems up-to-date? Post a comment or write me on Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

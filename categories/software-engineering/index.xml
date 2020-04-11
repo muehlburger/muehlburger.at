@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Engineering on DI Herbert Mühlburger</title>
+    <title>Software Engineering on IT-ZT DI Herbert Mühlburger</title>
     <link>/categories/software-engineering/</link>
-    <description>Recent content in Software Engineering on DI Herbert Mühlburger</description>
+    <description>Recent content in Software Engineering on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 17 Nov 2016 10:25:34 +0000</pubDate>
       
       <guid>/2016/11/video-knowledge-is-power-getting-out-of-trouble-by-understanding-git/</guid>
-      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&#39;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
+      <description>Have you ever wondered how git works internally or why git does certain things in a certain way? Recently I found an interesting talk about git&amp;rsquo;s internals on https://gotocon.com. It explains all the building blocks that you need to understand to better understand git.
   Knowledge is Power: Getting out of Trouble by Understanding Git</description>
     </item>
     
