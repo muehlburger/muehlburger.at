@@ -4,7 +4,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-11-14T14:55:26+01:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,6 +15,81 @@
                 hreflang="en"
                 href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/deep-neural-networks/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/learning/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/neural-networks/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perceptron/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/research/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/2020-07-21-neural-networks-explained/</loc>
+    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -33,48 +108,8 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/research/</loc>
-    <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/research-papers/</loc>
     <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
   </url>
   
   <url>
@@ -149,21 +184,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/kubernetes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/learning/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/learning/"
                 />
   </url>
   
@@ -1219,11 +1239,6 @@
   
   <url>
     <loc>/2011/11/machine-learning-is-awesome/</loc>
-    <lastmod>2011-11-16T11:04:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neural-networks/</loc>
     <lastmod>2011-11-16T11:04:20+00:00</lastmod>
   </url>
   

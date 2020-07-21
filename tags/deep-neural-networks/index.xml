@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-neural-networks on IT-ZT DI Herbert Mühlburger</title>
+    <link>/tags/deep-neural-networks/</link>
+    <description>Recent content in deep-neural-networks on IT-ZT DI Herbert Mühlburger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The different architectures of neural networks</title>
+      <link>/posts/2020-07-21-neural-networks-explained/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2020-07-21-neural-networks-explained/</guid>
+      <description>There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:
+ The mostly complete chart of Neural Networks, explained  (via towardsdatascience.com)</description>
+    </item>
+    
+  </channel>
+</rss>

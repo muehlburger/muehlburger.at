@@ -6,10 +6,55 @@
     <description>Recent content in Tags on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-neural-networks</title>
+      <link>/tags/deep-neural-networks/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perceptron</title>
+      <link>/tags/perceptron/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/perceptron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/tags/research/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>phd</title>
@@ -17,15 +62,6 @@
       <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
       
       <guid>/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/tags/research/</link>
-      <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
-      
-      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
@@ -53,15 +89,6 @@
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
       
       <guid>/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>/tags/learning/</link>
-      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
-      
-      <guid>/tags/learning/</guid>
       <description></description>
     </item>
     
@@ -1367,15 +1394,6 @@
       <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
       
       <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Networks</title>
-      <link>/tags/neural-networks/</link>
-      <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
-      
-      <guid>/tags/neural-networks/</guid>
       <description></description>
     </item>
     

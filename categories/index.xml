@@ -6,10 +6,19 @@
     <description>Recent content in Categories on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2019 14:55:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>research</title>
+      <link>/categories/research/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>phd</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
       
       <guid>/categories/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>/categories/research/</link>
-      <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
-      
-      <guid>/categories/research/</guid>
       <description></description>
     </item>
     

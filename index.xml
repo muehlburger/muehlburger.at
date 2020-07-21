@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>The different architectures of neural networks</title>
+      <link>/posts/2020-07-21-neural-networks-explained/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/posts/2020-07-21-neural-networks-explained/</guid>
+      <description>There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:
+ The mostly complete chart of Neural Networks, explained  (via towardsdatascience.com)</description>
+    </item>
+    
+    <item>
       <title>How to read research papers</title>
       <link>/posts/how-to-read-research-papers/</link>
       <pubDate>Thu, 14 Nov 2019 14:55:26 +0100</pubDate>
