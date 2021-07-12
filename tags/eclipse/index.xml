@@ -6,11 +6,7 @@
     <description>Recent content in Eclipse on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Mar 2011 18:19:18 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 12 Mar 2011 18:19:18 +0000</lastBuildDate><atom:link href="/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HowTo set up the Android SDK on Ubuntu for HTC Phones</title>
       <link>/2011/03/howto-set-up-the-android-sdk-on-ubuntu-for-htc-phones/</link>

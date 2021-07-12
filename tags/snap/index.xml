@@ -6,11 +6,7 @@
     <description>Recent content in SNAP on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jul 2014 11:23:47 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/snap/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Jul 2014 11:23:47 +0000</lastBuildDate><atom:link href="/tags/snap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stanford Large Network Dataset Collection</title>
       <link>/2014/07/stanford-large-network-dataset-collection/</link>

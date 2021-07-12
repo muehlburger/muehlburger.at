@@ -6,11 +6,7 @@
     <description>Recent content in smob on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2008 08:28:52 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/smob/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 Nov 2008 08:28:52 +0000</lastBuildDate><atom:link href="/tags/smob/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SMOB – A Prototype for Semantic Microblogging</title>
       <link>/2008/11/smob-a-prototype-for-semantic-microblogging/</link>

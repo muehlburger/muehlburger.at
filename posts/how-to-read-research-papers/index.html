@@ -4,9 +4,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
 
     <meta name="author" content="IT-ZT DI Herbert Mühlburger">
-    <meta name="description" content="Experienced Technology Architect and Senior Software Engineer.">
+    <meta name="description" content="Guide on how to read reasearch papers from Andrew Ng">
     <meta name="keywords" content="IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer">
 
     <meta name="twitter:card" content="summary"/>
@@ -16,14 +20,12 @@
     <meta property="og:title" content="How to read research papers" />
 <meta property="og:description" content="Guide on how to read reasearch papers from Andrew Ng" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/how-to-read-research-papers/" />
+<meta property="og:url" content="/posts/how-to-read-research-papers/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2019-11-14T14:55:26+01:00" />
 <meta property="article:modified_time" content="2019-11-14T14:55:26+01:00" />
 
 
-    
-      <base href="/posts/how-to-read-research-papers/">
-    
+
     <title>
   How to read research papers · IT-ZT DI Herbert Mühlburger
 </title>
@@ -32,14 +34,12 @@
       <link rel="canonical" href="/posts/how-to-read-research-papers/">
     
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
 
     
       
       
-      <link rel="stylesheet" href="/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="/css/coder.min.34dfa7b2f5cdeb0f5302b2628f4a7a4bfe88a2431e1397ee4ec605c56ab69701.css" integrity="sha256-NN&#43;nsvXN6w9TArJij0p6S/6IokMeE5fuTsYFxWq2lwE=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -47,64 +47,77 @@
     
 
     
-      <link rel="stylesheet" href="/css/cookieconsent.min.css" />
-    
 
     
-      <script src="/js/cookieconsent.min.js"></script>
-    
-      <script src="/js/init-cookieconsent.js"></script>
-    
-    
+
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.69.0" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.85.0" />
   </head>
 
   
   
-  <body class="colorscheme-light">
+  <body class="preload-transitions colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="/">
       IT-ZT DI Herbert Mühlburger
     </a>
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
-      
-        
-          <li class="navigation-item">
-            <a class="navigation-link" href="/posts/">Posts</a>
-          </li>
-        
-          <li class="navigation-item">
-            <a class="navigation-link" href="/about/">About me</a>
-          </li>
-        
-      
-      
-        
-        
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
         
           
-            
-              <li class="navigation-item menu-separator">
-                <span>|</span>
-              </li>
-              
-            
             <li class="navigation-item">
-              <a href="/de/">Deutsch</a>
+              <a class="navigation-link" href="/posts/">Posts</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About me</a>
             </li>
           
         
+        
+          
+          
+          
+            
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/de/">Deutsch</a>
+              </li>
+            
           
         
-      
-    </ul>
+      </ul>
+    
   </section>
 </nav>
 
@@ -115,51 +128,73 @@
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">How to read research papers</h1>
+          <h1 class="title">
+            <a class="title-link" href="/posts/how-to-read-research-papers/">
+              How to read research papers
+            </a>
+          </h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fas fa-calendar"></i>
+              <i class="fa fa-calendar" aria-hidden="true"></i>
               <time datetime='2019-11-14T14:55:26&#43;01:00'>
                 November 14, 2019
               </time>
             </span>
             <span class="reading-time">
-              <i class="fas fa-clock"></i>
-              2 minutes read
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              2-minute read
             </span>
           </div>
+          
           <div class="categories">
-  <i class="fas fa-folder"></i>
+  <i class="fa fa-folder" aria-hidden="true"></i>
     <a href="/categories/research/">research</a>
       <span class="separator">•</span>
     <a href="/categories/phd/">phd</a></div>
 
           <div class="tags">
-  <i class="fas fa-tag"></i>
-    <a href="/tags/research/">research</a>
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/research/">research</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/phd/">phd</a>
+    <span class="tag">
+      <a href="/tags/phd/">phd</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/research-papers/">research-papers</a></div>
+    <span class="tag">
+      <a href="/tags/research-papers/">research-papers</a>
+    </span></div>
 
         </div>
       </header>
 
       <div>
+        
         <p>Reading research papers can be hard and therefore I looked for strategies to optimize my paper readings. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from <a href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>, an Adjunct Professor at Stanford University.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/733m6qBH-jI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h2 id="here-are-my-notes-on-how-to-read-research-papers">Here are my notes on how to read research papers:</h2>
+<h2 id="here-are-my-notes-on-how-to-read-research-papers">
+  Here are my notes on how to read research papers:
+  <a class="heading-link" href="#here-are-my-notes-on-how-to-read-research-papers">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
 <ul>
 <li>Read 5-20 papers to get a basic understanding of a field</li>
 <li>Read 50 - 100 papers and you have a very good understanding</li>
 </ul>
-<h2 id="steps-to-understand-a-field">Steps to understand a field</h2>
+<h2 id="steps-to-understand-a-field">
+  Steps to understand a field
+  <a class="heading-link" href="#steps-to-understand-a-field">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
 <p>Andrew Ng proposes the following three steps to understand a field better:</p>
 <ol>
 <li>Compile a list of papers (research papers, blog posts, &hellip;)</li>
@@ -167,21 +202,36 @@
 <li>Take mulitple passes through the papers</li>
 </ol>
 <p>Make a list of 5 papers, read 10% of every paper and try to understand it. Try to find relevant other papers and update the list.</p>
-<h2 id="steps-to-read-a-paper">Steps to read a paper</h2>
+<h2 id="steps-to-read-a-paper">
+  Steps to read a paper
+  <a class="heading-link" href="#steps-to-read-a-paper">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
 <ol>
 <li>Read the Title, Abstract, Figures</li>
 <li>Read Introduction, Conclusions, Figures, skip rest (skim related work)</li>
 <li>Read the paper skip/skim the math</li>
 <li>Read whole paper but skip things that don&rsquo;t make sense</li>
 </ol>
-<h2 id="ask-the-following-questions-while-reading">Ask the following questions while reading</h2>
+<h2 id="ask-the-following-questions-while-reading">
+  Ask the following questions while reading
+  <a class="heading-link" href="#ask-the-following-questions-while-reading">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
 <ul>
 <li>What do the authors try to accomplish?</li>
 <li>What are the key elements of the approach?</li>
 <li>What can you use yourself?</li>
 <li>What other references do your want to follow?</li>
 </ul>
-<h2 id="sources-of-papers">Sources of papers</h2>
+<h2 id="sources-of-papers">
+  Sources of papers
+  <a class="heading-link" href="#sources-of-papers">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h2>
 <ul>
 <li>Twitter</li>
 <li>Machine Learning Subreddit</li>
@@ -191,6 +241,7 @@
 <p>My field of study is currently Intrusion Detectio (Cybersecurity) and Artificial Intelligence methods. You may think this is quite broad, and I agree. I try to narrow it down to a more specific topic. If you are interesting in my work just contact me and I&rsquo;ll be happy to share experiences.</p>
 
       </div>
+
 
       <footer>
         
@@ -212,7 +263,7 @@
     
     <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
-     © 2020
+     © 2021
     
     · <a href="/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
     
@@ -221,7 +272,25 @@
     </main>
 
     
+      
+      <script src="/js/coder.min.03b17769f4f91ae35667e1f2a1ca8c16f50562576cf90ff32b3179926914daa5.js" integrity="sha256-A7F3afT5GuNWZ&#43;HyocqMFvUFYlds&#43;Q/zKzF5kmkU2qU="></script>
+    
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
   </body>
 
 </html>

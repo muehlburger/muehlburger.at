@@ -6,11 +6,7 @@
     <description>Recent content in research on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The different architectures of neural networks</title>
       <link>/2020/architectures-of-neural-networks-explained/</link>
@@ -28,7 +24,7 @@
       
       <guid>/posts/how-to-read-research-papers/</guid>
       <description>Reading research papers can be hard and therefore I looked for strategies to optimize my paper readings. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from Andrew Ng, an Adjunct Professor at Stanford University.
-  Here are my notes on how to read research papers:  Read 5-20 papers to get a basic understanding of a field Read 50 - 100 papers and you have a very good understanding  Steps to understand a field Andrew Ng proposes the following three steps to understand a field better:</description>
+  Here are my notes on how to read research papers:     Read 5-20 papers to get a basic understanding of a field Read 50 - 100 papers and you have a very good understanding  Steps to understand a field    Andrew Ng proposes the following three steps to understand a field better:</description>
     </item>
     
   </channel>

@@ -6,11 +6,7 @@
     <description>Recent content in Mobile phone on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2009 09:07:27 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/mobile-phone/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 22 Jul 2009 09:07:27 +0000</lastBuildDate><atom:link href="/tags/mobile-phone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
       <link>/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
@@ -40,7 +36,7 @@ Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at 
       <guid>/2009/02/video-google-latitude/</guid>
       <description>Googlereleased a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
 [youtube Q-Oq-9enE-k]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
   </channel>

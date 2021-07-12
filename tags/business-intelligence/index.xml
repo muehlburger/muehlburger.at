@@ -6,11 +6,7 @@
     <description>Recent content in Business Intelligence on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate><atom:link href="/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to fix error on Pentaho Data Integration (Kettle) startup</title>
       <link>/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</link>
@@ -32,7 +28,7 @@ and change the end of the file in the following way:
       <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
       
       <guid>/2009/08/video-the-history-of-business-intelligence/</guid>
-      <description>I have found a really nice video explaining &amp;lt;a title=&amp;quot;Business Ingelligence&amp;rdquo; href=&amp;quot;http://de.wikipedia.org/wiki/Business-Intelligence&amp;rdquo; mce_href=&amp;quot;http://de.wikipedia.org/wiki/Business-Intelligence&amp;rdquo; target=&amp;rdquo;_blank&amp;quot;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
+      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; target=&amp;quot;_blank&amp;rdquo;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
 [youtube _1y5jBESLPE]</description>
     </item>
     

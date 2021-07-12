@@ -6,11 +6,7 @@
     <description>Recent content in Ubuntu on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Mar 2014 14:04:18 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 12 Mar 2014 14:04:18 +0000</lastBuildDate><atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to mount Novell directory in Ubuntu</title>
       <link>/2014/03/how-to-mount-novell-directory-in-ubuntu/</link>
@@ -50,7 +46,7 @@ I first followed the steps for Ubuntu as described in Setting up a Device for D
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
     </item>
     
     <item>

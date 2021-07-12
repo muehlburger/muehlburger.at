@@ -6,11 +6,7 @@
     <description>Recent content in Categories on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>research</title>
       <link>/categories/research/</link>
@@ -44,15 +40,6 @@
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
       
       <guid>/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>/categories/video/</link>
-      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
-      
-      <guid>/categories/video/</guid>
       <description></description>
     </item>
     
@@ -152,6 +139,15 @@
       <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
       
       <guid>/categories/fintec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
+      
+      <guid>/categories/video/</guid>
       <description></description>
     </item>
     

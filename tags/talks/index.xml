@@ -6,11 +6,7 @@
     <description>Recent content in Talks on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jan 2012 08:17:48 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 26 Jan 2012 08:17:48 +0000</lastBuildDate><atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Introduction to GIT Version Control by Scott Chacon of GitHub</title>
       <link>/2012/01/video-introduction-to-git-version-control-by-scott-chacon-of-github/</link>

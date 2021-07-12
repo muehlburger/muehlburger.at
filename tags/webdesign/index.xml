@@ -6,11 +6,7 @@
     <description>Recent content in webdesign on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Mar 2010 07:35:31 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 24 Mar 2010 07:35:31 +0000</lastBuildDate><atom:link href="/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – Understanding Gradients in CSS3</title>
       <link>/2010/03/video-understanding-gradients-in-css3/</link>
@@ -38,7 +34,7 @@
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
       <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
 Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
   </channel>

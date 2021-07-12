@@ -6,11 +6,7 @@
     <description>Recent content in Computer Science on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of Microservices</title>
       <link>/2018/02/the-evolution-of-microservices/</link>
@@ -184,7 +180,7 @@ Das folgende Video beschreibt was “die meisten Schulen (noch) nicht lehren” 
       <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
       
       <guid>/2011/11/machine-learning-is-awesome/</guid>
-      <description>Machine Learning Class Machine Learning has always been a topic that attracted my interest. Currently I attend the “Machine Learning” class (@ml_class) offered by Prof. Andrew Ngfrom Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
+      <description>Machine Learning Class    Machine Learning has always been a topic that attracted my interest. Currently I attend the “Machine Learning” class (@ml_class) offered by Prof. Andrew Ngfrom Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
  Linear regressionwith one variable Linear regression with multiple variable One-vs-all Classification Regularization Backpropagation Algorithm Neural Networks Practical advise for applying learning algorithms How to develop and debug learning algorithms Feature and model design, setting up experiments  Other interesting topics are following.</description>
     </item>
     
@@ -205,7 +201,7 @@ Es werden per HTTP POST Request Anfragen an http://www.</description>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
       
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2 Android Marketfor Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Appsfor Google TV Android Development Tools Taking Android to Work Related articles </description>
+      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
     </item>
     
     <item>
@@ -287,7 +283,7 @@ I first followed the steps for Ubuntu as described in Setting up a Device for D
  Have fun watching the interesting video:
 [youtube Ax9kmoyzl1Y]
 (via wired.com)
- Related articles </description>
+   Related articles    </description>
     </item>
     
     <item>
@@ -296,7 +292,7 @@ I first followed the steps for Ubuntu as described in Setting up a Device for D
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
       
       <guid>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
-      <description> Related Articles </description>
+      <description> Related Articles    </description>
     </item>
     
     <item>
@@ -326,7 +322,7 @@ As a part of their “Internet of Things” series ReadWriteWebcame up with an a
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
     </item>
     
     <item>
@@ -354,7 +350,7 @@ Now we have an mathematical proof that explains why this is true:
       <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 [youtube xHXn3Kg2IQE]
 (via Google I/O 2010)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -378,7 +374,7 @@ Update: Apart from this information ReadWriteWebfound some interesting new featu
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -400,7 +396,7 @@ RWW asks how will this change affect your companie’s search engine optimizatio
       
       <guid>/2010/08/video-by-google-on-k-means-clustering/</guid>
       <description>Recently I was searching for good ressources explaining the k-means clustering algorithm. I found the following video from Google Research on YouTube. It explains the K-Means clustering algorithm quite well.
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -421,7 +417,7 @@ At every cycle, members read the selected paper at home and then meet up for an 
       
       <guid>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
       <description>I have just found this very interesting video dealing with the implementation of HBaseand Pigin combination with Hadoopat Twitter:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -446,7 +442,7 @@ This solves in parts the following problem. Maybe some of you have already notic
  A longer answer to this question is the following video explaining what I.B.M. Watson is in detail:
 [youtube FC3IryWr4c8]
 (via New York Times Technology)
- Related articles </description>
+   Related articles    </description>
     </item>
     
     <item>
@@ -578,7 +574,7 @@ Great event and great device. Will have a try hopefully soon!</description>
       <guid>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
       <description>On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he’d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.
 Here is the interview of Zuckerberg:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -717,7 +713,7 @@ Enjoy learning Java and afterwards take a look at JavaFX.</description>
       <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
 UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
 (via Smashing Magazine)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -813,7 +809,7 @@ Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at 
       <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!
 This video I found on the gorgeous TED Talks. Enjoy watching.
 (via TED)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -854,7 +850,7 @@ Related articles by Zemanta </description>
       <guid>/2009/02/web-design-interfaces/</guid>
       <description>I have found two great posts on web designinterfaces. The first one deales with 30 essential controlsused in web interfaces. The second one descirbes 15 common componentsused in web user interface design.
 On designwebinterfaces.comyou can find many more useful posts dealing with web design interfaces.
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -865,7 +861,7 @@ Related articles by Zemanta </description>
       <guid>/2009/02/video-google-latitude/</guid>
       <description>Googlereleased a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
 [youtube Q-Oq-9enE-k]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -885,7 +881,7 @@ Related articles by Zemanta </description>
       <guid>/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</guid>
       <description>SuggestRSSis a service suggesting feeds based on your actual feeds. Just uploada OPMLexportof your current subscribed feeds and you are going to get nice new suggestions. I tried it out and think it is very useful.
 (via ReadWriteWeb)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -928,7 +924,7 @@ Auszug aus dem Abstract:
       <pubDate>Fri, 16 Jan 2009 11:05:55 +0000</pubDate>
       
       <guid>/2009/01/video/</guid>
-      <description>Internetof Services makes live of young parents easier  Once a baby is born the organization marathonis just starting for it’s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Researchis developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providerswith each other by the internet. This saves time and lakework in the future.</description>
+      <description>Internetof Services makes live of young parents easier     Once a baby is born the organization marathonis just starting for it’s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Researchis developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providerswith each other by the internet. This saves time and lakework in the future.</description>
     </item>
     
     <item>
@@ -1092,7 +1088,7 @@ I will post fotos regularly on my Mobile Blog, please have a look at it!</descri
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
       <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
 Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>

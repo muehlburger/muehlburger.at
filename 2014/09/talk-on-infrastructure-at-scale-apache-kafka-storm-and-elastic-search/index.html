@@ -4,9 +4,15 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
 
     <meta name="author" content="IT-ZT DI Herbert Mühlburger">
-    <meta name="description" content="Experienced Technology Architect and Senior Software Engineer.">
+    <meta name="description" content="The following talk gives a good overview on the technologies used by Loggly.comto build their scalable real-time-search log-processing infrastructure.
+The slides of the talk can be found here:
+Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services">
     <meta name="keywords" content="IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer">
 
     <meta name="twitter:card" content="summary"/>
@@ -20,14 +26,12 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
 The slides of the talk can be found here:
 Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC303) | AWS re:Invent 2013 from Amazon Web Services" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/" />
+<meta property="og:url" content="/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2014-09-06T07:35:27+00:00" />
 <meta property="article:modified_time" content="2014-09-06T07:35:27+00:00" />
 
 
-    
-      <base href="/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/">
-    
+
     <title>
   Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search · IT-ZT DI Herbert Mühlburger
 </title>
@@ -36,14 +40,12 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
       <link rel="canonical" href="/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/">
     
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
 
     
       
       
-      <link rel="stylesheet" href="/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="/css/coder.min.34dfa7b2f5cdeb0f5302b2628f4a7a4bfe88a2431e1397ee4ec605c56ab69701.css" integrity="sha256-NN&#43;nsvXN6w9TArJij0p6S/6IokMeE5fuTsYFxWq2lwE=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -51,64 +53,77 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
     
 
     
-      <link rel="stylesheet" href="/css/cookieconsent.min.css" />
-    
 
     
-      <script src="/js/cookieconsent.min.js"></script>
-    
-      <script src="/js/init-cookieconsent.js"></script>
-    
-    
+
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.69.0" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.85.0" />
   </head>
 
   
   
-  <body class="colorscheme-light">
+  <body class="preload-transitions colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="/">
       IT-ZT DI Herbert Mühlburger
     </a>
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
-      
-        
-          <li class="navigation-item">
-            <a class="navigation-link" href="/posts/">Posts</a>
-          </li>
-        
-          <li class="navigation-item">
-            <a class="navigation-link" href="/about/">About me</a>
-          </li>
-        
-      
-      
-        
-        
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
         
           
-            
-              <li class="navigation-item menu-separator">
-                <span>|</span>
-              </li>
-              
-            
             <li class="navigation-item">
-              <a href="/de/">Deutsch</a>
+              <a class="navigation-link" href="/posts/">Posts</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About me</a>
             </li>
           
         
+        
+          
+          
+          
+            
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/de/">Deutsch</a>
+              </li>
+            
           
         
-      
-    </ul>
+      </ul>
+    
   </section>
 </nav>
 
@@ -119,23 +134,28 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search</h1>
+          <h1 class="title">
+            <a class="title-link" href="/2014/09/talk-on-infrastructure-at-scale-apache-kafka-storm-and-elastic-search/">
+              Talk on Infrastructure at Scale: Apache Kafka, Storm and Elastic Search
+            </a>
+          </h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
-              <i class="fas fa-calendar"></i>
+              <i class="fa fa-calendar" aria-hidden="true"></i>
               <time datetime='2014-09-06T07:35:27Z'>
                 September 6, 2014
               </time>
             </span>
             <span class="reading-time">
-              <i class="fas fa-clock"></i>
-              One minute read
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              One-minute read
             </span>
           </div>
+          
           <div class="categories">
-  <i class="fas fa-folder"></i>
+  <i class="fa fa-folder" aria-hidden="true"></i>
     <a href="/categories/computer-science/">Computer Science</a>
       <span class="separator">•</span>
     <a href="/categories/realtime/">Realtime</a>
@@ -143,35 +163,55 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
     <a href="/categories/video/">Video</a></div>
 
           <div class="tags">
-  <i class="fas fa-tag"></i>
-    <a href="/tags/apache/">Apache</a>
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/apache/">Apache</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/infrastructure/">infrastructure</a>
+    <span class="tag">
+      <a href="/tags/infrastructure/">infrastructure</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/kafka/">kafka</a>
+    <span class="tag">
+      <a href="/tags/kafka/">kafka</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/loggly/">loggly</a>
+    <span class="tag">
+      <a href="/tags/loggly/">loggly</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/processing/">processing</a>
+    <span class="tag">
+      <a href="/tags/processing/">processing</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/realtime/">realtime</a>
+    <span class="tag">
+      <a href="/tags/realtime/">realtime</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/storm/">storm</a>
+    <span class="tag">
+      <a href="/tags/storm/">storm</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/talk/">talk</a>
+    <span class="tag">
+      <a href="/tags/talk/">talk</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/video/">video</a></div>
+    <span class="tag">
+      <a href="/tags/video/">video</a>
+    </span></div>
 
         </div>
       </header>
 
       <div>
+        
         <p>The following talk gives a good overview on the technologies used by <!-- raw HTML omitted -->Loggly.com<!-- raw HTML omitted --> to build their scalable real-time-search log-processing infrastructure.</p>
 <p>The slides of the talk can be found here:</p>
 <p><strong><!-- raw HTML omitted -->Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC303) | AWS re:Invent 2013<!-- raw HTML omitted --></strong> from <strong><!-- raw HTML omitted -->Amazon Web Services<!-- raw HTML omitted --></strong></p>
 <!-- raw HTML omitted -->
 
       </div>
+
 
       <footer>
         
@@ -193,7 +233,7 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
     
     <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
-     © 2020
+     © 2021
     
     · <a href="/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
     
@@ -202,7 +242,25 @@ Infrastructure at Scale: Apache Kafka, Twitter Storm &amp; Elastic Search (ARC30
     </main>
 
     
+      
+      <script src="/js/coder.min.03b17769f4f91ae35667e1f2a1ca8c16f50562576cf90ff32b3179926914daa5.js" integrity="sha256-A7F3afT5GuNWZ&#43;HyocqMFvUFYlds&#43;Q/zKzF5kmkU2qU="></script>
+    
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
   </body>
 
 </html>

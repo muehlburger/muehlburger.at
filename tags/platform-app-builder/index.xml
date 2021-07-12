@@ -6,11 +6,7 @@
     <description>Recent content in Platform App Builder on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2015 11:59:44 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/platform-app-builder/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Nov 2015 11:59:44 +0000</lastBuildDate><atom:link href="/tags/platform-app-builder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certified Salesforce Platform App Builder – Part 1: Exam Overview</title>
       <link>/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</link>
@@ -19,7 +15,7 @@
       <guid>/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</guid>
       <description>In order to prepare and pass the Salesforce App Builder ExamI follow the learning path as described in the official “Certified Salesforce Platform App Builder Study Guide“.
 But how many questions on each topic have to be answered in the exam? The total number of questions is 60 and the expected number of questions on each topic can easily be calculated:
-Overview of exam questions per topic &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Weight&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Questions&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 27% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 16,2 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 20% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 12 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 14% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 8,4 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 10% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 6 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 3% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 1,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;100%&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;60&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  My strategy is to begin with the most important topic with the most questions and work my way down to the end of the list.</description>
+Overview of exam questions per topic    &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Weight&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Questions&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 27% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 16,2 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 20% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 12 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 14% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 8,4 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 10% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 6 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 3% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 1,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;100%&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;60&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  My strategy is to begin with the most important topic with the most questions and work my way down to the end of the list.</description>
     </item>
     
   </channel>

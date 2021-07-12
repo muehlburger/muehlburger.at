@@ -6,11 +6,7 @@
     <description>Recent content in Open source on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate><atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
       <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
@@ -33,7 +29,7 @@
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>

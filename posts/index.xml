@@ -6,11 +6,7 @@
     <description>Recent content in Posts on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The different architectures of neural networks</title>
       <link>/2020/architectures-of-neural-networks-explained/</link>
@@ -28,7 +24,7 @@
       
       <guid>/posts/how-to-read-research-papers/</guid>
       <description>Reading research papers can be hard and therefore I looked for strategies to optimize my paper readings. How should you read a research paper? How many papers should you read in order to understand a field broadly? There is a good talk on this topic from Andrew Ng, an Adjunct Professor at Stanford University.
-  Here are my notes on how to read research papers:  Read 5-20 papers to get a basic understanding of a field Read 50 - 100 papers and you have a very good understanding  Steps to understand a field Andrew Ng proposes the following three steps to understand a field better:</description>
+  Here are my notes on how to read research papers:     Read 5-20 papers to get a basic understanding of a field Read 50 - 100 papers and you have a very good understanding  Steps to understand a field    Andrew Ng proposes the following three steps to understand a field better:</description>
     </item>
     
     <item>
@@ -39,7 +35,7 @@
       <guid>/2019/01/istio/</guid>
       <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
 Kudos to Lachlan Evenson for creating this content:
-Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources.</description>
+Setting Sail with Istio      Istio - up and running by Lachlan Evenson      Istio - adding services to the mesh by Lachlan Evenson      Istio - Working with Ingress      Istio - Working with Egress      Istio - Request Routing      Istio - Fault Injection Testing      I hope you find something useful in these resources.</description>
     </item>
     
     <item>
@@ -69,7 +65,7 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
       
       <guid>/2018/01/what-are-serverless-architectures/</guid>
       <description>For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
-Mike Roberts - Definition of Serverless   No management of server hosts or server processes You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
+Mike Roberts - Definition of Serverless      No management of server hosts or server processes    You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
     </item>
     
     <item>
@@ -79,7 +75,7 @@ Mike Roberts - Definition of Serverless   No management of server hosts or serve
       
       <guid>/2018/01/javascript-rising-stars-2017/</guid>
       <description>In 2016 Create React Appsolved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.
- Vue Ecosystem  Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
+ Vue Ecosystem     Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
     </item>
     
     <item>
@@ -181,7 +177,7 @@ Assuming that your pdf is called “input.pdf” and consists only of one page. 
       <guid>/2015/11/certified-salesforce-platform-app-builder-part-1-exam-overview/</guid>
       <description>In order to prepare and pass the Salesforce App Builder ExamI follow the learning path as described in the official “Certified Salesforce Platform App Builder Study Guide“.
 But how many questions on each topic have to be answered in the exam? The total number of questions is 60 and the expected number of questions on each topic can easily be calculated:
-Overview of exam questions per topic &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Weight&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Questions&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 27% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 16,2 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 20% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 12 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 14% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 8,4 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 10% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 6 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 3% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 1,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;100%&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;60&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  My strategy is to begin with the most important topic with the most questions and work my way down to the end of the list.</description>
+Overview of exam questions per topic    &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Weight&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td width=&amp;quot;87&amp;quot;&amp;gt; &amp;lt;strong&amp;gt;Questions&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 27% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 16,2 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 20% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 12 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 14% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 8,4 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 10% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 6 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 8% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 4,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 5% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 3 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; 3% &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; 1,8 &amp;lt;/td&amp;gt;  &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;100%&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td&amp;gt; &amp;lt;strong&amp;gt;60&amp;lt;/strong&amp;gt; &amp;lt;/td&amp;gt;  My strategy is to begin with the most important topic with the most questions and work my way down to the end of the list.</description>
     </item>
     
     <item>
@@ -255,9 +251,9 @@ The SNAP Collectioncontains datasets from various domains such as:
       
       <guid>/2014/04/nine-building-blocks-of-business-models/</guid>
       <description>In Alexander Osterwalder’s business model generation canvas every organization’s business model can be described using 9 building blocks:
-  Customer Segments This are all the people and organizations for which you are creating value. This includes simple users and paying customers.
-Value Proposition This are products and services that create value for each of your customer segments.
-Channels Channels describe through which touch points you are interacting with your customers and delivering value.</description>
+  Customer Segments    This are all the people and organizations for which you are creating value. This includes simple users and paying customers.
+Value Proposition    This are products and services that create value for each of your customer segments.
+Channels    Channels describe through which touch points you are interacting with your customers and delivering value.</description>
     </item>
     
     <item>
@@ -331,9 +327,9 @@ There is also a great video covering the current state of the art in crypto held
       
       <guid>/2013/07/free-online-courses-on-finance-and-related-topics/</guid>
       <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:
-Open Yale Courses Yale provides two courses (ECON 252, ECON 251):
- ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses Stanford University provides a course on
- Finance.  Coursera.org Courses On Coursera there are lots of online courses.</description>
+Open Yale Courses    Yale provides two courses (ECON 252, ECON 251):
+ ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses    Stanford University provides a course on
+ Finance.  Coursera.org Courses    On Coursera there are lots of online courses.</description>
     </item>
     
     <item>
@@ -389,7 +385,7 @@ Das folgende Video beschreibt was “die meisten Schulen (noch) nicht lehren” 
       
       <guid>/2011/11/simple-flashlight-v3-1/</guid>
       <description>Die “Simple Flashlight” App für Android ist nun in der Version 3.1 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet. Es wurde die transparente Displaybeleuchtung entfernt. Zudem gibt es jetzt die Möglichkeit, durch “Wischen” nach rechts bzw. links die Farbe des Bildschirms auf rot oder blau zu ändern.
-Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swipe nach rechts =&amp;gt; Bildschirm blau färben Swipe nach links =&amp;gt; Bildschirm rot färben Swipe verbessert  Recent Changes (v3.</description>
+Recent Changes (v3.1)     Displaybeleuchtung verbessert (Transparenz entfernt) Swipe nach rechts =&amp;gt; Bildschirm blau färben Swipe nach links =&amp;gt; Bildschirm rot färben Swipe verbessert  Recent Changes (v3.</description>
     </item>
     
     <item>
@@ -399,7 +395,7 @@ Recent Changes (v3.1)  Displaybeleuchtung verbessert (Transparenz entfernt) Swip
       
       <guid>/2011/11/simple-flashlight-v-3-0/</guid>
       <description>Die “Simple Flashlight” App für Android ist nun in der Version 3.0 im Market verfügbar. Simple Flashlight ist eine einfache Taschenlampe für dein Mobiltelefon oder deinen Tablet.
-Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit  Downloaden und ausprobieren: https://market.</description>
+Recent Changes (v3.0)      Möglichkeit die App zu starten indem man die Suchtaste gedrückt hält  Bildschirmbeleuchtung ist nun transparent  Swipe-up und Swipe-Down zum dimmen der Bildschirmhelligkeit  Downloaden und ausprobieren: https://market.</description>
     </item>
     
     <item>
@@ -408,7 +404,7 @@ Recent Changes (v3.0)   Möglichkeit die App zu starten indem man die Suchtaste
       <pubDate>Wed, 16 Nov 2011 11:04:20 +0000</pubDate>
       
       <guid>/2011/11/machine-learning-is-awesome/</guid>
-      <description>Machine Learning Class Machine Learning has always been a topic that attracted my interest. Currently I attend the “Machine Learning” class (@ml_class) offered by Prof. Andrew Ngfrom Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
+      <description>Machine Learning Class    Machine Learning has always been a topic that attracted my interest. Currently I attend the “Machine Learning” class (@ml_class) offered by Prof. Andrew Ngfrom Stanford University. The class is awesome. The video lectures are made of small chunks explaining every topic in detail. A lot of topics were already covered:
  Linear regressionwith one variable Linear regression with multiple variable One-vs-all Classification Regularization Backpropagation Algorithm Neural Networks Practical advise for applying learning algorithms How to develop and debug learning algorithms Feature and model design, setting up experiments  Other interesting topics are following.</description>
     </item>
     
@@ -429,7 +425,7 @@ Es werden per HTTP POST Request Anfragen an http://www.</description>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
       
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2 Android Marketfor Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Appsfor Google TV Android Development Tools Taking Android to Work Related articles </description>
+      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
     </item>
     
     <item>
@@ -521,7 +517,7 @@ http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
  Have fun watching the interesting video:
 [youtube Ax9kmoyzl1Y]
 (via wired.com)
- Related articles </description>
+   Related articles    </description>
     </item>
     
     <item>
@@ -530,7 +526,7 @@ http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
       
       <guid>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
-      <description> Related Articles </description>
+      <description> Related Articles    </description>
     </item>
     
     <item>
@@ -560,7 +556,7 @@ As a part of their “Internet of Things” series ReadWriteWebcame up with an a
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
     </item>
     
     <item>
@@ -588,7 +584,7 @@ Now we have an mathematical proof that explains why this is true:
       <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 [youtube xHXn3Kg2IQE]
 (via Google I/O 2010)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -613,7 +609,7 @@ Update: Apart from this information ReadWriteWebfound some interesting new featu
       <description>Have you ever asked yourself if why your employer is not really able to motivate you to love your work? One of the reasons why people are motivated doing what they do is because they see a purpose in their work. This fact you already see in “Maslov’s Hierarchy of Needs“. The following video demonstrates the surprising truth about what drives our motivation.
 [youtube u6XAPnuFjJc]
 (via Facebook: Georg Kompacher)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -624,7 +620,7 @@ Related articles </description>
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -646,7 +642,7 @@ RWW asks how will this change affect your companie’s search engine optimizatio
       
       <guid>/2010/08/video-by-google-on-k-means-clustering/</guid>
       <description>Recently I was searching for good ressources explaining the k-means clustering algorithm. I found the following video from Google Research on YouTube. It explains the K-Means clustering algorithm quite well.
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -678,7 +674,7 @@ At every cycle, members read the selected paper at home and then meet up for an 
       
       <guid>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
       <description>I have just found this very interesting video dealing with the implementation of HBaseand Pigin combination with Hadoopat Twitter:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -703,7 +699,7 @@ This solves in parts the following problem. Maybe some of you have already notic
  A longer answer to this question is the following video explaining what I.B.M. Watson is in detail:
 [youtube FC3IryWr4c8]
 (via New York Times Technology)
- Related articles </description>
+   Related articles    </description>
     </item>
     
     <item>
@@ -715,8 +711,8 @@ This solves in parts the following problem. Maybe some of you have already notic
       <description>GMand OnStarare working on the integration of mobile Androidapplication into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
 [youtube KFj3OdXxszk]
 Fordwas also working on integrating mobile applications into their cars as the following two videos demonstrate:
-SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]
-Ford SYNCand Pandora Pandorais a free internet radio which currently sadly cannot be accesed in Austria.</description>
+SYNC AppLink and the New 2011 Ford Fiesta    [youtube 3xSOON3hxPg]
+Ford SYNCand Pandora   Pandorais a free internet radio which currently sadly cannot be accesed in Austria.</description>
     </item>
     
     <item>
@@ -747,7 +743,7 @@ Ford SYNCand Pandora Pandorais a free internet radio which currently sadly canno
       <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
 [vimeo 11529540]
 What do you think? Do you think the Semantic Web is going to happen as many people think?
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -768,7 +764,7 @@ Related articles by Zemanta </description>
       <description>The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebookfor example has gained 200 million users in just one year. That’s incredible …
 http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
 (via crowdspringand mashable)
-Related articles  Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.com) Social Media Revolution 2 (Refresh) (viralblog.</description>
+Related articles     Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.</description>
     </item>
     
     <item>
@@ -794,7 +790,7 @@ Another great presentation from Tobias Ivarssongives an overview on NoSQL:
       <description>These days Googlehas released a videodemonstrating the speed of their new betaGoogle Chromebrowser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
 For everybody who is interested in the making of this video will like the following one too:
 (via ReadWriteWeband Mashable)
-Related articles  Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
+Related articles     Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
     </item>
     
     <item>
@@ -939,7 +935,7 @@ Great event and great device. Will have a try hopefully soon!</description>
       <guid>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
       <description>On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he’d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.
 Here is the interview of Zuckerberg:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1088,7 +1084,7 @@ Enjoy learning Java and afterwards take a look at JavaFX.</description>
       <description>Recently I have found a great video demonstrating the user interface design fundamentals every programmer should know. Check out the video, it is really interesting!
 UI Fundamentals for Programmers by Ryan Singer from ChicagoRuby on Vimeo.
 (via Smashing Magazine)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1118,7 +1114,7 @@ The first page of the presented scientific paper called “Touchable Holography�
       <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
       
       <guid>/2009/08/video-the-history-of-business-intelligence/</guid>
-      <description>I have found a really nice video explaining &amp;lt;a title=&amp;quot;Business Ingelligence&amp;rdquo; href=&amp;quot;http://de.wikipedia.org/wiki/Business-Intelligence&amp;rdquo; mce_href=&amp;quot;http://de.wikipedia.org/wiki/Business-Intelligence&amp;rdquo; target=&amp;rdquo;_blank&amp;quot;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
+      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; target=&amp;quot;_blank&amp;rdquo;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
 [youtube _1y5jBESLPE]</description>
     </item>
     
@@ -1194,7 +1190,7 @@ Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at 
       <description>Just found a nice video about twitter and it’s users called the Twittersphere.
 [youtube PN2HAroA12w]
 (via blogdrauf.de)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1206,7 +1202,7 @@ Related articles by Zemanta </description>
       <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!
 This video I found on the gorgeous TED Talks. Enjoy watching.
 (via TED)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1247,7 +1243,7 @@ Related articles by Zemanta </description>
       <guid>/2009/02/web-design-interfaces/</guid>
       <description>I have found two great posts on web designinterfaces. The first one deales with 30 essential controlsused in web interfaces. The second one descirbes 15 common componentsused in web user interface design.
 On designwebinterfaces.comyou can find many more useful posts dealing with web design interfaces.
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1258,7 +1254,7 @@ Related articles by Zemanta </description>
       <guid>/2009/02/video-google-latitude/</guid>
       <description>Googlereleased a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
 [youtube Q-Oq-9enE-k]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1278,7 +1274,7 @@ Related articles by Zemanta </description>
       <guid>/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</guid>
       <description>SuggestRSSis a service suggesting feeds based on your actual feeds. Just uploada OPMLexportof your current subscribed feeds and you are going to get nice new suggestions. I tried it out and think it is very useful.
 (via ReadWriteWeb)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -1321,7 +1317,7 @@ Auszug aus dem Abstract:
       <pubDate>Fri, 16 Jan 2009 11:05:55 +0000</pubDate>
       
       <guid>/2009/01/video/</guid>
-      <description>Internetof Services makes live of young parents easier  Once a baby is born the organization marathonis just starting for it’s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Researchis developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providerswith each other by the internet. This saves time and lakework in the future.</description>
+      <description>Internetof Services makes live of young parents easier     Once a baby is born the organization marathonis just starting for it’s parents: register the birth, register with the health insurance, apply for parents allowances and arrange a lot of other appointments. SAP Researchis developing an internet platform aimed at helping youg parents. Automated Services will connect authorities and service providerswith each other by the internet. This saves time and lakework in the future.</description>
     </item>
     
     <item>
@@ -1524,7 +1520,7 @@ I will post fotos regularly on my Mobile Blog, please have a look at it!</descri
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
       <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
 Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>

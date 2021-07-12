@@ -6,11 +6,7 @@
     <description>Recent content in JavaScript on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2018 10:26:44 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Jan 2018 10:26:44 +0000</lastBuildDate><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript Rising Stars 2017</title>
       <link>/2018/01/javascript-rising-stars-2017/</link>
@@ -18,7 +14,7 @@
       
       <guid>/2018/01/javascript-rising-stars-2017/</guid>
       <description>In 2016 Create React Appsolved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.
- Vue Ecosystem  Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
+ Vue Ecosystem     Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
     </item>
     
     <item>

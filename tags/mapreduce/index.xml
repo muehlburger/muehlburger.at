@@ -6,11 +6,7 @@
     <description>Recent content in MapReduce on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jun 2010 06:17:16 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/mapreduce/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 25 Jun 2010 06:17:16 +0000</lastBuildDate><atom:link href="/tags/mapreduce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – HBase and Pig: The Hadoop Ecosystem at Twitter</title>
       <link>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</link>
@@ -18,7 +14,7 @@
       
       <guid>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
       <description>I have just found this very interesting video dealing with the implementation of HBaseand Pigin combination with Hadoopat Twitter:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>

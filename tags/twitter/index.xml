@@ -6,11 +6,7 @@
     <description>Recent content in twitter on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 May 2011 17:36:10 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 06 May 2011 17:36:10 +0000</lastBuildDate><atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers</title>
       <link>/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</link>
@@ -28,7 +24,7 @@
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -38,7 +34,7 @@ Related articles </description>
       
       <guid>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
       <description>I have just found this very interesting video dealing with the implementation of HBaseand Pigin combination with Hadoopat Twitter:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -96,7 +92,7 @@ Another great presentation from Tobias Ivarssongives an overview on NoSQL:
       <description>Just found a nice video about twitter and it’s users called the Twittersphere.
 [youtube PN2HAroA12w]
 (via blogdrauf.de)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -108,7 +104,7 @@ Related articles by Zemanta </description>
       <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!
 This video I found on the gorgeous TED Talks. Enjoy watching.
 (via TED)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>

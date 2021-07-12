@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/de/categories/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="de"
                 href="/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/2019/01/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="de"
                 href="/de/2019/01/istio/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/tags/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="de"
                 href="/de/tags/istio/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/categories/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -60,9 +53,20 @@
                 hreflang="de"
                 href="/de/categories/istio/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/de/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+  </url><url>
     <loc>/de/tags/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -75,9 +79,7 @@
                 hreflang="de"
                 href="/de/tags/kubernetes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/categories/kubernetes/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -90,9 +92,7 @@
                 hreflang="de"
                 href="/de/categories/kubernetes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/tags/learning/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -105,9 +105,7 @@
                 hreflang="de"
                 href="/de/tags/learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/posts/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -120,9 +118,7 @@
                 hreflang="de"
                 href="/de/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/tags/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -135,9 +131,7 @@
                 hreflang="de"
                 href="/de/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/tags/videos/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -150,9 +144,7 @@
                 hreflang="de"
                 href="/de/tags/videos/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/categories/videos/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -165,9 +157,7 @@
                 hreflang="de"
                 href="/de/categories/videos/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/datenschutz/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,24 +170,7 @@
                 hreflang="de"
                 href="/de/datenschutz/"
                 />
-  </url>
-  
-  <url>
-    <loc>/de/</loc>
-    <lastmod>2008-10-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/about/</loc>
     <lastmod>2008-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -210,9 +183,7 @@
                 hreflang="de"
                 href="/de/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/de/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -225,5 +196,4 @@
                 href="/de/series/"
                 />
   </url>
-  
 </urlset>

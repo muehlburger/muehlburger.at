@@ -6,11 +6,7 @@
     <description>Recent content in Cluster analysis on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Aug 2010 12:43:43 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/cluster-analysis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 04 Aug 2010 12:43:43 +0000</lastBuildDate><atom:link href="/tags/cluster-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video by Google on K-Means Clustering</title>
       <link>/2010/08/video-by-google-on-k-means-clustering/</link>
@@ -18,7 +14,7 @@
       
       <guid>/2010/08/video-by-google-on-k-means-clustering/</guid>
       <description>Recently I was searching for good ressources explaining the k-means clustering algorithm. I found the following video from Google Research on YouTube. It explains the K-Means clustering algorithm quite well.
-Related articles </description>
+Related articles    </description>
     </item>
     
   </channel>

@@ -6,11 +6,7 @@
     <description>Recent content in Testing on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/testing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate><atom:link href="/categories/testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
       <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>

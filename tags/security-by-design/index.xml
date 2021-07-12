@@ -6,11 +6,7 @@
     <description>Recent content in Security by Design on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/security-by-design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/security-by-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security by Design</title>
       <link>/2017/02/security-by-design/</link>

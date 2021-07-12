@@ -6,11 +6,7 @@
     <description>Recent content in Java on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2018 10:26:44 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 17 Jan 2017 16:17:01 +0000</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Kafka Streams</title>
       <link>/2017/01/apache-kafka-streams/</link>
@@ -62,7 +58,7 @@ JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
     </item>
     
     <item>
@@ -74,7 +70,7 @@ Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&a
       <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 [youtube xHXn3Kg2IQE]
 (via Google I/O 2010)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>

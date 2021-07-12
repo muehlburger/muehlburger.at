@@ -6,11 +6,7 @@
     <description>Recent content in RSS on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/rss/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate><atom:link href="/tags/rss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obama’s impressive use of Semantic Web Technologies</title>
       <link>/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
@@ -29,7 +25,7 @@
       <guid>/2009/01/suggestrss-great-service-to-suggest-interesting-feeds/</guid>
       <description>SuggestRSSis a service suggesting feeds based on your actual feeds. Just uploada OPMLexportof your current subscribed feeds and you are going to get nice new suggestions. I tried it out and think it is very useful.
 (via ReadWriteWeb)
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
   </channel>

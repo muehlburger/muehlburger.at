@@ -6,11 +6,7 @@
     <description>Recent content in Oracle on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jan 2011 20:45:32 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Jan 2011 20:45:32 +0000</lastBuildDate><atom:link href="/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
       <link>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
@@ -18,7 +14,7 @@
       
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
       <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
+Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
     </item>
     
   </channel>

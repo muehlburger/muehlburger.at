@@ -6,11 +6,7 @@
     <description>Recent content in Tags on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>deep-neural-networks</title>
       <link>/tags/deep-neural-networks/</link>
@@ -93,29 +89,11 @@
     </item>
     
     <item>
-      <title>video</title>
-      <link>/tags/video/</link>
-      <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
-      
-      <guid>/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>videos</title>
       <link>/tags/videos/</link>
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
       
       <guid>/tags/videos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AR</title>
-      <link>/tags/ar/</link>
-      <pubDate>Wed, 26 Dec 2018 16:32:23 +0100</pubDate>
-      
-      <guid>/tags/ar/</guid>
       <description></description>
     </item>
     
@@ -246,15 +224,6 @@
     </item>
     
     <item>
-      <title>Java</title>
-      <link>/tags/java/</link>
-      <pubDate>Fri, 19 Jan 2018 10:26:44 +0000</pubDate>
-      
-      <guid>/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JavaScript</title>
       <link>/tags/javascript/</link>
       <pubDate>Fri, 19 Jan 2018 10:26:44 +0000</pubDate>
@@ -305,6 +274,15 @@
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/goroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>/tags/video/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/video/</guid>
       <description></description>
     </item>
     
@@ -422,6 +400,15 @@
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/stateless-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/tags/java/</link>
+      <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
+      
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
@@ -575,15 +562,6 @@
       <pubDate>Sun, 01 Nov 2015 11:59:44 +0000</pubDate>
       
       <guid>/tags/salesforce-certified-platform-app-builder-exam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>study</title>
-      <link>/tags/study/</link>
-      <pubDate>Sun, 01 Nov 2015 11:59:44 +0000</pubDate>
-      
-      <guid>/tags/study/</guid>
       <description></description>
     </item>
     
@@ -813,15 +791,6 @@
     </item>
     
     <item>
-      <title>Data</title>
-      <link>/tags/data/</link>
-      <pubDate>Mon, 21 Jul 2014 11:23:47 +0000</pubDate>
-      
-      <guid>/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dataset</title>
       <link>/tags/dataset/</link>
       <pubDate>Mon, 21 Jul 2014 11:23:47 +0000</pubDate>
@@ -872,15 +841,6 @@
       <pubDate>Mon, 14 Apr 2014 15:48:20 +0000</pubDate>
       
       <guid>/tags/building-blocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>/tags/business/</link>
-      <pubDate>Mon, 14 Apr 2014 15:48:20 +0000</pubDate>
-      
-      <guid>/tags/business/</guid>
       <description></description>
     </item>
     
@@ -971,15 +931,6 @@
       <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
       
       <guid>/tags/encryption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTTP</title>
-      <link>/tags/http/</link>
-      <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
-      
-      <guid>/tags/http/</guid>
       <description></description>
     </item>
     
@@ -1407,6 +1358,15 @@
     </item>
     
     <item>
+      <title>HTTP</title>
+      <link>/tags/http/</link>
+      <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
+      
+      <guid>/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JSON</title>
       <link>/tags/json/</link>
       <pubDate>Fri, 26 Aug 2011 09:17:35 +0000</pubDate>
@@ -1497,15 +1457,6 @@
     </item>
     
     <item>
-      <title>Key</title>
-      <link>/tags/key/</link>
-      <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
-      
-      <guid>/tags/key/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Keynote</title>
       <link>/tags/keynote/</link>
       <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
@@ -1587,15 +1538,6 @@
     </item>
     
     <item>
-      <title>Computer</title>
-      <link>/tags/computer/</link>
-      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
-      
-      <guid>/tags/computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computer Science</title>
       <link>/tags/computer-science/</link>
       <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
@@ -1628,15 +1570,6 @@
       <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
       
       <guid>/tags/iphone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile</title>
-      <link>/tags/mobile/</link>
-      <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
-      
-      <guid>/tags/mobile/</guid>
       <description></description>
     </item>
     
@@ -1875,15 +1808,6 @@
     </item>
     
     <item>
-      <title>game</title>
-      <link>/tags/game/</link>
-      <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
-      
-      <guid>/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Games</title>
       <link>/tags/games/</link>
       <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
@@ -1961,15 +1885,6 @@
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
       
       <guid>/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph</title>
-      <link>/tags/graph/</link>
-      <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
-      
-      <guid>/tags/graph/</guid>
       <description></description>
     </item>
     
@@ -2154,15 +2069,6 @@
     </item>
     
     <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Fri, 21 Jan 2011 06:44:35 +0000</pubDate>
-      
-      <guid>/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web server</title>
       <link>/tags/web-server/</link>
       <pubDate>Fri, 21 Jan 2011 06:44:35 +0000</pubDate>
@@ -2267,6 +2173,15 @@
       <pubDate>Sun, 09 Jan 2011 13:19:33 +0000</pubDate>
       
       <guid>/tags/salary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>/tags/mobile/</link>
+      <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
+      
+      <guid>/tags/mobile/</guid>
       <description></description>
     </item>
     
@@ -2393,15 +2308,6 @@
       <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
       
       <guid>/tags/online-communities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social network</title>
-      <link>/tags/social-network/</link>
-      <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
-      
-      <guid>/tags/social-network/</guid>
       <description></description>
     </item>
     
@@ -2568,15 +2474,6 @@
     </item>
     
     <item>
-      <title>graz</title>
-      <link>/tags/graz/</link>
-      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
-      
-      <guid>/tags/graz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graz University of Technology</title>
       <link>/tags/graz-university-of-technology/</link>
       <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
@@ -2600,6 +2497,15 @@
       <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
       
       <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social network</title>
+      <link>/tags/social-network/</link>
+      <pubDate>Wed, 21 Jul 2010 19:27:07 +0000</pubDate>
+      
+      <guid>/tags/social-network/</guid>
       <description></description>
     </item>
     
@@ -2757,15 +2663,6 @@
     </item>
     
     <item>
-      <title>Pandora</title>
-      <link>/tags/pandora/</link>
-      <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
-      
-      <guid>/tags/pandora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pandora Radio</title>
       <link>/tags/pandora-radio/</link>
       <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
@@ -2789,6 +2686,15 @@
       <pubDate>Tue, 18 May 2010 10:17:20 +0000</pubDate>
       
       <guid>/tags/bibsonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>/tags/business/</link>
+      <pubDate>Tue, 18 May 2010 10:17:20 +0000</pubDate>
+      
+      <guid>/tags/business/</guid>
       <description></description>
     </item>
     
@@ -2973,6 +2879,15 @@
     </item>
     
     <item>
+      <title>Key</title>
+      <link>/tags/key/</link>
+      <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
+      
+      <guid>/tags/key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Math</title>
       <link>/tags/math/</link>
       <pubDate>Mon, 10 May 2010 06:11:17 +0000</pubDate>
@@ -3086,6 +3001,15 @@
       <pubDate>Tue, 04 May 2010 08:27:09 +0000</pubDate>
       
       <guid>/tags/assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graz</title>
+      <link>/tags/graz/</link>
+      <pubDate>Tue, 04 May 2010 08:27:09 +0000</pubDate>
+      
+      <guid>/tags/graz/</guid>
       <description></description>
     </item>
     
@@ -3252,15 +3176,6 @@
     </item>
     
     <item>
-      <title>Protocol</title>
-      <link>/tags/protocol/</link>
-      <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
-      
-      <guid>/tags/protocol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Protocols</title>
       <link>/tags/protocols/</link>
       <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
@@ -3320,6 +3235,15 @@
       <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
       
       <guid>/tags/nettuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
+      
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     
@@ -3387,20 +3311,20 @@
     </item>
     
     <item>
+      <title>game</title>
+      <link>/tags/game/</link>
+      <pubDate>Mon, 08 Feb 2010 21:41:35 +0000</pubDate>
+      
+      <guid>/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JavaFX</title>
       <link>/tags/javafx/</link>
       <pubDate>Mon, 08 Feb 2010 21:41:35 +0000</pubDate>
       
       <guid>/tags/javafx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Link</title>
-      <link>/tags/link/</link>
-      <pubDate>Mon, 08 Feb 2010 21:41:35 +0000</pubDate>
-      
-      <guid>/tags/link/</guid>
       <description></description>
     </item>
     
@@ -3504,15 +3428,6 @@
     </item>
     
     <item>
-      <title>future</title>
-      <link>/tags/future/</link>
-      <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
-      
-      <guid>/tags/future/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Future of Internet</title>
       <link>/tags/future-of-internet/</link>
       <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
@@ -3563,6 +3478,15 @@
       <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
       
       <guid>/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol</title>
+      <link>/tags/protocol/</link>
+      <pubDate>Thu, 28 Jan 2010 21:03:06 +0000</pubDate>
+      
+      <guid>/tags/protocol/</guid>
       <description></description>
     </item>
     
@@ -3756,6 +3680,15 @@
     </item>
     
     <item>
+      <title>future</title>
+      <link>/tags/future/</link>
+      <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
+      
+      <guid>/tags/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>trends</title>
       <link>/tags/trends/</link>
       <pubDate>Mon, 28 Dec 2009 23:02:10 +0000</pubDate>
@@ -3842,15 +3775,6 @@
       <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
       
       <guid>/tags/pivot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>windows</title>
-      <link>/tags/windows/</link>
-      <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
-      
-      <guid>/tags/windows/</guid>
       <description></description>
     </item>
     
@@ -4008,6 +3932,15 @@
     </item>
     
     <item>
+      <title>Data</title>
+      <link>/tags/data/</link>
+      <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
+      
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data warehouse</title>
       <link>/tags/data-warehouse/</link>
       <pubDate>Thu, 12 Nov 2009 08:07:33 +0000</pubDate>
@@ -4049,6 +3982,15 @@
       <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
       
       <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR</title>
+      <link>/tags/ar/</link>
+      <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
+      
+      <guid>/tags/ar/</guid>
       <description></description>
     </item>
     
@@ -4530,29 +4472,11 @@
     </item>
     
     <item>
-      <title>University</title>
-      <link>/tags/university/</link>
-      <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
-      
-      <guid>/tags/university/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>University of London</title>
       <link>/tags/university-of-london/</link>
       <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
       
       <guid>/tags/university-of-london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flu</title>
-      <link>/tags/flu/</link>
-      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
-      
-      <guid>/tags/flu/</guid>
       <description></description>
     </item>
     
@@ -4580,15 +4504,6 @@
       <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
       
       <guid>/tags/media-lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIT</title>
-      <link>/tags/mit/</link>
-      <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
-      
-      <guid>/tags/mit/</guid>
       <description></description>
     </item>
     
@@ -4845,11 +4760,11 @@
     </item>
     
     <item>
-      <title>wiki</title>
-      <link>/tags/wiki/</link>
+      <title>Link</title>
+      <link>/tags/link/</link>
       <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
       
-      <guid>/tags/wiki/</guid>
+      <guid>/tags/link/</guid>
       <description></description>
     </item>
     
@@ -4868,15 +4783,6 @@
       <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
       
       <guid>/tags/on-the-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>problem</title>
-      <link>/tags/problem/</link>
-      <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
-      
-      <guid>/tags/problem/</guid>
       <description></description>
     </item>
     
@@ -5097,15 +5003,6 @@
     </item>
     
     <item>
-      <title>Computers</title>
-      <link>/tags/computers/</link>
-      <pubDate>Mon, 23 Feb 2009 08:47:52 +0000</pubDate>
-      
-      <guid>/tags/computers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computers and Internet</title>
       <link>/tags/computers-and-internet/</link>
       <pubDate>Mon, 23 Feb 2009 08:47:52 +0000</pubDate>
@@ -5187,6 +5084,15 @@
     </item>
     
     <item>
+      <title>Computers</title>
+      <link>/tags/computers/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>/tags/computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>E-mail address</title>
       <link>/tags/e-mail-address/</link>
       <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
@@ -5201,6 +5107,15 @@
       <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
       
       <guid>/tags/michael-genesereth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT</title>
+      <link>/tags/mit/</link>
+      <pubDate>Fri, 23 Jan 2009 09:38:25 +0000</pubDate>
+      
+      <guid>/tags/mit/</guid>
       <description></description>
     </item>
     
@@ -5565,6 +5480,15 @@
     </item>
     
     <item>
+      <title>University</title>
+      <link>/tags/university/</link>
+      <pubDate>Thu, 08 Jan 2009 11:48:37 +0000</pubDate>
+      
+      <guid>/tags/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Weblogs</title>
       <link>/tags/weblogs/</link>
       <pubDate>Thu, 08 Jan 2009 11:48:37 +0000</pubDate>
@@ -5664,6 +5588,15 @@
     </item>
     
     <item>
+      <title>wiki</title>
+      <link>/tags/wiki/</link>
+      <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
+      
+      <guid>/tags/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>errors</title>
       <link>/tags/errors/</link>
       <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
@@ -5714,6 +5647,15 @@
       <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
       
       <guid>/tags/matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>/tags/windows/</link>
+      <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
+      
+      <guid>/tags/windows/</guid>
       <description></description>
     </item>
     
@@ -5835,6 +5777,15 @@
     </item>
     
     <item>
+      <title>flu</title>
+      <link>/tags/flu/</link>
+      <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
+      
+      <guid>/tags/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>google flu trends</title>
       <link>/tags/google-flu-trends/</link>
       <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
@@ -5939,6 +5890,15 @@
       <pubDate>Tue, 11 Nov 2008 21:11:42 +0000</pubDate>
       
       <guid>/tags/zeit-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>/tags/study/</link>
+      <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
+      
+      <guid>/tags/study/</guid>
       <description></description>
     </item>
     
@@ -6074,6 +6034,15 @@
       <pubDate>Mon, 03 Nov 2008 11:50:23 +0000</pubDate>
       
       <guid>/tags/we-think/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problem</title>
+      <link>/tags/problem/</link>
+      <pubDate>Sat, 01 Nov 2008 09:24:22 +0000</pubDate>
+      
+      <guid>/tags/problem/</guid>
       <description></description>
     </item>
     
@@ -6528,6 +6497,15 @@
     </item>
     
     <item>
+      <title>Pandora</title>
+      <link>/tags/pandora/</link>
+      <pubDate>Fri, 22 Jun 2007 10:47:17 +0000</pubDate>
+      
+      <guid>/tags/pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nexus One</title>
       <link>/tags/nexus-one/</link>
       <pubDate>Fri, 15 Jun 2007 17:42:48 +0000</pubDate>
@@ -6587,6 +6565,15 @@
       <pubDate>Mon, 11 Jun 2007 07:50:03 +0000</pubDate>
       
       <guid>/tags/brandenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer</title>
+      <link>/tags/computer/</link>
+      <pubDate>Mon, 11 Jun 2007 07:50:03 +0000</pubDate>
+      
+      <guid>/tags/computer/</guid>
       <description></description>
     </item>
     
@@ -6726,15 +6713,6 @@
     </item>
     
     <item>
-      <title>bookmark</title>
-      <link>/tags/bookmark/</link>
-      <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
-      
-      <guid>/tags/bookmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bookmarking service</title>
       <link>/tags/bookmarking-service/</link>
       <pubDate>Sun, 06 May 2007 13:55:24 +0000</pubDate>
@@ -6807,6 +6785,15 @@
     </item>
     
     <item>
+      <title>bookmark</title>
+      <link>/tags/bookmark/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>/tags/bookmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combinatorics</title>
       <link>/tags/combinatorics/</link>
       <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
@@ -6821,6 +6808,15 @@
       <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
       
       <guid>/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>/tags/graph/</link>
+      <pubDate>Sun, 06 May 2007 13:44:41 +0000</pubDate>
+      
+      <guid>/tags/graph/</guid>
       <description></description>
     </item>
     

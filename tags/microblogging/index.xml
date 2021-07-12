@@ -6,11 +6,7 @@
     <description>Recent content in microblogging on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Nov 2008 09:15:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/microblogging/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 16 Nov 2008 09:15:00 +0000</lastBuildDate><atom:link href="/tags/microblogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error Message: Twitter is over capacity</title>
       <link>/2008/11/error-message-twitter-is-over-capacity/</link>

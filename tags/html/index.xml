@@ -6,11 +6,7 @@
     <description>Recent content in HTML on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate><atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
       <link>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
@@ -28,7 +24,7 @@
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
       <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
 Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
   </channel>

@@ -6,11 +6,7 @@
     <description>Recent content in Privacy on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jul 2010 19:27:07 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 21 Jul 2010 19:27:07 +0000</lastBuildDate><atom:link href="/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NOSQL Summer in Graz Kick-Off Meeting</title>
       <link>/2010/07/nosql-summer-in-graz-kick-off-meeting/</link>
@@ -40,7 +36,7 @@ At every cycle, members read the selected paper at home and then meet up for an 
       <guid>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
       <description>On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he’d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.
 Here is the interview of Zuckerberg:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
   </channel>

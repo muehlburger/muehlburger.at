@@ -6,11 +6,7 @@
     <description>Recent content in Videos on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
-    
-	<atom:link href="/categories/videos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate><atom:link href="/categories/videos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istio</title>
       <link>/2019/01/istio/</link>
@@ -19,7 +15,7 @@
       <guid>/2019/01/istio/</guid>
       <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
 Kudos to Lachlan Evenson for creating this content:
-Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - adding services to the mesh by Lachlan Evenson   Istio - Working with Ingress   Istio - Working with Egress   Istio - Request Routing   Istio - Fault Injection Testing   I hope you find something useful in these resources.</description>
+Setting Sail with Istio      Istio - up and running by Lachlan Evenson      Istio - adding services to the mesh by Lachlan Evenson      Istio - Working with Ingress      Istio - Working with Egress      Istio - Request Routing      Istio - Fault Injection Testing      I hope you find something useful in these resources.</description>
     </item>
     
     <item>
@@ -29,9 +25,9 @@ Setting Sail with Istio   Istio - up and running by Lachlan Evenson   Istio - ad
       
       <guid>/2013/07/free-online-courses-on-finance-and-related-topics/</guid>
       <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:
-Open Yale Courses Yale provides two courses (ECON 252, ECON 251):
- ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses Stanford University provides a course on
- Finance.  Coursera.org Courses On Coursera there are lots of online courses.</description>
+Open Yale Courses    Yale provides two courses (ECON 252, ECON 251):
+ ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses    Stanford University provides a course on
+ Finance.  Coursera.org Courses    On Coursera there are lots of online courses.</description>
     </item>
     
     <item>
@@ -51,7 +47,7 @@ JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
       
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2 Android Marketfor Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Appsfor Google TV Android Development Tools Taking Android to Work Related articles </description>
+      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
     </item>
     
     <item>
@@ -111,7 +107,7 @@ http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
  Have fun watching the interesting video:
 [youtube Ax9kmoyzl1Y]
 (via wired.com)
- Related articles </description>
+   Related articles    </description>
     </item>
     
     <item>
@@ -123,7 +119,7 @@ http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
       <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 [youtube xHXn3Kg2IQE]
 (via Google I/O 2010)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -135,7 +131,7 @@ Related articles </description>
       <description>Have you ever asked yourself if why your employer is not really able to motivate you to love your work? One of the reasons why people are motivated doing what they do is because they see a purpose in their work. This fact you already see in “Maslov’s Hierarchy of Needs“. The following video demonstrates the surprising truth about what drives our motivation.
 [youtube u6XAPnuFjJc]
 (via Facebook: Georg Kompacher)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -146,7 +142,7 @@ Related articles </description>
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -170,8 +166,8 @@ RWW asks how will this change affect your companie’s search engine optimizatio
       <description>GMand OnStarare working on the integration of mobile Androidapplication into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
 [youtube KFj3OdXxszk]
 Fordwas also working on integrating mobile applications into their cars as the following two videos demonstrate:
-SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]
-Ford SYNCand Pandora Pandorais a free internet radio which currently sadly cannot be accesed in Austria.</description>
+SYNC AppLink and the New 2011 Ford Fiesta    [youtube 3xSOON3hxPg]
+Ford SYNCand Pandora   Pandorais a free internet radio which currently sadly cannot be accesed in Austria.</description>
     </item>
     
     <item>
@@ -183,7 +179,7 @@ Ford SYNCand Pandora Pandorais a free internet radio which currently sadly canno
       <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
 [vimeo 11529540]
 What do you think? Do you think the Semantic Web is going to happen as many people think?
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>
@@ -195,7 +191,7 @@ Related articles by Zemanta </description>
       <description>The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebookfor example has gained 200 million users in just one year. That’s incredible …
 http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
 (via crowdspringand mashable)
-Related articles  Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.com) Social Media Revolution 2 (Refresh) (viralblog.</description>
+Related articles     Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.</description>
     </item>
     
     <item>
@@ -207,7 +203,7 @@ Related articles  Socialnomics Revisits ‘Social Media Revolution’ (socialtim
       <description>These days Googlehas released a videodemonstrating the speed of their new betaGoogle Chromebrowser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
 For everybody who is interested in the making of this video will like the following one too:
 (via ReadWriteWeband Mashable)
-Related articles  Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
+Related articles     Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
     </item>
     
     <item>

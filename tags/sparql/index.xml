@@ -6,11 +6,7 @@
     <description>Recent content in SPARQL on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/sparql/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate><atom:link href="/tags/sparql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obama’s impressive use of Semantic Web Technologies</title>
       <link>/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>

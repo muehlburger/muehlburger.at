@@ -6,18 +6,14 @@
     <description>Recent content in Hadoop on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/hadoop/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate><atom:link href="/tags/hadoop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
       <link>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
       
       <guid>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
-      <description> Related Articles </description>
+      <description> Related Articles    </description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
       <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
 [vimeo 11110059]
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>
@@ -49,7 +45,7 @@ At every cycle, members read the selected paper at home and then meet up for an 
       
       <guid>/2010/06/video-hbase-and-pig-the-hadoop-ecosystem-at-twitter/</guid>
       <description>I have just found this very interesting video dealing with the implementation of HBaseand Pigin combination with Hadoopat Twitter:
-Related articles by Zemanta </description>
+Related articles by Zemanta    </description>
     </item>
     
     <item>

@@ -5,18 +5,14 @@
     <link>/tags/google-i/o/</link>
     <description>Recent content in Google I/O on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="/tags/google-i/o/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="/tags/google-i/o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
       <link>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
       
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2 Android Marketfor Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Appsfor Google TV Android Development Tools Taking Android to Work Related articles </description>
+      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
     </item>
     
     <item>
@@ -41,7 +37,7 @@ The next video discusses business modelsthat you as a developer can use to monet
       <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
 [youtube xHXn3Kg2IQE]
 (via Google I/O 2010)
-Related articles </description>
+Related articles    </description>
     </item>
     
     <item>

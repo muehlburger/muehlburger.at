@@ -6,11 +6,7 @@
     <description>Recent content in Technology on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of Microservices</title>
       <link>/2018/02/the-evolution-of-microservices/</link>
@@ -28,7 +24,7 @@
       
       <guid>/2018/01/what-are-serverless-architectures/</guid>
       <description>For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
-Mike Roberts - Definition of Serverless   No management of server hosts or server processes You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
+Mike Roberts - Definition of Serverless      No management of server hosts or server processes    You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
     </item>
     
     <item>
@@ -38,7 +34,7 @@ Mike Roberts - Definition of Serverless   No management of server hosts or serve
       
       <guid>/2018/01/javascript-rising-stars-2017/</guid>
       <description>In 2016 Create React Appsolved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.
- Vue Ecosystem  Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
+ Vue Ecosystem     Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
     </item>
     
     <item>
