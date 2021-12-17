@@ -6,11 +6,11 @@
     <description>Recent content in Neural Networks on IT-ZT DI Herbert Mühlburger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The different architectures of neural networks</title>
       <link>/2020/architectures-of-neural-networks-explained/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/2020/architectures-of-neural-networks-explained/</guid>
       <description>There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:
