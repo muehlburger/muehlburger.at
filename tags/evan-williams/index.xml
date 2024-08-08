@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evan Williams on IT-ZT DI Herbert Mühlburger</title>
+    <title>Evan Williams on Herbert Mühlburger</title>
     <link>/tags/evan-williams/</link>
-    <description>Recent content in Evan Williams on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Evan Williams on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2009 19:22:11 +0000</lastBuildDate><atom:link href="/tags/evan-williams/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Apr 2009 19:22:11 +0000</lastBuildDate>
+    <atom:link href="/tags/evan-williams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – Evan Williams on “How Twitter’s spectacular growth is being driven by unexpected uses”</title>
       <link>/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</link>
       <pubDate>Thu, 23 Apr 2009 19:22:11 +0000</pubDate>
-      
       <guid>/2009/04/video-evan-williams-on-how-twitters-spectacular-growth-is-being-driven-by-unexpected-uses/</guid>
-      <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!
-This video I found on the gorgeous TED Talks. Enjoy watching.
-(via TED)
-Related articles by Zemanta    </description>
+      <description>The next video is about twitter’s growth by the unexpected use of the service. Very intersting video!&#xA;This video I found on the gorgeous TED Talks. Enjoy watching.&#xA;(via TED)&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>solutions on IT-ZT DI Herbert Mühlburger</title>
+    <title>Solutions on Herbert Mühlburger</title>
     <link>/tags/solutions/</link>
-    <description>Recent content in solutions on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Solutions on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2008 21:11:42 +0000</lastBuildDate><atom:link href="/tags/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Nov 2008 21:11:42 +0000</lastBuildDate>
+    <atom:link href="/tags/solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do you need a problem to solve?</title>
       <link>/2008/11/do-you-need-a-problem-to-solve/</link>
       <pubDate>Tue, 11 Nov 2008 21:11:42 +0000</pubDate>
-      
       <guid>/2008/11/do-you-need-a-problem-to-solve/</guid>
-      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.
-The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.comyou can pay and they are going to give you a problem to solve.</description>
+      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.&#xA;The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.com you can pay and they are going to give you a problem to solve.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>real-time on IT-ZT DI Herbert Mühlburger</title>
+    <title>Real-Time on Herbert Mühlburger</title>
     <link>/tags/real-time/</link>
-    <description>Recent content in real-time on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Real-Time on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Sep 2010 17:00:14 +0000</lastBuildDate><atom:link href="/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2010 17:00:14 +0000</lastBuildDate>
+    <atom:link href="/tags/real-time/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – Thoughts on Google Instant</title>
       <link>/2010/09/video-thoughts-on-google-instant/</link>
       <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
-      
       <guid>/2010/09/video-thoughts-on-google-instant/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Here is an introductory video to GoogleInstant the new search feature that Google provides for its search engine.
-http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
-I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?
-RWW asks how will this change affect your companie’s search engine optimization?tries to answer the similar question on if SEO will still be required in 5 years.</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4&#xA;I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?&#xA;RWW asks how will this change affect your companie’s search engine optimization? tries to answer the similar question on if SEO will still be required in 5 years.</description>
     </item>
-    
   </channel>
 </rss>

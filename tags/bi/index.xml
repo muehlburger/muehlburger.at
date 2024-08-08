@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BI on IT-ZT DI Herbert Mühlburger</title>
+    <title>BI on Herbert Mühlburger</title>
     <link>/tags/bi/</link>
-    <description>Recent content in BI on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in BI on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate><atom:link href="/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jul 2013 07:48:40 +0000</lastBuildDate>
+    <atom:link href="/tags/bi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to fix error on Pentaho Data Integration (Kettle) startup</title>
       <link>/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</link>
       <pubDate>Tue, 23 Jul 2013 07:48:40 +0000</pubDate>
-      
       <guid>/2013/07/how-to-fix-error-on-pentaho-data-integration-kettle-startup/</guid>
-      <description>Howto fix startup error of Pentaho Data Integration(Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open
-[code language=”bash”]spoon.sh[/code]
-and change the end of the file in the following way:
-[code language=”bash”]
-# **********************
-# ** Set java runtime options **
-# ** Change 512m to higher values in case you run out of memory **</description>
+      <description>Howto fix startup error of Pentaho Data Integration (Kettle) on CentOS 6? You just need to modify the spoon.sh startup script after downloading and unzipping Pentaho Data Integration. The modification updates the Java runtime options for Kettle to startup properly. Therefore open&#xA;[code language=”bash”]spoon.sh[/code]&#xA;and change the end of the file in the following way:&#xA;[code language=”bash”]&#xA;# **********************&#xA;# ** Set java runtime options **&#xA;# ** Change 512m to higher values in case you run out of memory **</description>
     </item>
-    
   </channel>
 </rss>

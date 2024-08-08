@@ -1,111 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on IT-ZT DI Herbert Mühlburger</title>
+    <title>Technology on Herbert Mühlburger</title>
     <link>/categories/technology/</link>
-    <description>Recent content in Technology on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Technology on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of Microservices</title>
       <link>/2018/02/the-evolution-of-microservices/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/02/the-evolution-of-microservices/</guid>
-      <description>Have you ever wondered on how the concept of Microservicesdeveloped? The following video by Adrian Cockcroftgives a quite good overview on the evolution of microservices.
-  (via Scalable Microservices with Kubernetes)</description>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.&#xA;(via Scalable Microservices with Kubernetes)</description>
     </item>
-    
     <item>
       <title>What means Serverless?</title>
       <link>/2018/01/what-are-serverless-architectures/</link>
       <pubDate>Mon, 29 Jan 2018 15:34:05 +0000</pubDate>
-      
       <guid>/2018/01/what-are-serverless-architectures/</guid>
-      <description>For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:
-Mike Roberts - Definition of Serverless      No management of server hosts or server processes    You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
+      <description>For those who want to understand Serverless architectures, I recommend reading this post by Mike Roberts. The term Serverless was already used in 2012. Mike defines the following characteristics of serverless architectures:&#xA;Mike Roberts - Definition of Serverless No management of server hosts or server processes You as a developer don’t have to care about e.g. the number of servers running your software or where where it runs or things like OS upgrades, etc.</description>
     </item>
-    
     <item>
       <title>JavaScript Rising Stars 2017</title>
       <link>/2018/01/javascript-rising-stars-2017/</link>
       <pubDate>Fri, 19 Jan 2018 10:26:44 +0000</pubDate>
-      
       <guid>/2018/01/javascript-rising-stars-2017/</guid>
-      <description>In 2016 Create React Appsolved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.
- Vue Ecosystem     Elementand iVieware the two most popular UI component kits, both focused on rapid desktop UI development.</description>
+      <description>In 2016 Create React App solved the problem of how to start coding a React application by providing a nice set of presets, very well packaged. Facebook keeps releasing new versions very often and it was by far the most popular project in 2017 among the React ecosystem.&#xA;Vue Ecosystem Element and iView are the two most popular UI component kits, both focused on rapid desktop UI development. Mint UI and vux, on the other hand, are the two most popular mobile-focused UI kits.</description>
     </item>
-    
     <item>
       <title>Blockchain 101</title>
       <link>/2017/02/blockchain-101/</link>
       <pubDate>Tue, 07 Feb 2017 09:00:36 +0000</pubDate>
-      
       <guid>/2017/02/blockchain-101/</guid>
-      <description>Have you ever wondered how the Blockchainworks? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.
-  (via anders.comand anders.com/blockchain)</description>
+      <description>Have you ever wondered how the Blockchain works? I found an interesting visual illustration about Blockchains by Anders Brownworth. Anders is a coder at Circle, a FinTech company based in the US.&#xA;(via anders.com and anders.com/blockchain)</description>
     </item>
-    
     <item>
       <title>Security by Design</title>
       <link>/2017/02/security-by-design/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>/2017/02/security-by-design/</guid>
-      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.
-  </description>
+      <description>This interesting talk by Eoin Woods focusses on Security by Design. Eoin is the CTO of Endava.</description>
     </item>
-    
     <item>
       <title>Interesting Creative Digital &amp; Internet Agencies</title>
       <link>/2015/09/interesting-creative-digital-and-internet-agencies/</link>
       <pubDate>Sun, 06 Sep 2015 09:40:16 +0000</pubDate>
-      
       <guid>/2015/09/interesting-creative-digital-and-internet-agencies/</guid>
-      <description>Since several months I work as a Full Stack Software Engineer for Scoop &amp;amp; Spoon, a creative digital &amp;amp; internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital &amp;amp; internet agencies are out there and luckily found an interesting article in the brand einsmagazine regarding this topic. The following list is a compilation of interesting agencies out there:
- **Scoop &amp;amp; Spoon **(www.scoopandspoon.com) TRONIC Innovation (tronic.</description>
+      <description>Since several months I work as a Full Stack Software Engineer for Scoop &amp;amp; Spoon, a creative digital &amp;amp; internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital &amp;amp; internet agencies are out there and luckily found an interesting article in the brand eins magazine regarding this topic. The following list is a compilation of interesting agencies out there:&#xA;**Scoop &amp;amp; Spoon **(www.scoopandspoon.com) TRONIC Innovation (tronic.</description>
     </item>
-    
     <item>
       <title>Forbes Magazine features the Austrian Startup Scene</title>
       <link>/2014/12/forbes-magazine-features-the-austrian-startup-scene/</link>
       <pubDate>Mon, 15 Dec 2014 17:33:02 +0000</pubDate>
-      
       <guid>/2014/12/forbes-magazine-features-the-austrian-startup-scene/</guid>
-      <description>Forbesis one of the top magazines on business related topics. It published an interesting article called “Scaling Alpine Heights: Austria’s Startup Scene“on the Austrian Startup Scene. The following statement attracted my attention:
- “The country is enjoying something of an entrepreneurial renaissance, driven largely by the return of some highly successful founders whose presence has awoken its capital Vienna from a start-up winter sleep.” [by Forbes]
- The Austrian startups that made it to the article are the following ones (details on the startups can be found in the article and on their corresponding website):</description>
+      <description>Forbes is one of the top magazines on business related topics. It published an interesting article called “Scaling Alpine Heights: Austria’s Startup Scene“on the Austrian Startup Scene. The following statement attracted my attention:&#xA;“The country is enjoying something of an entrepreneurial renaissance, driven largely by the return of some highly successful founders whose presence has awoken its capital Vienna from a start-up winter sleep.” [by Forbes]&#xA;The Austrian startups that made it to the article are the following ones (details on the startups can be found in the article and on their corresponding website):</description>
     </item>
-    
     <item>
       <title>Eight elementary Skills every Entrepreneur should have</title>
       <link>/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</link>
       <pubDate>Sun, 14 Dec 2014 14:45:39 +0000</pubDate>
-      
       <guid>/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</guid>
-      <description>Do you think about starting your own company? Then you should think carefully about the elementary skills you need to do so. What are the eight elementary skills every entrepreneur needs? Thomas H. Byers et. al. compiled the following list in his book on “Technology Ventures – From Idea to Enterprise”:
- Entrepreneurs initiate and operate a purposeful enterprise. Entrepreneurs operate within the context and industrial environment at the time of initiation.</description>
+      <description>Do you think about starting your own company? Then you should think carefully about the elementary skills you need to do so. What are the eight elementary skills every entrepreneur needs? Thomas H. Byers et. al. compiled the following list in his book on “Technology Ventures – From Idea to Enterprise”:&#xA;Entrepreneurs initiate and operate a purposeful enterprise. Entrepreneurs operate within the context and industrial environment at the time of initiation.</description>
     </item>
-    
     <item>
       <title>Enable HTTPS everywhere</title>
       <link>/2014/01/enable-https-everywhere/</link>
       <pubDate>Sun, 05 Jan 2014 15:35:26 +0000</pubDate>
-      
       <guid>/2014/01/enable-https-everywhere/</guid>
-      <description>Finally I finished to configure my HTTPSprotocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.
-There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
+      <description>Finally I finished to configure my HTTPS protocol support for blog.muehlburger.at. Supporting encrypted communication is an important part of the internet today. Everybody should support encrypted communication on the web. A good resource on how to select strong cypher suites and to configure your web server to support encryption properly is bettercrypto.org.&#xA;There is also a great video covering the current state of the art in crypto held by security researchers at 30C3:</description>
     </item>
-    
     <item>
       <title>Making Location completely unimportant</title>
       <link>/2013/12/making-location-completely-unimportant/</link>
       <pubDate>Thu, 19 Dec 2013 19:32:40 +0000</pubDate>
-      
       <guid>/2013/12/making-location-completely-unimportant/</guid>
-      <description>Working remote becomes more and more important to many people. Remote: Office Not Requiredwritten by Jason Fried (co-founder of 37signals) and David Heinemeier Hansson(original creator of Ruby on Rails) is a great book dealing with this topic. It describes in detail the benefits and problems of building a software company having employees working from remote locations spread all over the world. This gives them great flexibility and enables to recruit talents without being tied to a specific location.</description>
+      <description>Working remote becomes more and more important to many people. Remote: Office Not Required written by Jason Fried (co-founder of 37signals) and David Heinemeier Hansson (original creator of Ruby on Rails) is a great book dealing with this topic. It describes in detail the benefits and problems of building a software company having employees working from remote locations spread all over the world. This gives them great flexibility and enables to recruit talents without being tied to a specific location.</description>
     </item>
-    
   </channel>
 </rss>

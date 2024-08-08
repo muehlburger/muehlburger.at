@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Management Science on IT-ZT DI Herbert Mühlburger</title>
+    <title>Management Science on Herbert Mühlburger</title>
     <link>/tags/management-science/</link>
-    <description>Recent content in Management Science on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Management Science on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2009 18:37:11 +0000</lastBuildDate><atom:link href="/tags/management-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2009 18:37:11 +0000</lastBuildDate>
+    <atom:link href="/tags/management-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[paper accepted] – Will Personal Learning Environments become ubiquitous through the use of Widgets?</title>
       <link>/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</link>
       <pubDate>Mon, 25 May 2009 18:37:11 +0000</pubDate>
-      
       <guid>/2009/05/paper-accepted-will-personal-learning-environments-become-ubiquitous-through-the-use-of-widgets/</guid>
-      <description>Few time ago we got the review on our paper submitted to the 9th International Conference on Knowledge Management and Knowledge Technologies (I-KNOW ’09). The paper is titled “Will Personal Learning Environments become ubiquitous through the use of Widgets?” and was accepted as follows:
- We are pleased to inform you that your paper
-  Title: Will Personal Learning Environments become ubiquitous through the use of Widgets?
-  has been accepted for publication as short paper (max.</description>
+      <description>Few time ago we got the review on our paper submitted to the 9th International Conference on Knowledge Management and Knowledge Technologies (I-KNOW ’09). The paper is titled “Will Personal Learning Environments become ubiquitous through the use of Widgets?” and was accepted as follows:&#xA;We are pleased to inform you that your paper&#xA;Title: Will Personal Learning Environments become ubiquitous through the use of Widgets?&#xA;has been accepted for publication as short paper (max.</description>
     </item>
-    
   </channel>
 </rss>

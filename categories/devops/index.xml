@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevOps on IT-ZT DI Herbert Mühlburger</title>
+    <title>DevOps on Herbert Mühlburger</title>
     <link>/categories/devops/</link>
-    <description>Recent content in DevOps on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in DevOps on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of Microservices</title>
       <link>/2018/02/the-evolution-of-microservices/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/02/the-evolution-of-microservices/</guid>
-      <description>Have you ever wondered on how the concept of Microservicesdeveloped? The following video by Adrian Cockcroftgives a quite good overview on the evolution of microservices.
-  (via Scalable Microservices with Kubernetes)</description>
+      <description>Have you ever wondered on how the concept of Microservices developed? The following video by Adrian Cockcroft gives a quite good overview on the evolution of microservices.&#xA;(via Scalable Microservices with Kubernetes)</description>
     </item>
-    
   </channel>
 </rss>

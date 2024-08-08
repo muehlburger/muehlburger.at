@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>channels on IT-ZT DI Herbert Mühlburger</title>
+    <title>Channels on Herbert Mühlburger</title>
     <link>/tags/channels/</link>
-    <description>Recent content in channels on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Channels on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/channels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/channels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Channel Compendium by John Graham-Cumming</title>
       <link>/2017/12/a-channel-compendium-by-john-graham-cumming/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>/2017/12/a-channel-compendium-by-john-graham-cumming/</guid>
-      <description>This video explains the concept of channelsin the Go programming languagevery well. Channels are really useful to synchronize Goroutines.
-  </description>
+      <description>This video explains the concept of channels in the Go programming language very well. Channels are really useful to synchronize Goroutines.</description>
     </item>
-    
   </channel>
 </rss>

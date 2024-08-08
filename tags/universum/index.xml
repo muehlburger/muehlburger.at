@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Universum on IT-ZT DI Herbert Mühlburger</title>
+    <title>Universum on Herbert Mühlburger</title>
     <link>/tags/universum/</link>
-    <description>Recent content in Universum on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Universum on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Mar 2011 10:00:54 +0000</lastBuildDate><atom:link href="/tags/universum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2011 10:00:54 +0000</lastBuildDate>
+    <atom:link href="/tags/universum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – Bis an die Grenzen des Universums</title>
       <link>/2011/03/video-bis-an-die-grenzen-des-universums/</link>
       <pubDate>Tue, 08 Mar 2011 10:00:54 +0000</pubDate>
-      
       <guid>/2011/03/video-bis-an-die-grenzen-des-universums/</guid>
-      <description>“Bis an die Grenzen des Universums” ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
-http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
+      <description>“Bis an die Grenzen des Universums” ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
     </item>
-    
   </channel>
 </rss>

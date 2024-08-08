@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Databases on IT-ZT DI Herbert Mühlburger</title>
+    <title>Databases on Herbert Mühlburger</title>
     <link>/tags/databases/</link>
-    <description>Recent content in Databases on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Databases on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2009 09:17:53 +0000</lastBuildDate><atom:link href="/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2009 09:17:53 +0000</lastBuildDate>
+    <atom:link href="/tags/databases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – The History of Business Intelligence</title>
       <link>/2009/08/video-the-history-of-business-intelligence/</link>
       <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
-      
       <guid>/2009/08/video-the-history-of-business-intelligence/</guid>
-      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; target=&amp;quot;_blank&amp;rdquo;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
-[youtube _1y5jBESLPE]</description>
+      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&#34; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&#34; target=&amp;rdquo;_blank&amp;rdquo;&amp;gt;Business Intelligence as a concept and highlighting the development phases of Business Intelligence through the history.&#xA;[youtube _1y5jBESLPE]</description>
     </item>
-    
   </channel>
 </rss>

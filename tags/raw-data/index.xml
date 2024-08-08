@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>raw data on IT-ZT DI Herbert Mühlburger</title>
+    <title>Raw Data on Herbert Mühlburger</title>
     <link>/tags/raw-data/</link>
-    <description>Recent content in raw data on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Raw Data on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2009 10:24:44 +0000</lastBuildDate><atom:link href="/tags/raw-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2009 10:24:44 +0000</lastBuildDate>
+    <atom:link href="/tags/raw-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
       <link>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
       <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
-      
       <guid>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
-      <description>For everybody who is asking: “What’s the next step in internet evolution?” This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
-(via TED)</description>
+      <description>For everybody who is asking: “What’s the next step in internet evolution?” This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!&#xA;(via TED)</description>
     </item>
-    
   </channel>
 </rss>

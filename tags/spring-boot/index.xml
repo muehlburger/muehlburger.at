@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring Boot on IT-ZT DI Herbert Mühlburger</title>
+    <title>Spring Boot on Herbert Mühlburger</title>
     <link>/tags/spring-boot/</link>
-    <description>Recent content in Spring Boot on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Spring Boot on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stateless Authentication using JWT (JSON Web Token)</title>
       <link>/2017/01/stateless-authentication-using-jwt-json-web-token/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>/2017/01/stateless-authentication-using-jwt-json-web-token/</guid>
-      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0and JSON Web Tokens(JWT). In order to get a good understanding on these topics I found several talks that I’m going to list here.
-“100% Stateless with JWT (JSON Web Token)” by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
+      <description>Currently I work on an implementation for authentication and authorization using Spring Boot, Spring Security, OAuth 2.0 and JSON Web Tokens (JWT). In order to get a good understanding on these topics I found several talks that I’m going to list here.&#xA;“100% Stateless with JWT (JSON Web Token)” by Hubert Sablonnière. I found it very useful to get a better understanding on using JWTs to create a really stateless authentication architecture.</description>
     </item>
-    
   </channel>
 </rss>

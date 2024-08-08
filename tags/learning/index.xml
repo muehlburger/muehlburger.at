@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning on IT-ZT DI Herbert Mühlburger</title>
+    <title>Learning on Herbert Mühlburger</title>
     <link>/tags/learning/</link>
-    <description>Recent content in Learning on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Learning on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The different architectures of neural networks</title>
       <link>/2020/architectures-of-neural-networks-explained/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0200</pubDate>
-      
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/2020/architectures-of-neural-networks-explained/</guid>
-      <description>There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:
- The mostly complete chart of Neural Networks, explained  (via towardsdatascience.com)</description>
+      <description>There are a lot of different neural network architectures out there. Recently I found an article that gives a great overview on the different architectures. You can find the article here:&#xA;The mostly complete chart of Neural Networks, explained (via towardsdatascience.com)</description>
     </item>
-    
     <item>
       <title>Istio</title>
       <link>/2019/01/istio/</link>
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
-      
       <guid>/2019/01/istio/</guid>
-      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
-Kudos to Lachlan Evenson for creating this content:
-Setting Sail with Istio      Istio - up and running by Lachlan Evenson      Istio - adding services to the mesh by Lachlan Evenson      Istio - Working with Ingress      Istio - Working with Egress      Istio - Request Routing      Istio - Fault Injection Testing      I hope you find something useful in these resources.</description>
+      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.&#xA;Kudos to Lachlan Evenson for creating this content:&#xA;Setting Sail with Istio Istio - up and running by Lachlan Evenson Istio - adding services to the mesh by Lachlan Evenson Istio - Working with Ingress Istio - Working with Egress Istio - Request Routing Istio - Fault Injection Testing I hope you find something useful in these resources.</description>
     </item>
-    
     <item>
       <title>Designing for Change: Mash-Up Personal Learning Environments</title>
       <link>/2009/05/designing-for-change-mash-up-personal-learning-environments/</link>
       <pubDate>Tue, 19 May 2009 08:36:48 +0000</pubDate>
-      
       <guid>/2009/05/designing-for-change-mash-up-personal-learning-environments/</guid>
-      <description>In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:
- In this article we first clarify key concepts and assumptions for personalised learningenvironments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning. Subsequently, we propose our alternative, i.e. the concept of a mash-up personal learning environment that provides adaptation mechanisms for learning environment construction and maintenance. The web applicationmash-up solution allows learners to reuse existing (web-based) tools plus services.</description>
+      <description>In order to describe what this article is about I cite Fridolin Wild, Felix Mödritscher and Stein E. Sigurdarson:&#xA;In this article we first clarify key concepts and assumptions for personalised learning environments. Afterwards, we summarise our critique on the contemporary models for personalised adaptive learning. Subsequently, we propose our alternative, i.e. the concept of a mash-up personal learning environment that provides adaptation mechanisms for learning environment construction and maintenance. The web application mash-up solution allows learners to reuse existing (web-based) tools plus services.</description>
     </item>
-    
   </channel>
 </rss>

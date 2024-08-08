@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PLEs on IT-ZT DI Herbert Mühlburger</title>
+    <title>PLEs on Herbert Mühlburger</title>
     <link>/tags/ples/</link>
-    <description>Recent content in PLEs on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in PLEs on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate><atom:link href="/tags/ples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate>
+    <atom:link href="/tags/ples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
       <link>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
       <pubDate>Sat, 13 Jun 2009 09:32:31 +0000</pubDate>
-      
       <guid>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</guid>
       <description>&amp;lt;p&amp;gt; To take a look, you need to head over to our &amp;lt;a href=&amp;quot;http://getwookie.org/moodle&amp;quot;&amp;gt;Moodle sandbox&amp;lt;/a&amp;gt; and register yourself a profile (you&amp;amp;#8217;ll need to confirm your email address to activate the login). After that, go and &amp;lt;a href=&amp;quot;http://getwookie.org/moodle/course/view.php?id=6&amp;quot;&amp;gt;enrol yourself on this course&amp;lt;/a&amp;gt;. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Feel free to play &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;Sudoku&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.wikipedia.org/wiki/Sudoku&amp;quot;&amp;gt;Sudoku&amp;lt;/a&amp;gt;, mess with the poetry magnets, use the chat, and vote in the polls. All these tools are Widgets, written entirely in regular &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;HTML&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.</description>
     </item>
-    
   </channel>
 </rss>

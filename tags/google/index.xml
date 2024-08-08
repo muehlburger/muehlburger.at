@@ -1,302 +1,208 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>google on IT-ZT DI Herbert Mühlburger</title>
+    <title>Google on Herbert Mühlburger</title>
     <link>/tags/google/</link>
-    <description>Recent content in google on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Google on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 May 2011 11:20:59 +0000</lastBuildDate><atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2011 11:20:59 +0000</lastBuildDate>
+    <atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
       <link>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
-      
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
+      <description> Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles </description>
     </item>
-    
     <item>
       <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
       <link>/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
       <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
-      
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
-      <description>Google IOis currently taking place in San Franciscoand for everybody who could not attend Googlelive streamed quite some sessions. In the following you can see the videos which are currently published:
-[youtube OxzucwjFEEs]
-As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.
-[youtube twmuBbC_oB8]
-The next video discusses business modelsthat you as a developer can use to monetize your app.</description>
+      <description>Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:&#xA;[youtube OxzucwjFEEs]&#xA;As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.&#xA;[youtube twmuBbC_oB8]&#xA;The next video discusses business models that you as a developer can use to monetize your app.</description>
     </item>
-    
     <item>
       <title>[video] – The Filter Bubble – From Human to Algorithmic Gatekeepers</title>
       <link>/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</link>
       <pubDate>Fri, 06 May 2011 17:36:10 +0000</pubDate>
-      
       <guid>/2011/05/video-the-filter-bubble-from-human-to-algorithmic-gatekeepers/</guid>
-      <description>Web personalizationand personalized recommendations are recently gaining more and more interest. Companies like Amazon, Google, Netflix, The New York Times, Facebook, Twitter, … already personalize their products in different ways. If you take Google’s search results as an example. Have you ever noticed that a friend of you gets different search results as you do for the same search query? If you never have noticed just try it out it’s really worth noting.</description>
+      <description>Web personalization and personalized recommendations are recently gaining more and more interest. Companies like Amazon, Google, Netflix, The New York Times, Facebook, Twitter, … already personalize their products in different ways. If you take Google’s search results as an example. Have you ever noticed that a friend of you gets different search results as you do for the same search query? If you never have noticed just try it out it’s really worth noting.</description>
     </item>
-    
     <item>
       <title>Google launched In-app Billing on Android Market</title>
       <link>/2011/03/google-launched-in-app-billing-on-android-market/</link>
       <pubDate>Wed, 30 Mar 2011 10:07:20 +0000</pubDate>
-      
       <guid>/2011/03/google-launched-in-app-billing-on-android-market/</guid>
-      <description>Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.
-Google writes:
- Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
+      <description>Google yesterday launched In-app Billing on the Android Market. This feature enables developers to publish apps that use in-app Billing and users can make purchages from within the Android apps.&#xA;Google writes:&#xA;Android Market In-app Billing is an Android Market service that lets you sell digital content in your applications. You can use the service to sell a wide range of content, including downloadable content such as media files or photos, and virtual content such as game levels or potions.</description>
     </item>
-    
     <item>
       <title>[video] – Developing Android REST Client Applications</title>
       <link>/2010/12/video-developing-android-rest-client-applications/</link>
       <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
-      
       <guid>/2010/12/video-developing-android-rest-client-applications/</guid>
-      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
-[youtube xHXn3Kg2IQE]
-(via Google I/O 2010)
-Related articles    </description>
+      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.&#xA;[youtube xHXn3Kg2IQE]&#xA;(via Google I/O 2010)&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>Google released Android 2.3 Gingerbread</title>
       <link>/2010/12/google-released-android-2-3-gingerbread/</link>
       <pubDate>Tue, 07 Dec 2010 16:02:19 +0000</pubDate>
-      
       <guid>/2010/12/google-released-android-2-3-gingerbread/</guid>
-      <description>Yesterday Googlereleased a new version of Android 2.3 called Gingerbread. The following video explains some of the new features:
-[youtube Jx3pdWBlZ34]
-I am looking forward to updating my HTC Desirewhen it receives the update.
-Update: Apart from this information ReadWriteWebfound some interesting new features as stated on their weblog:
- Yesterday, Google launched a new version of the Android operating system, Android 2.3, code-named “Gingerbread.” Since then, developers have been scouring through the software development kit (SDK) to see what’s new.</description>
+      <description>Yesterday Google released a new version of Android 2.3 called Gingerbread. The following video explains some of the new features:&#xA;[youtube Jx3pdWBlZ34]&#xA;I am looking forward to updating my HTC Desire when it receives the update.&#xA;Update: Apart from this information ReadWriteWeb found some interesting new features as stated on their weblog:&#xA;Yesterday, Google launched a new version of the Android operating system, Android 2.3, code-named “Gingerbread.” Since then, developers have been scouring through the software development kit (SDK) to see what’s new.</description>
     </item>
-    
     <item>
       <title>[video] – Thoughts on Google Instant</title>
       <link>/2010/09/video-thoughts-on-google-instant/</link>
       <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
-      
       <guid>/2010/09/video-thoughts-on-google-instant/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Here is an introductory video to GoogleInstant the new search feature that Google provides for its search engine.
-http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
-I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?
-RWW asks how will this change affect your companie’s search engine optimization?tries to answer the similar question on if SEO will still be required in 5 years.</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4&#xA;I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?&#xA;RWW asks how will this change affect your companie’s search engine optimization? tries to answer the similar question on if SEO will still be required in 5 years.</description>
     </item>
-    
     <item>
       <title>Android 2.2 Froyo Update for HTC Desire</title>
       <link>/2010/07/android-2-2-froyo-update-for-htc-desire/</link>
       <pubDate>Sat, 31 Jul 2010 09:28:15 +0000</pubDate>
-      
       <guid>/2010/07/android-2-2-froyo-update-for-htc-desire/</guid>
-      <description>This weekend i will receive an update to Android 2.2 (Froyo) for my HTC Desire. I am really looking forward to this update.
-Here is the official video of Google introducing Android 2.2 (Froyo):
-[youtube yAZYSVr2Bhc]</description>
+      <description>This weekend i will receive an update to Android 2.2 (Froyo) for my HTC Desire. I am really looking forward to this update.&#xA;Here is the official video of Google introducing Android 2.2 (Froyo):&#xA;[youtube yAZYSVr2Bhc]</description>
     </item>
-    
     <item>
       <title>[video] – How fast is Google Chrome?</title>
       <link>/2010/05/video-how-fast-is-google-chrome/</link>
       <pubDate>Wed, 05 May 2010 18:12:51 +0000</pubDate>
-      
       <guid>/2010/05/video-how-fast-is-google-chrome/</guid>
-      <description>These days Googlehas released a videodemonstrating the speed of their new betaGoogle Chromebrowser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
-For everybody who is interested in the making of this video will like the following one too:
-(via ReadWriteWeband Mashable)
-Related articles     Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
+      <description>These days Google has released a video demonstrating the speed of their new beta Google Chrome browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:&#xA;For everybody who is interested in the making of this video will like the following one too:&#xA;(via ReadWriteWeb and Mashable)&#xA;Related articles Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
     </item>
-    
     <item>
       <title>Nobody Can Stop Facebook Because Nobody Understands Facebook</title>
       <link>/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</link>
       <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
-      
       <guid>/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</guid>
-      <description>Mashablehas just published a post titled “Nobody Can Stop Facebook Because Nobody Understands Facebook“. There is an interesting sentence in this post:
- Have the nuances of online privacybecome so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebookhas any intent to cause confusion, but the complexities of the open vs closed debateand the prescriptive vs descriptive nature of the “everybody” settingeffectively act to shut down public discourse.</description>
+      <description>Mashable has just published a post titled “Nobody Can Stop Facebook Because Nobody Understands Facebook“. There is an interesting sentence in this post:&#xA;Have the nuances of online privacy become so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebook has any intent to cause confusion, but the complexities of the open vs closed debate and the prescriptive vs descriptive nature of the “everybody” setting effectively act to shut down public discourse.</description>
     </item>
-    
     <item>
       <title>Problems with WordPress Automatic Upgrade solved</title>
       <link>/2010/01/problems-with-wordpress-automatic-upgrade-solved/</link>
       <pubDate>Fri, 08 Jan 2010 16:32:13 +0000</pubDate>
-      
       <guid>/2010/01/problems-with-wordpress-automatic-upgrade-solved/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  While trying to upgrade my WordPressinstallation from version 2.9 to version 2.9.1 I always got the following error:
- _Downloading update from http://wordpress.org/wordpress-2.9.1.zip._
-  Download failed.: Operation timed out with 1201840 out of -1 bytes received
-  Installation Failed
- After doing some research using Google I found a solution to that problem:
-You just need to edit the following file in order to increase the download timeout:</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; While trying to upgrade my WordPress installation from version 2.9 to version 2.9.1 I always got the following error:&#xA;Downloading update from http://wordpress.org/wordpress-2.9.1.zip.&#xA;Download failed.: Operation timed out with 1201840 out of -1 bytes received&#xA;Installation Failed&#xA;After doing some research using Google I found a solution to that problem:&#xA;You just need to edit the following file in order to increase the download timeout:</description>
     </item>
-    
     <item>
       <title>[video] – The Evolution of Google</title>
       <link>/2009/11/video-the-evolution-of-google/</link>
       <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
-      
       <guid>/2009/11/video-the-evolution-of-google/</guid>
-      <description>Through @mebnerI have found the following video demonstrating the evolution of Google:</description>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
     </item>
-    
     <item>
       <title>What will the web look like in five years?</title>
       <link>/2009/11/what-will-the-web-look-like-in-five-years/</link>
       <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
-      
       <guid>/2009/11/what-will-the-web-look-like-in-five-years/</guid>
-      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWebhas summarized the highlightsof Eric’s interview as follows:
-  Five years from now the internet will be dominated by Chinese-languagecontent. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric’s interview as follows:&#xA;Five years from now the internet will be dominated by Chinese-language content. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
     </item>
-    
     <item>
       <title>Google Grippe-Trends jetzt auch für Österreich verfügbar</title>
       <link>/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</link>
       <pubDate>Fri, 09 Oct 2009 06:22:51 +0000</pubDate>
-      
       <guid>/2009/10/google-grippe-trends-fur-oesterreich-verfuegbar/</guid>
-      <description>Google Grippe-Trends (Google Flu Trends) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten Websitekann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.
-Googlebietet auch die Möglichkeit, die zugrunde liegenden Datenfür eigene Zwecke herunterzuladen. Für jeden, der sich dafür interessiert, wie das Prinzip dahinter genau funktioniert verweise ich hier auf einen Artikel von Google (Detecting influenza epidemics using search engine query data), der in der Zeitschrift “Nature” veröffentlicht wurde.</description>
+      <description>Google Grippe-Trends (Google Flu Trends) ist nun auch in Österreich verfügbar. Auf der extra dafür eingerichteten Website kann man den derzeitigen Verlauf der Grippewelle in Österreich, sowie in viele anderen Staaten verfolgen.&#xA;Google bietet auch die Möglichkeit, die zugrunde liegenden Daten für eigene Zwecke herunterzuladen. Für jeden, der sich dafür interessiert, wie das Prinzip dahinter genau funktioniert verweise ich hier auf einen Artikel von Google (Detecting influenza epidemics using search engine query data), der in der Zeitschrift “Nature” veröffentlicht wurde.</description>
     </item>
-    
     <item>
       <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
       <link>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
       <pubDate>Sat, 13 Jun 2009 09:32:31 +0000</pubDate>
-      
       <guid>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</guid>
       <description>&amp;lt;p&amp;gt; To take a look, you need to head over to our &amp;lt;a href=&amp;quot;http://getwookie.org/moodle&amp;quot;&amp;gt;Moodle sandbox&amp;lt;/a&amp;gt; and register yourself a profile (you&amp;amp;#8217;ll need to confirm your email address to activate the login). After that, go and &amp;lt;a href=&amp;quot;http://getwookie.org/moodle/course/view.php?id=6&amp;quot;&amp;gt;enrol yourself on this course&amp;lt;/a&amp;gt;. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Feel free to play &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;Sudoku&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.wikipedia.org/wiki/Sudoku&amp;quot;&amp;gt;Sudoku&amp;lt;/a&amp;gt;, mess with the poetry magnets, use the chat, and vote in the polls. All these tools are Widgets, written entirely in regular &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;HTML&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.</description>
     </item>
-    
     <item>
       <title>Google Wave – Google’s next killer application?</title>
       <link>/2009/05/google-wave-googles-next-killer-application/</link>
       <pubDate>Sat, 30 May 2009 09:49:40 +0000</pubDate>
-      
       <guid>/2009/05/google-wave-googles-next-killer-application/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image by &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/87956460@N00/3575380674&amp;quot;&amp;gt;liako&amp;lt;/a&amp;gt; via Flickr &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Google’snewest prodcut which was announced at the GoogleI/Othis week is called Google Wave. They build an incredible tool for collaborative work and integrated services like email, instant messenging, collaborative editing, an incredible spell checkerwhich checks the context of words in order to correct spelling. Other really greate features are gadgetslike:
- linky: adds links automatically while you type searchy: lets you search the internet through the application and integrate the searched contend into a wave buggy: through buggy you are able to interact with bug trackingsoftwareand easily administer bugs  This are just some kind of great tools available in Google Wave.</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image by &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/87956460@N00/3575380674&amp;quot;&amp;gt;liako&amp;lt;/a&amp;gt; via Flickr &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; Google’s newest prodcut which was announced at the Google I/O this week is called Google Wave. They build an incredible tool for collaborative work and integrated services like email, instant messenging, collaborative editing, an incredible spell checker which checks the context of words in order to correct spelling. Other really greate features are gadgets like:&#xA;linky: adds links automatically while you type searchy: lets you search the internet through the application and integrate the searched contend into a wave buggy: through buggy you are able to interact with bug tracking software and easily administer bugs This are just some kind of great tools available in Google Wave.</description>
     </item>
-    
     <item>
       <title>[video] – Google Latitude</title>
       <link>/2009/02/video-google-latitude/</link>
       <pubDate>Thu, 05 Feb 2009 09:59:01 +0000</pubDate>
-      
       <guid>/2009/02/video-google-latitude/</guid>
-      <description>Googlereleased a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
-[youtube Q-Oq-9enE-k]
-Related articles by Zemanta    </description>
+      <description> Google released a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:&#xA;[youtube Q-Oq-9enE-k]&#xA;Related articles by Zemanta </description>
     </item>
-    
     <item>
       <title>Google’s SEO Starter Guide – How to improve your website</title>
       <link>/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
       <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
-      
       <guid>/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
-      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blogthe following lines: Webmasters often ask us at conferences or in the Webmaster Help Group, “What are some simple ways that I can improve my website’s performance in Google?” There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:&#xA;Webmasters often ask us at conferences or in the Webmaster Help Group, “What are some simple ways that I can improve my website’s performance in Google?” There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
     </item>
-    
     <item>
       <title>Google Flu Trends – Google Uses Searches to Track Flu’s Spread</title>
       <link>/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</link>
       <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
-      
       <guid>/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</guid>
-      <description>It stands to reason that people who are “starting to come down with something” often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]
- Google offers a new service called Google Flu Trends. The service uses an analysis of Google’s millions of search queries every day to calculate flu trends.</description>
+      <description>It stands to reason that people who are “starting to come down with something” often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]&#xA;Google offers a new service called Google Flu Trends. The service uses an analysis of Google’s millions of search queries every day to calculate flu trends.</description>
     </item>
-    
     <item>
       <title>European Forum Alpbach – 50 Years of EU in the World</title>
       <link>/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</link>
       <pubDate>Sat, 18 Aug 2007 07:49:01 +0000</pubDate>
-      
       <guid>/2007/08/european-forum-alpbach-50-years-of-eu-in-the-world/</guid>
-      <description>I have found a very interesting video on YouTuberegarding the history of the European Union. Please have a look at it. [youtube sO75ZsvMkc8]</description>
+      <description>I have found a very interesting video on YouTube regarding the history of the European Union. Please have a look at it. [youtube sO75ZsvMkc8]</description>
     </item>
-    
     <item>
       <title>Second Life soll Filtersystem bekommen</title>
       <link>/2007/06/second-life-soll-filtersystem-bekommen/</link>
       <pubDate>Sun, 24 Jun 2007 19:25:13 +0000</pubDate>
-      
       <guid>/2007/06/second-life-soll-filtersystem-bekommen/</guid>
-      <description>Ich habe gerade diesen Artikel zu Second Life gefunden. Demnach soll Second Life ein Filtersystem bekommen mittels dessen jede Regierung selbst entscheiden kann, welchen Gesetzen ihre Bürger in Second Life unterliegen. Hiergeht’s zum gesamten Artikel.</description>
+      <description>Ich habe gerade diesen Artikel zu Second Life gefunden. Demnach soll Second Life ein Filtersystem bekommen mittels dessen jede Regierung selbst entscheiden kann, welchen Gesetzen ihre Bürger in Second Life unterliegen. Hier geht’s zum gesamten Artikel.</description>
     </item>
-    
     <item>
       <title>ALARMD – Wecker 2.0</title>
       <link>/2007/06/alarmd-wecker-2-0/</link>
       <pubDate>Fri, 22 Jun 2007 10:47:17 +0000</pubDate>
-      
       <guid>/2007/06/alarmd-wecker-2-0/</guid>
-      <description>Wer schon immer mal von YouTubeVideos bzw. von last.fm Playlists geweckt werden wollte, der sollte sich unbedingt ALARMDanschaun! Hier kann man sich seinen Wecker online stellen. Dieser holt sich dann von YouTube bzw. über last.fm und andere Services seine Videos und Musikstreams und spielt diese zur gewünschten Zeit ab! Ich finde die Idee einfach toll und bin komplett begeistert! Sehr coole Sache!
-[via Webware]</description>
+      <description>Wer schon immer mal von YouTube Videos bzw. von last.fm Playlists geweckt werden wollte, der sollte sich unbedingt ALARMD anschaun! Hier kann man sich seinen Wecker online stellen. Dieser holt sich dann von YouTube bzw. über last.fm und andere Services seine Videos und Musikstreams und spielt diese zur gewünschten Zeit ab! Ich finde die Idee einfach toll und bin komplett begeistert! Sehr coole Sache!&#xA;[via Webware]</description>
     </item>
-    
     <item>
       <title>Google-Tochter YouTube testet digitale Videoerkennung</title>
       <link>/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</link>
       <pubDate>Fri, 15 Jun 2007 17:42:48 +0000</pubDate>
-      
       <guid>/2007/06/google-tochter-youtube-testet-digitale-videoerkennung/</guid>
-      <description>Das von Googleübernommene Web2.0 Unterenehmen YouTubetestet digitale Videoerkennung. Ziel ist es für jedes Video einen quasi Fingerabdruck zu erstellen um somit eindeutig identifizierbar zu sein. Den Originalartikel gibt es hier!
-Einen anderen interessanten Artikel dazu gibt es auf der Website www.</description>
+      <description>Das von Google übernommene Web2.0 Unterenehmen YouTube testet digitale Videoerkennung. Ziel ist es für jedes Video einen quasi Fingerabdruck zu erstellen um somit eindeutig identifizierbar zu sein. Den Originalartikel gibt es hier!&#xA;Einen anderen interessanten Artikel dazu gibt es auf der Website www.digitalnext.de.</description>
     </item>
-    
     <item>
       <title>Wer spielt noch Second Life?</title>
       <link>/2007/06/wer-spielt-noch-second-life/</link>
       <pubDate>Sat, 09 Jun 2007 15:40:42 +0000</pubDate>
-      
       <guid>/2007/06/wer-spielt-noch-second-life/</guid>
-      <description>Hallo alle miteinander!
-Ist Second Life ein Hype oder nicht!? Mich würde einmal interessieren, wer von Euch überhaupt Second Life spielt! Spielt ihr Second Life nur wegen GADI oder habt ihr auch schon vorher regelmäßig in der virtuellen Welt “gelebt”? Ich persönlich spiele überhaupt kein Second Life mehr. Den Reiz hat diese “Spiel” schon längst für mich verloren und dieser Ansich bin ich scheinbar nicht alleine, wie dieser Artikelim Standard bekräftigt.</description>
+      <description>Hallo alle miteinander!&#xA;Ist Second Life ein Hype oder nicht!? Mich würde einmal interessieren, wer von Euch überhaupt Second Life spielt! Spielt ihr Second Life nur wegen GADI oder habt ihr auch schon vorher regelmäßig in der virtuellen Welt “gelebt”? Ich persönlich spiele überhaupt kein Second Life mehr. Den Reiz hat diese “Spiel” schon längst für mich verloren und dieser Ansich bin ich scheinbar nicht alleine, wie dieser Artikel im Standard bekräftigt.</description>
     </item>
-    
     <item>
       <title>Apple iPhone</title>
       <link>/2007/04/apple-iphone/</link>
       <pubDate>Wed, 11 Apr 2007 13:42:32 +0000</pubDate>
-      
       <guid>/2007/04/apple-iphone/</guid>
-      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:
-http://www.youtube.com/watch?v=YRNugqEQYS4</description>
+      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:&#xA;http://www.youtube.com/watch?v=YRNugqEQYS4</description>
     </item>
-    
     <item>
       <title>If you don’t ask, you don’t get!</title>
       <link>/2007/03/if-you-dont-ask-you-dont-get/</link>
       <pubDate>Sun, 25 Mar 2007 19:21:11 +0000</pubDate>
-      
       <guid>/2007/03/if-you-dont-ask-you-dont-get/</guid>
-      <description>In unserer heutigen von Informationen überfluteten Informationsgesellschaft wird ein Aspekt immmer wichtiger. Dies ist das altbewährte seit Jahrhunderten praktizierte und immer wieder so hilfreiche “FRAGEN”. Auch das Web2.0 bzw. die gesamte Internet Community hat sich dies zu nutze gemacht und Aplikationen wie askeet!oder Yahoo! Answersbzw. Google Answersentwickelt. Ein interessantes Werbevideo von ask.comkann hierbewundert werden.</description>
+      <description>In unserer heutigen von Informationen überfluteten Informationsgesellschaft wird ein Aspekt immmer wichtiger. Dies ist das altbewährte seit Jahrhunderten praktizierte und immer wieder so hilfreiche “FRAGEN”. Auch das Web2.0 bzw. die gesamte Internet Community hat sich dies zu nutze gemacht und Aplikationen wie askeet! oder Yahoo! Answers bzw. Google Answers entwickelt. Ein interessantes Werbevideo von ask.com kann hier bewundert werden.</description>
     </item>
-    
     <item>
       <title>Mittendrin im “Second Life”</title>
       <link>/2007/03/mittendrin-im-second-life/</link>
       <pubDate>Sun, 25 Mar 2007 19:00:51 +0000</pubDate>
-      
       <guid>/2007/03/mittendrin-im-second-life/</guid>
-      <description>Wie so viele Medien, die heutzutage up-to-date sein wollen beschäftigt sich auch die WELT ONLINEmit dem Thema Second Life. Auf der einen Seite gibt es Menschen, die sich das Second Life als neue Welt erschließen, vom großen Geld träumen und in der virtuellen Welt mit anderen “Avataren” ihren Feierabend verbringen.
-Andere sehen das Second Life als ein Phänomen, das die Vereinsamung der Menschen vorantreibt, und durchaus Suchtpotenzial hat. Die Welt Online legt in diesem Artikeleine sehr interessante dritte Betrachtungsweise dar, die durchaus realitätsnah ist.</description>
+      <description>Wie so viele Medien, die heutzutage up-to-date sein wollen beschäftigt sich auch die WELT ONLINE mit dem Thema Second Life. Auf der einen Seite gibt es Menschen, die sich das Second Life als neue Welt erschließen, vom großen Geld träumen und in der virtuellen Welt mit anderen “Avataren” ihren Feierabend verbringen.&#xA;Andere sehen das Second Life als ein Phänomen, das die Vereinsamung der Menschen vorantreibt, und durchaus Suchtpotenzial hat. Die Welt Online legt in diesem Artikel eine sehr interessante dritte Betrachtungsweise dar, die durchaus realitätsnah ist.</description>
     </item>
-    
     <item>
       <title>Die neue Informationsgesellschaft</title>
       <link>/2007/03/die-neue-informationsgesellschaft/</link>
       <pubDate>Sun, 18 Mar 2007 18:01:26 +0000</pubDate>
-      
       <guid>/2007/03/die-neue-informationsgesellschaft/</guid>
-      <description>Die neue Informationsgesellschaft, wie sie sich in Zeiten von Web2.0zeigt, ist eines der spannenden Themen mit dem man sich zur Zeit auseinandersetzen kann.
-Wo YouTube, Flickr, last.fm, Wikipedia, StudiVZ, SchuelerVZ, Facebook, … Benutzern die Möglichkeit selbst aktiv das neue Web in einer noch nie dagewesenen Weise zu gestalten, lässt sich erkennen wie groß der Bedarf ist, sich mit anderen Benutzern zu vernetzen. Nicht nur, dass Netzwerke, wie sie sich im StudiVZbzw.</description>
+      <description>Die neue Informationsgesellschaft, wie sie sich in Zeiten von Web2.0 zeigt, ist eines der spannenden Themen mit dem man sich zur Zeit auseinandersetzen kann.&#xA;Wo YouTube, Flickr, last.fm, Wikipedia, StudiVZ, SchuelerVZ, Facebook, … Benutzern die Möglichkeit selbst aktiv das neue Web in einer noch nie dagewesenen Weise zu gestalten, lässt sich erkennen wie groß der Bedarf ist, sich mit anderen Benutzern zu vernetzen. Nicht nur, dass Netzwerke, wie sie sich im StudiVZ bzw.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Protocols on IT-ZT DI Herbert Mühlburger</title>
+    <title>Protocols on Herbert Mühlburger</title>
     <link>/tags/protocols/</link>
-    <description>Recent content in Protocols on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Protocols on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Apr 2010 08:28:25 +0000</lastBuildDate><atom:link href="/tags/protocols/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2010 08:28:25 +0000</lastBuildDate>
+    <atom:link href="/tags/protocols/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nobody Can Stop Facebook Because Nobody Understands Facebook</title>
       <link>/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</link>
       <pubDate>Tue, 27 Apr 2010 08:28:25 +0000</pubDate>
-      
       <guid>/2010/04/nobody-can-stop-facebook-because-nobody-understands-facebook/</guid>
-      <description>Mashablehas just published a post titled “Nobody Can Stop Facebook Because Nobody Understands Facebook“. There is an interesting sentence in this post:
- Have the nuances of online privacybecome so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebookhas any intent to cause confusion, but the complexities of the open vs closed debateand the prescriptive vs descriptive nature of the “everybody” settingeffectively act to shut down public discourse.</description>
+      <description>Mashable has just published a post titled “Nobody Can Stop Facebook Because Nobody Understands Facebook“. There is an interesting sentence in this post:&#xA;Have the nuances of online privacy become so complex that they’re beyond the comprehension of mere mortals? I’m not saying that Facebook has any intent to cause confusion, but the complexities of the open vs closed debate and the prescriptive vs descriptive nature of the “everybody” setting effectively act to shut down public discourse.</description>
     </item>
-    
   </channel>
 </rss>

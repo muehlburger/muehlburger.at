@@ -1,99 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on IT-ZT DI Herbert Mühlburger</title>
+    <title>Java on Herbert Mühlburger</title>
     <link>/tags/java/</link>
-    <description>Recent content in Java on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Java on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2017 16:17:01 +0000</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2017 16:17:01 +0000</lastBuildDate>
+    <atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Kafka Streams</title>
       <link>/2017/01/apache-kafka-streams/</link>
       <pubDate>Tue, 17 Jan 2017 16:17:01 +0000</pubDate>
-      
       <guid>/2017/01/apache-kafka-streams/</guid>
-      <description>I’m interested in Apache Kafka Streamsand would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhedewho co-authored Apache Kafkaand is currently a co-founder and Head of Engineering of Confluent.
-There is also a good articleon Apache Kafka Streams with lots of background information.</description>
+      <description>I’m interested in Apache Kafka Streams and would like share some information on this topic with you. There is a great talk about Stream Processing from Neha Narkhede who co-authored Apache Kafka and is currently a co-founder and Head of Engineering of Confluent.&#xA;There is also a good article on Apache Kafka Streams with lots of background information.</description>
     </item>
-    
     <item>
       <title>[video] – Docker for Java Developers</title>
       <link>/2016/12/video-docker-for-java-developers/</link>
       <pubDate>Mon, 05 Dec 2016 21:41:17 +0000</pubDate>
-      
       <guid>/2016/12/video-docker-for-java-developers/</guid>
       <description>Here is a good introductory video on Docker for Java Developers:</description>
     </item>
-    
     <item>
       <title>Javapocalypse</title>
       <link>/2013/06/javapocalypse/</link>
       <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
-      
       <guid>/2013/06/javapocalypse/</guid>
-      <description>I need to share the following video on “Javapocalypse” from JavaZone. Pushing the “Undo Java” button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
-JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
- JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+      <description>I need to share the following video on “Javapocalypse” from JavaZone. Pushing the “Undo Java” button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.&#xA;JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.&#xA;JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
     </item>
-    
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
       <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
       <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
-      
       <guid>/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
-      <description>Robotiumis an open sourcetesting framework for Androidapplications. It makes it easy to write complex black-box testcases. Test driven developmentis a methology where tests are written before the actual application.
-  Write a testcase  Watch it failing
-  Write the actual source codein you application which enables the test to pass
-  Watch the test passing
-  Go back to step 1
-  The following video gives you an introduction into Robotium:</description>
+      <description>Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.&#xA;Write a testcase&#xA;Watch it failing&#xA;Write the actual source code in you application which enables the test to pass&#xA;Watch the test passing&#xA;Go back to step 1&#xA;The following video gives you an introduction into Robotium:</description>
     </item>
-    
     <item>
       <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
       <link>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
       <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
-      
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
-      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.&#xA;Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
     </item>
-    
     <item>
       <title>[video] – Developing Android REST Client Applications</title>
       <link>/2010/12/video-developing-android-rest-client-applications/</link>
       <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
-      
       <guid>/2010/12/video-developing-android-rest-client-applications/</guid>
-      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
-[youtube xHXn3Kg2IQE]
-(via Google I/O 2010)
-Related articles    </description>
+      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.&#xA;[youtube xHXn3Kg2IQE]&#xA;(via Google I/O 2010)&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>JavaFX Links of the Week 1, February 2010</title>
       <link>/2010/02/javafx-links-of-the-week-1-february-2010/</link>
       <pubDate>Mon, 01 Feb 2010 08:20:00 +0000</pubDate>
-      
       <guid>/2010/02/javafx-links-of-the-week-1-february-2010/</guid>
-      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Gilesfor his great posts on “Java Desktop Links of the Week”. The JavaFX links are just taken from Jonathan’s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.
-Here are the JavaFX Links of the Week 1, February 2010:
-  Jim Weaver sums up the Oracle news this week nice and succinctly: ‘We will invest heavily in JavaFX‘.</description>
+      <description>Today I decided to post regularly interesting JavaFX links of the past week. Thanks to Jonathan Giles for his great posts on “Java Desktop Links of the Week”. The JavaFX links are just taken from Jonathan’s posts in order to build a little JavaFX news archieve on my own blog and to inform my subscribers on interesting JavaFX news.&#xA;Here are the JavaFX Links of the Week 1, February 2010:</description>
     </item>
-    
     <item>
       <title>[Tutorial] – Java Online Programming Course</title>
       <link>/2009/10/tutorial-java-online-programming-course/</link>
       <pubDate>Thu, 08 Oct 2009 19:35:10 +0000</pubDate>
-      
       <guid>/2009/10/tutorial-java-online-programming-course/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  For everybody who likes to learn the Java programming languageor who is forced to learn Java I have found a great online tutorialteaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.
-The online course can be found here.
-Enjoy learning Java and afterwards take a look at JavaFX.</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; For everybody who likes to learn the Java programming language or who is forced to learn Java I have found a great online tutorial teaching you the essence of Java programming. Specially students should pay attention to this course as it gives a really good introduction to the Java programming language.&#xA;The online course can be found here.&#xA;Enjoy learning Java and afterwards take a look at JavaFX.</description>
     </item>
-    
   </channel>
 </rss>

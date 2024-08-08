@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Formats on IT-ZT DI Herbert Mühlburger</title>
+    <title>Data Formats on Herbert Mühlburger</title>
     <link>/tags/data-formats/</link>
-    <description>Recent content in Data Formats on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Data Formats on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jul 2007 12:02:29 +0000</lastBuildDate><atom:link href="/tags/data-formats/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jul 2007 12:02:29 +0000</lastBuildDate>
+    <atom:link href="/tags/data-formats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
       <link>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
       <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
-      
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
-      <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
-Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta    </description>
+      <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.&#xA;Hier der Link direkt zu Jens Meierts Weblog.&#xA;[via pixelgraphix]&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

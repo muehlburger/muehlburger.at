@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hologram on IT-ZT DI Herbert Mühlburger</title>
+    <title>Hologram on Herbert Mühlburger</title>
     <link>/tags/hologram/</link>
-    <description>Recent content in hologram on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Hologram on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Nov 2008 11:11:56 +0000</lastBuildDate><atom:link href="/tags/hologram/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2008 11:11:56 +0000</lastBuildDate>
+    <atom:link href="/tags/hologram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – CNN for Holodeck</title>
       <link>/2008/11/video-cnn-for-holodeck/</link>
       <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
-      
       <guid>/2008/11/video-cnn-for-holodeck/</guid>
-      <description>CNNyesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
-http://www.youtube.com/watch?v=x2bRNA2wpYk
-(via webstandard.at)</description>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.&#xA;http://www.youtube.com/watch?v=x2bRNA2wpYk&#xA;(via webstandard.at)</description>
     </item>
-    
   </channel>
 </rss>

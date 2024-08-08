@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source code on IT-ZT DI Herbert Mühlburger</title>
+    <title>Source Code on Herbert Mühlburger</title>
     <link>/tags/source-code/</link>
-    <description>Recent content in Source code on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Source Code on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate><atom:link href="/tags/source-code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2011 12:55:52 +0000</lastBuildDate>
+    <atom:link href="/tags/source-code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
       <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
       <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
-      
       <guid>/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
-      <description>Robotiumis an open sourcetesting framework for Androidapplications. It makes it easy to write complex black-box testcases. Test driven developmentis a methology where tests are written before the actual application.
-  Write a testcase  Watch it failing
-  Write the actual source codein you application which enables the test to pass
-  Watch the test passing
-  Go back to step 1
-  The following video gives you an introduction into Robotium:</description>
+      <description>Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.&#xA;Write a testcase&#xA;Watch it failing&#xA;Write the actual source code in you application which enables the test to pass&#xA;Watch the test passing&#xA;Go back to step 1&#xA;The following video gives you an introduction into Robotium:</description>
     </item>
-    
   </channel>
 </rss>

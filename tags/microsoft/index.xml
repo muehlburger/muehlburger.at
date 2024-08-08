@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>microsoft on IT-ZT DI Herbert Mühlburger</title>
+    <title>Microsoft on Herbert Mühlburger</title>
     <link>/tags/microsoft/</link>
-    <description>Recent content in microsoft on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Microsoft on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2009 06:37:06 +0000</lastBuildDate><atom:link href="/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2009 06:37:06 +0000</lastBuildDate>
+    <atom:link href="/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pivot – Great Visualization Tool developed by Microsoft Live Labs</title>
       <link>/2009/11/pivot-developed-by-microsoft-live-labs/</link>
       <pubDate>Mon, 23 Nov 2009 06:37:06 +0000</pubDate>
-      
       <guid>/2009/11/pivot-developed-by-microsoft-live-labs/</guid>
-      <description>This time I discovered a great application developed by Microsoft Live Labscalled Pivot. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, … and filter these in different ways (zoom in/out, create links between different information items, …). The following video describes Pivot in more detail:
-[youtube BZuFUZpEZ-A]
-For the fasted nine users I will share my installation code:</description>
+      <description>This time I discovered a great application developed by Microsoft Live Labs called Pivot. Pivot enables users to discover huge information spaces by different visual filtering options. You are able to look at hundred thousands of information space entities such as pictures, … and filter these in different ways (zoom in/out, create links between different information items, …). The following video describes Pivot in more detail:&#xA;[youtube BZuFUZpEZ-A]&#xA;For the fasted nine users I will share my installation code:</description>
     </item>
-    
     <item>
       <title>[video] – The History of Business Intelligence</title>
       <link>/2009/08/video-the-history-of-business-intelligence/</link>
       <pubDate>Sat, 01 Aug 2009 09:17:53 +0000</pubDate>
-      
       <guid>/2009/08/video-the-history-of-business-intelligence/</guid>
-      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&amp;quot; target=&amp;quot;_blank&amp;rdquo;&amp;gt;Business Intelligenceas a concept and highlighting the development phases of Business Intelligence through the history.
-[youtube _1y5jBESLPE]</description>
+      <description>I have found a really nice video explaining &amp;lt;a title=&amp;ldquo;Business Ingelligence&amp;rdquo; href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&#34; mce_href=&amp;ldquo;http://de.wikipedia.org/wiki/Business-Intelligence&#34; target=&amp;rdquo;_blank&amp;rdquo;&amp;gt;Business Intelligence as a concept and highlighting the development phases of Business Intelligence through the history.&#xA;[youtube _1y5jBESLPE]</description>
     </item>
-    
     <item>
       <title>[video] – Matrix for Windows</title>
       <link>/2008/11/video-matrix-for-windows/</link>
       <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
-      
       <guid>/2008/11/video-matrix-for-windows/</guid>
-      <description>Just watch and enjoy:
-Matrix for Windows
-Check out Matrix XPas well.
-(via Basic Thinking Blog)</description>
+      <description>Just watch and enjoy:&#xA;Matrix for Windows&#xA;Check out Matrix XP as well.&#xA;(via Basic Thinking Blog)</description>
     </item>
-    
   </channel>
 </rss>

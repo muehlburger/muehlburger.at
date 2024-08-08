@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entrepreneurship on IT-ZT DI Herbert Mühlburger</title>
+    <title>Entrepreneurship on Herbert Mühlburger</title>
     <link>/categories/entrepreneurship/</link>
-    <description>Recent content in Entrepreneurship on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Entrepreneurship on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2014 17:33:02 +0000</lastBuildDate><atom:link href="/categories/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2014 17:33:02 +0000</lastBuildDate>
+    <atom:link href="/categories/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forbes Magazine features the Austrian Startup Scene</title>
       <link>/2014/12/forbes-magazine-features-the-austrian-startup-scene/</link>
       <pubDate>Mon, 15 Dec 2014 17:33:02 +0000</pubDate>
-      
       <guid>/2014/12/forbes-magazine-features-the-austrian-startup-scene/</guid>
-      <description>Forbesis one of the top magazines on business related topics. It published an interesting article called “Scaling Alpine Heights: Austria’s Startup Scene“on the Austrian Startup Scene. The following statement attracted my attention:
- “The country is enjoying something of an entrepreneurial renaissance, driven largely by the return of some highly successful founders whose presence has awoken its capital Vienna from a start-up winter sleep.” [by Forbes]
- The Austrian startups that made it to the article are the following ones (details on the startups can be found in the article and on their corresponding website):</description>
+      <description>Forbes is one of the top magazines on business related topics. It published an interesting article called “Scaling Alpine Heights: Austria’s Startup Scene“on the Austrian Startup Scene. The following statement attracted my attention:&#xA;“The country is enjoying something of an entrepreneurial renaissance, driven largely by the return of some highly successful founders whose presence has awoken its capital Vienna from a start-up winter sleep.” [by Forbes]&#xA;The Austrian startups that made it to the article are the following ones (details on the startups can be found in the article and on their corresponding website):</description>
     </item>
-    
     <item>
       <title>Eight elementary Skills every Entrepreneur should have</title>
       <link>/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</link>
       <pubDate>Sun, 14 Dec 2014 14:45:39 +0000</pubDate>
-      
       <guid>/2014/12/eight-elementary-skills-every-entrepreneur-should-have/</guid>
-      <description>Do you think about starting your own company? Then you should think carefully about the elementary skills you need to do so. What are the eight elementary skills every entrepreneur needs? Thomas H. Byers et. al. compiled the following list in his book on “Technology Ventures – From Idea to Enterprise”:
- Entrepreneurs initiate and operate a purposeful enterprise. Entrepreneurs operate within the context and industrial environment at the time of initiation.</description>
+      <description>Do you think about starting your own company? Then you should think carefully about the elementary skills you need to do so. What are the eight elementary skills every entrepreneur needs? Thomas H. Byers et. al. compiled the following list in his book on “Technology Ventures – From Idea to Enterprise”:&#xA;Entrepreneurs initiate and operate a purposeful enterprise. Entrepreneurs operate within the context and industrial environment at the time of initiation.</description>
     </item>
-    
   </channel>
 </rss>

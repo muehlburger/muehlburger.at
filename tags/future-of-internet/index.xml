@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Future of Internet on IT-ZT DI Herbert Mühlburger</title>
+    <title>Future of Internet on Herbert Mühlburger</title>
     <link>/tags/future-of-internet/</link>
-    <description>Recent content in Future of Internet on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Future of Internet on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2010 20:43:46 +0000</lastBuildDate><atom:link href="/tags/future-of-internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2010 20:43:46 +0000</lastBuildDate>
+    <atom:link href="/tags/future-of-internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Virtual Revolution covered by the BBC</title>
       <link>/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
       <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
-      
       <guid>/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
-      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s populationis using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internetin a wide variety of areas. This means that the digital revolutionthat has shaped our world as we know it now, will happen in these areas too.</description>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
     </item>
-    
     <item>
       <title>What will the web look like in five years?</title>
       <link>/2009/11/what-will-the-web-look-like-in-five-years/</link>
       <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
-      
       <guid>/2009/11/what-will-the-web-look-like-in-five-years/</guid>
-      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWebhas summarized the highlightsof Eric’s interview as follows:
-  Five years from now the internet will be dominated by Chinese-languagecontent. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric’s interview as follows:&#xA;Five years from now the internet will be dominated by Chinese-language content. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
     </item>
-    
   </channel>
 </rss>

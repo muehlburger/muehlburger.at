@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Warner Music Group on IT-ZT DI Herbert Mühlburger</title>
+    <title>Warner Music Group on Herbert Mühlburger</title>
     <link>/tags/warner-music-group/</link>
-    <description>Recent content in Warner Music Group on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Warner Music Group on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2009 09:59:01 +0000</lastBuildDate><atom:link href="/tags/warner-music-group/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2009 09:59:01 +0000</lastBuildDate>
+    <atom:link href="/tags/warner-music-group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – Google Latitude</title>
       <link>/2009/02/video-google-latitude/</link>
       <pubDate>Thu, 05 Feb 2009 09:59:01 +0000</pubDate>
-      
       <guid>/2009/02/video-google-latitude/</guid>
-      <description>Googlereleased a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:
-[youtube Q-Oq-9enE-k]
-Related articles by Zemanta    </description>
+      <description> Google released a new service called Google Latitude. This service enables you to see the location of your friends, collegues, etc. Here is a nice video explaining how Google Latitute workes:&#xA;[youtube Q-Oq-9enE-k]&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

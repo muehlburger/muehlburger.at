@@ -1,408 +1,264 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos on IT-ZT DI Herbert Mühlburger</title>
+    <title>Videos on Herbert Mühlburger</title>
     <link>/categories/videos/</link>
-    <description>Recent content in Videos on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Videos on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate><atom:link href="/categories/videos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jan 2019 21:10:00 +0100</lastBuildDate>
+    <atom:link href="/categories/videos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Istio</title>
       <link>/2019/01/istio/</link>
       <pubDate>Fri, 25 Jan 2019 21:10:00 +0100</pubDate>
-      
       <guid>/2019/01/istio/</guid>
-      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.
-Kudos to Lachlan Evenson for creating this content:
-Setting Sail with Istio      Istio - up and running by Lachlan Evenson      Istio - adding services to the mesh by Lachlan Evenson      Istio - Working with Ingress      Istio - Working with Egress      Istio - Request Routing      Istio - Fault Injection Testing      I hope you find something useful in these resources.</description>
+      <description>Istio has gained lots of traction in the Kubernetes space. Here is a compiled list of interesting talks on Istio.&#xA;Kudos to Lachlan Evenson for creating this content:&#xA;Setting Sail with Istio Istio - up and running by Lachlan Evenson Istio - adding services to the mesh by Lachlan Evenson Istio - Working with Ingress Istio - Working with Egress Istio - Request Routing Istio - Fault Injection Testing I hope you find something useful in these resources.</description>
     </item>
-    
     <item>
       <title>Free Online Courses on Finance and Related Topics</title>
       <link>/2013/07/free-online-courses-on-finance-and-related-topics/</link>
       <pubDate>Thu, 25 Jul 2013 13:56:24 +0000</pubDate>
-      
       <guid>/2013/07/free-online-courses-on-finance-and-related-topics/</guid>
-      <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:
-Open Yale Courses    Yale provides two courses (ECON 252, ECON 251):
- ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books)  Stanford Courses    Stanford University provides a course on
- Finance.  Coursera.org Courses    On Coursera there are lots of online courses.</description>
+      <description>Are you interested in finance and financial topics? Here are some links on interesting free online courses on finance and financial topics:&#xA;Open Yale Courses Yale provides two courses (ECON 252, ECON 251):&#xA;ECON 252: Financial Markets (2008) ECON 252: Financial Markets (2011) ECON 251: Financial Theory, (Recommended Books) Stanford Courses Stanford University provides a course on&#xA;Finance. Coursera.org Courses On Coursera there are lots of online courses. The following two are special interesting ones:</description>
     </item>
-    
     <item>
       <title>Javapocalypse</title>
       <link>/2013/06/javapocalypse/</link>
       <pubDate>Fri, 14 Jun 2013 17:00:47 +0000</pubDate>
-      
       <guid>/2013/06/javapocalypse/</guid>
-      <description>I need to share the following video on “Javapocalypse” from JavaZone. Pushing the “Undo Java” button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.
-JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.
- JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
+      <description>I need to share the following video on “Javapocalypse” from JavaZone. Pushing the “Undo Java” button will have huge impact. Have a look at these consequences. The following trailer highlights the importance of Java.&#xA;JavaZone 2013 takes places in Oslo at the 10th and 11th of September 2013.&#xA;JavaZone is an important meeting place for software developers in Scandinavia, and is the biggest community driven conference of its kind. JavaZone has been described as a high quality, independent conference – a leading forum for knowledge exchange for IT- professionals.</description>
     </item>
-    
     <item>
       <title>Videos of Google IO 2011 – Android Tracks of Day Two</title>
       <link>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</link>
       <pubDate>Thu, 12 May 2011 11:20:59 +0000</pubDate>
-      
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-two/</guid>
-      <description>Google I/O 2011: Keynote Day 2    Android Marketfor Developers    Designing and Implementing Android UIs for Phones and Tablets    Building Android Appsfor Google TV   Android Development Tools    Taking Android to Work    Related articles    </description>
+      <description> Google I/O 2011: Keynote Day 2 Android Market for Developers Designing and Implementing Android UIs for Phones and Tablets Building Android Apps for Google TV Android Development Tools Taking Android to Work Related articles </description>
     </item>
-    
     <item>
       <title>Videos of Google IO 2011 – Android Tracks of Day One</title>
       <link>/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</link>
       <pubDate>Wed, 11 May 2011 17:09:56 +0000</pubDate>
-      
       <guid>/2011/05/videos-of-google-io-2011-android-tracks-of-day-one/</guid>
-      <description>Google IOis currently taking place in San Franciscoand for everybody who could not attend Googlelive streamed quite some sessions. In the following you can see the videos which are currently published:
-[youtube OxzucwjFEEs]
-As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.
-[youtube twmuBbC_oB8]
-The next video discusses business modelsthat you as a developer can use to monetize your app.</description>
+      <description>Google IO is currently taking place in San Francisco and for everybody who could not attend Google live streamed quite some sessions. In the following you can see the videos which are currently published:&#xA;[youtube OxzucwjFEEs]&#xA;As an Android developer I am very interested in the Android sessions as you can imagine. So the following the next video first covers advaced topics of android development.&#xA;[youtube twmuBbC_oB8]&#xA;The next video discusses business models that you as a developer can use to monetize your app.</description>
     </item>
-    
     <item>
       <title>Our Choice – The Next Generation of Digital Books</title>
       <link>/2011/05/video-our-choice-the-next-generation-of-digital-books/</link>
       <pubDate>Mon, 02 May 2011 17:49:38 +0000</pubDate>
-      
       <guid>/2011/05/video-our-choice-the-next-generation-of-digital-books/</guid>
-      <description>Mike Matas(@mike_matas) and his teamfrom Push Pop Pressdeveloped a great iPad and iPhone application called “Our Choice“. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating “Our Choice”.</description>
+      <description>Mike Matas (@mike_matas) and his team from Push Pop Press developed a great iPad and iPhone application called “Our Choice“. They claim it to be the next generation of digital books. In the following you see the TED Talk given by Mike Matas demonstrating “Our Choice”. </description>
     </item>
-    
     <item>
       <title>Introducing Robotium – A Testing Framework for Android</title>
       <link>/2011/04/introducing-robotium-a-testing-framework-for-android/</link>
       <pubDate>Tue, 19 Apr 2011 12:55:52 +0000</pubDate>
-      
       <guid>/2011/04/introducing-robotium-a-testing-framework-for-android/</guid>
-      <description>Robotiumis an open sourcetesting framework for Androidapplications. It makes it easy to write complex black-box testcases. Test driven developmentis a methology where tests are written before the actual application.
-  Write a testcase  Watch it failing
-  Write the actual source codein you application which enables the test to pass
-  Watch the test passing
-  Go back to step 1
-  The following video gives you an introduction into Robotium:</description>
+      <description>Robotium is an open source testing framework for Android applications. It makes it easy to write complex black-box test cases. Test driven development is a methology where tests are written before the actual application.&#xA;Write a testcase&#xA;Watch it failing&#xA;Write the actual source code in you application which enables the test to pass&#xA;Watch the test passing&#xA;Go back to step 1&#xA;The following video gives you an introduction into Robotium:</description>
     </item>
-    
     <item>
       <title>[video] – Bis an die Grenzen des Universums</title>
       <link>/2011/03/video-bis-an-die-grenzen-des-universums/</link>
       <pubDate>Tue, 08 Mar 2011 10:00:54 +0000</pubDate>
-      
       <guid>/2011/03/video-bis-an-die-grenzen-des-universums/</guid>
-      <description>“Bis an die Grenzen des Universums” ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!
-http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
+      <description>“Bis an die Grenzen des Universums” ist der Titel einer Dokumentation, die versucht die ewigen weiten unseres Universums zu beschreiben. Meiner Meinung nach ausgesprochen sehenswert!&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIAKXNGZQShd8</description>
     </item>
-    
     <item>
       <title>Minecraft Documentary Explores Indie Game’s Impact</title>
       <link>/2011/03/minecraft-documentary-explores-indie-games-impact/</link>
       <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
-      
       <guid>/2011/03/minecraft-documentary-explores-indie-games-impact/</guid>
-      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:
- Of all the videogame industry’s tremendous success stories, Minecraftmight very well be the most remarkable. [wired.com]
- Have fun watching the interesting video:
-[youtube Ax9kmoyzl1Y]
-(via wired.com)
-   Related articles    </description>
+      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:&#xA;Of all the videogame industry’s tremendous success stories, Minecraft might very well be the most remarkable. [wired.com]&#xA;Have fun watching the interesting video:&#xA;[youtube Ax9kmoyzl1Y]&#xA;(via wired.com)&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>[video] – Developing Android REST Client Applications</title>
       <link>/2010/12/video-developing-android-rest-client-applications/</link>
       <pubDate>Mon, 13 Dec 2010 15:45:53 +0000</pubDate>
-      
       <guid>/2010/12/video-developing-android-rest-client-applications/</guid>
-      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.
-[youtube xHXn3Kg2IQE]
-(via Google I/O 2010)
-Related articles    </description>
+      <description>Virgil Dobjanschi demonstrates in this Google I/O session patterns for developing RESTful applications on the Android platform.&#xA;[youtube xHXn3Kg2IQE]&#xA;(via Google I/O 2010)&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>[video] – Drive: The surprising truth about what motivates us</title>
       <link>/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</link>
       <pubDate>Sat, 11 Sep 2010 17:53:51 +0000</pubDate>
-      
       <guid>/2010/09/video-drive-the-surprising-truth-about-what-motivates-us/</guid>
-      <description>Have you ever asked yourself if why your employer is not really able to motivate you to love your work? One of the reasons why people are motivated doing what they do is because they see a purpose in their work. This fact you already see in “Maslov’s Hierarchy of Needs“. The following video demonstrates the surprising truth about what drives our motivation.
-[youtube u6XAPnuFjJc]
-(via Facebook: Georg Kompacher)
-Related articles    </description>
+      <description>Have you ever asked yourself if why your employer is not really able to motivate you to love your work? One of the reasons why people are motivated doing what they do is because they see a purpose in their work. This fact you already see in “Maslov’s Hierarchy of Needs“. The following video demonstrates the surprising truth about what drives our motivation.&#xA;[youtube u6XAPnuFjJc]&#xA;(via Facebook: Georg Kompacher)</description>
     </item>
-    
     <item>
       <title>[video] – How is Hadoop used at Twitter?</title>
       <link>/2010/09/video-how-is-hadoop-used-at-twitter/</link>
       <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
-      
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
-      <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
-[vimeo 11110059]
-Related articles    </description>
+      <description> In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!&#xA;[vimeo 11110059]&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>[video] – Thoughts on Google Instant</title>
       <link>/2010/09/video-thoughts-on-google-instant/</link>
       <pubDate>Thu, 09 Sep 2010 17:00:14 +0000</pubDate>
-      
       <guid>/2010/09/video-thoughts-on-google-instant/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Here is an introductory video to GoogleInstant the new search feature that Google provides for its search engine.
-http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4
-I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?
-RWW asks how will this change affect your companie’s search engine optimization?tries to answer the similar question on if SEO will still be required in 5 years.</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image via &amp;lt;a href=&amp;quot;http://www.crunchbase.com&amp;quot;&amp;gt;CrunchBase&amp;lt;/a&amp;gt; &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; Here is an introductory video to Google Instant the new search feature that Google provides for its search engine.&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIElubRNRIUg4&#xA;I personally do really like the new feature searching while you type. What do you think about it? Do you prefer the traditional “push-the-button” search approach?&#xA;RWW asks how will this change affect your companie’s search engine optimization? tries to answer the similar question on if SEO will still be required in 5 years.</description>
     </item>
-    
     <item>
       <title>Car Manufacturers work on Android Integration for their Vehicles – [videos]</title>
       <link>/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</link>
       <pubDate>Wed, 19 May 2010 06:08:49 +0000</pubDate>
-      
       <guid>/2010/05/car-manufacturers-work-on-android-integration-for-their-vehicles-videos/</guid>
-      <description>GMand OnStarare working on the integration of mobile Androidapplication into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.
-[youtube KFj3OdXxszk]
-Fordwas also working on integrating mobile applications into their cars as the following two videos demonstrate:
-SYNC AppLink and the New 2011 Ford Fiesta    [youtube 3xSOON3hxPg]
-Ford SYNCand Pandora   Pandorais a free internet radio which currently sadly cannot be accesed in Austria.</description>
+      <description>GM and OnStar are working on the integration of mobile Android application into one of their cars (Chevrolet Volt). A demonstration of a first working prototype can be seen in the video below.&#xA;[youtube KFj3OdXxszk]&#xA;Ford was also working on integrating mobile applications into their cars as the following two videos demonstrate:&#xA;SYNC AppLink and the New 2011 Ford Fiesta [youtube 3xSOON3hxPg]&#xA;Ford SYNC and Pandora Pandora is a free internet radio which currently sadly cannot be accesed in Austria.</description>
     </item>
-    
     <item>
       <title>A Video Introduction to Web3.0 (The Semantic Web?)</title>
       <link>/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</link>
       <pubDate>Mon, 10 May 2010 20:14:44 +0000</pubDate>
-      
       <guid>/2010/05/a-video-introduction-to-web3-0-the-semantic-web/</guid>
-      <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:
-[vimeo 11529540]
-What do you think? Do you think the Semantic Web is going to happen as many people think?
-Related articles by Zemanta    </description>
+      <description>Today I found a very interesting video discussing the term of the Semantic Web, not only in a technical way. Have a look at the following video:&#xA;[vimeo 11529540]&#xA;What do you think? Do you think the Semantic Web is going to happen as many people think?&#xA;Related articles by Zemanta </description>
     </item>
-    
     <item>
       <title>The Social Media Revolution – Facts and Figures – [video]</title>
       <link>/2010/05/social-media-revolution-facts-and-figures/</link>
       <pubDate>Fri, 07 May 2010 19:09:03 +0000</pubDate>
-      
       <guid>/2010/05/social-media-revolution-facts-and-figures/</guid>
-      <description>The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebookfor example has gained 200 million users in just one year. That’s incredible …
-http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng
-(via crowdspringand mashable)
-Related articles     Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.</description>
+      <description>The following video visualizes some recent social media statistics interestingly. Quite impressing how social media has developed over the last year. Facebook for example has gained 200 million users in just one year. That’s incredible …&#xA;http://www.youtube.com/watch?v=_oarMXGq3gIlFZ0z5Fm-Ng&#xA;(via crowdspring and mashable)&#xA;Related articles Socialnomics Revisits ‘Social Media Revolution’ (socialtimes.com) Facebook Status Updates Show Which Countries Are Happiest (e1evation.com) From Social Media to Social Business: The Missing ‘Social’ Link (socialmediatoday.com) Social Media Revolution 2 (Refresh) (viralblog.</description>
     </item>
-    
     <item>
       <title>[video] – How fast is Google Chrome?</title>
       <link>/2010/05/video-how-fast-is-google-chrome/</link>
       <pubDate>Wed, 05 May 2010 18:12:51 +0000</pubDate>
-      
       <guid>/2010/05/video-how-fast-is-google-chrome/</guid>
-      <description>These days Googlehas released a videodemonstrating the speed of their new betaGoogle Chromebrowser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:
-For everybody who is interested in the making of this video will like the following one too:
-(via ReadWriteWeband Mashable)
-Related articles     Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
+      <description>These days Google has released a video demonstrating the speed of their new beta Google Chrome browser. The video is made up in a very creative way. I am impressed how Google always finds really interesting ways to promote their products. Specially this one is of really interest:&#xA;For everybody who is interested in the making of this video will like the following one too:&#xA;(via ReadWriteWeb and Mashable)&#xA;Related articles Google Chrome: The New Beta is Faster Than Ever (techie-buzz.</description>
     </item>
-    
     <item>
       <title>[video] – TEDxNYED – Dan Meyer presents Impressive Ways to Teach Mathematics</title>
       <link>/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</link>
       <pubDate>Tue, 27 Apr 2010 12:06:26 +0000</pubDate>
-      
       <guid>/2010/04/video-tedxnyed-dan-meyer-presents-impressive-ways-to-teach-mathematics/</guid>
-      <description>In the following video Dan Meyer (@ddmeyer) presents an impressive way to teach applied mathematics. I hope that some of our professors will watch this video and keep some of the ideas in mind.
-[youtube BlvKWEvKSi8]
-(via e-Learning Blog)</description>
+      <description>In the following video Dan Meyer (@ddmeyer) presents an impressive way to teach applied mathematics. I hope that some of our professors will watch this video and keep some of the ideas in mind.&#xA;[youtube BlvKWEvKSi8]&#xA;(via e-Learning Blog)</description>
     </item>
-    
     <item>
       <title>What does investing money really mean?</title>
       <link>/2010/04/what-does-investing-money-really-mean/</link>
       <pubDate>Mon, 26 Apr 2010 09:46:13 +0000</pubDate>
-      
       <guid>/2010/04/what-does-investing-money-really-mean/</guid>
-      <description>Due to my studies (Software Development and Business Management) I also have a strong interest in financial topics. The following video explains what investing money really means for everybody to understand. Enjoy the video it is worth watching.
-http://www.youtube.com/watch?v=8QvW1XETz2g
-(via commoncraft.com)</description>
+      <description>Due to my studies (Software Development and Business Management) I also have a strong interest in financial topics. The following video explains what investing money really means for everybody to understand. Enjoy the video it is worth watching.&#xA;http://www.youtube.com/watch?v=8QvW1XETz2g&#xA;(via commoncraft.com)</description>
     </item>
-    
     <item>
       <title>The Virtual Revolution covered by the BBC</title>
       <link>/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
       <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
-      
       <guid>/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
-      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s populationis using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internetin a wide variety of areas. This means that the digital revolutionthat has shaped our world as we know it now, will happen in these areas too.</description>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
     </item>
-    
     <item>
       <title>[video] – The Evolution of Google</title>
       <link>/2009/11/video-the-evolution-of-google/</link>
       <pubDate>Fri, 13 Nov 2009 07:44:35 +0000</pubDate>
-      
       <guid>/2009/11/video-the-evolution-of-google/</guid>
-      <description>Through @mebnerI have found the following video demonstrating the evolution of Google:</description>
+      <description>Through @mebner I have found the following video demonstrating the evolution of Google:</description>
     </item>
-    
     <item>
       <title>How will The Future of Interface Design look like?</title>
       <link>/2009/11/the-future-of-interface-design-how-will-it-look-like/</link>
       <pubDate>Thu, 05 Nov 2009 08:16:31 +0000</pubDate>
-      
       <guid>/2009/11/the-future-of-interface-design-how-will-it-look-like/</guid>
-      <description>David Leggetttried to answer this question in a blogpostwritten for uxBOOTH. He writes:
- The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fictionis now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface designhas to offer:
- Here are some of the most interesting videos from the post as well as some additional ones i have found:</description>
+      <description>David Leggett tried to answer this question in a blogpost written for uxBOOTH. He writes:&#xA;The future of how we interact with computers is exciting to say the least. What once seemed like nonsense outside of Hollywood and Science Fiction is now starting to find it’s way into reality, and some of the technology is a bit overwhelming. Have a taste of what the future of interface design has to offer:</description>
     </item>
-    
     <item>
       <title>What will the web look like in five years?</title>
       <link>/2009/11/what-will-the-web-look-like-in-five-years/</link>
       <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
-      
       <guid>/2009/11/what-will-the-web-look-like-in-five-years/</guid>
-      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWebhas summarized the highlightsof Eric’s interview as follows:
-  Five years from now the internet will be dominated by Chinese-languagecontent. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric’s interview as follows:&#xA;Five years from now the internet will be dominated by Chinese-language content. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
     </item>
-    
     <item>
       <title>[video] – E-Portfolios for Beginners and the Mahara UK 09 Conference</title>
       <link>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</link>
       <pubDate>Fri, 24 Jul 2009 09:01:44 +0000</pubDate>
-      
       <guid>/2009/07/video-e-portfolios-for-beginners-and-the-mahara-uk-09-conference/</guid>
-      <description>Since few time I am coding an extension to the open-sourcee-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:
-Here is a video that explains it:
-Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC)and the University of London Institute of Education (IOE).</description>
+      <description>Since few time I am coding an extension to the open-source e-porfolio software Mahara. Therefore I have searched for a video explaining what an e-porfolio stands for and how it can be used:&#xA;Here is a video that explains it:&#xA;Few time ago Mahara UK 09, the very first conference covering the e-portfolio system Mahara, took place in the United Kingdom. It was organised by the University of London Computer Centre (ULCC) and the University of London Institute of Education (IOE).</description>
     </item>
-    
     <item>
       <title>[video] – The Sixth Sense demonstrates the great abilities of User Interfaces</title>
       <link>/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</link>
       <pubDate>Wed, 22 Jul 2009 09:07:27 +0000</pubDate>
-      
       <guid>/2009/07/ted-talks-pattie-maes-demos-the-sixth-sense/</guid>
-      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image by &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/76225887@N00/3257036271&amp;quot;&amp;gt;Larry Johnson&amp;lt;/a&amp;gt; via Flickr &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt;  Wired.comstates in an article(found by ReadWriteWeb) as follows:
- LONG BEACH, California — Students at the MIT Media Labhave developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.
-Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd zemanta-img-attribution&amp;quot;&amp;gt; Image by &amp;lt;a href=&amp;quot;http://www.flickr.com/photos/76225887@N00/3257036271&amp;quot;&amp;gt;Larry Johnson&amp;lt;/a&amp;gt; via Flickr &amp;lt;/dd&amp;gt; &amp;lt;/dl&amp;gt; Wired.com states in an article (found by ReadWriteWeb) as follows:&#xA;LONG BEACH, California — Students at the MIT Media Lab have developed a wearable computing system that turns any surface into an interactive display screen. The wearer can summon virtual gadgets and internet data at will, then dispel them like smoke when they’re done.&#xA;Pattie Maes of the lab’s Fluid Interfaces group said the research is aimed at creating a new digital</description>
     </item>
-    
     <item>
       <title>[video] – It is time for a different kind of university</title>
       <link>/2009/01/video-it-is-time-for-a-different-kind-of-university/</link>
       <pubDate>Mon, 19 Jan 2009 07:45:57 +0000</pubDate>
-      
       <guid>/2009/01/video-it-is-time-for-a-different-kind-of-university/</guid>
-      <description>Kaplan Universityhas produced two interesting and inspiring videos on how e-Learningcan be performed in near future.
- It’s time to use technologyto rewritethe rules of education…
- [youtube e50YBu14j3U]
-Here is another one.
-[youtube F3nHvkJSNFg]
-Besides I have found an interesting article written by George Siemenson How MIT is going to get large lectures off the blackboard. The whole artikle is called Media Literacy: Making Sense of New Technologies and Media by George Siemens.</description>
+      <description>Kaplan University has produced two interesting and inspiring videos on how e-Learning can be performed in near future.&#xA;It’s time to use technology to rewrite the rules of education …&#xA;[youtube e50YBu14j3U]&#xA;Here is another one.&#xA;[youtube F3nHvkJSNFg]&#xA;Besides I have found an interesting article written by George Siemens on How MIT is going to get large lectures off the blackboard. The whole artikle is called Media Literacy: Making Sense of New Technologies and Media by George Siemens.</description>
     </item>
-    
     <item>
       <title>First BarCamp in Graz, Austria</title>
       <link>/2008/11/first-barcamp-in-graz-austria/</link>
       <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
-      
       <guid>/2008/11/first-barcamp-in-graz-austria/</guid>
-      <description>This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens Universityand today it is going to start at 10.00 o’clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:
- BarCampsare organized and evangelized largely through the web, harnessing what might be called a Web 2.0communications toolkit. Anyone can initiate a BarCamp, using the BarCamp wiki.</description>
+      <description>This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens University and today it is going to start at 10.00 o’clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:&#xA;BarCamps are organized and evangelized largely through the web, harnessing what might be called a Web 2.0 communications toolkit. Anyone can initiate a BarCamp, using the BarCamp wiki.</description>
     </item>
-    
     <item>
       <title>[video] – Matrix for Windows</title>
       <link>/2008/11/video-matrix-for-windows/</link>
       <pubDate>Mon, 17 Nov 2008 21:24:43 +0000</pubDate>
-      
       <guid>/2008/11/video-matrix-for-windows/</guid>
-      <description>Just watch and enjoy:
-Matrix for Windows
-Check out Matrix XPas well.
-(via Basic Thinking Blog)</description>
+      <description>Just watch and enjoy:&#xA;Matrix for Windows&#xA;Check out Matrix XP as well.&#xA;(via Basic Thinking Blog)</description>
     </item>
-    
     <item>
       <title>[university] – Mathematical Analysis T1 Exam</title>
       <link>/2008/11/university-mathematical-analysis-t1-exam/</link>
       <pubDate>Mon, 10 Nov 2008 20:53:30 +0000</pubDate>
-      
       <guid>/2008/11/university-mathematical-analysis-t1-exam/</guid>
-      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:
-What do you think about this video? I think it’s weird. Well wish me luck for tomorrow.</description>
+      <description>Tomorrow I will write the first mathematical analyis exam for this term. By now I solved all the exercise sheets and I think that I am well prepared. Need to pass this lecture this year since it is the last term of my undergraduate studies. Professor Grabner presented us this video about the mathematical analyis:&#xA;What do you think about this video? I think it’s weird. Well wish me luck for tomorrow.</description>
     </item>
-    
     <item>
       <title>[video] – CNN for Holodeck</title>
       <link>/2008/11/video-cnn-for-holodeck/</link>
       <pubDate>Wed, 05 Nov 2008 11:11:56 +0000</pubDate>
-      
       <guid>/2008/11/video-cnn-for-holodeck/</guid>
-      <description>CNNyesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.
-http://www.youtube.com/watch?v=x2bRNA2wpYk
-(via webstandard.at)</description>
+      <description>CNN yesterday used holograms for interviews in their broadcast on the presedential election 2008. The journalist Jessica Yellin was beamed from Chicago to the CNN studio, New York where Wolf Blitzer was speaking with her virtual hologram. Very interesting technique which shows where new media is moving.&#xA;http://www.youtube.com/watch?v=x2bRNA2wpYk&#xA;(via webstandard.at)</description>
     </item>
-    
     <item>
       <title>Acapella Session</title>
       <link>/2008/11/video-acapella-session/</link>
       <pubDate>Tue, 04 Nov 2008 17:18:51 +0000</pubDate>
-      
       <guid>/2008/11/video-acapella-session/</guid>
-      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don’t froget to close your mouth after you have seen it.
-(via Basic Thinking Blog)</description>
+      <description>Check out this amazing video wich I have found on Basic Thinking Blog. Don’t froget to close your mouth after you have seen it.&#xA;(via Basic Thinking Blog)</description>
     </item>
-    
     <item>
       <title>We think</title>
       <link>/2008/11/video-we-think/</link>
       <pubDate>Mon, 03 Nov 2008 11:50:23 +0000</pubDate>
-      
       <guid>/2008/11/video-we-think/</guid>
       <description>The following video I have found on e-Learning Blog. Just watch and enjoy, …</description>
     </item>
-    
     <item>
       <title>User Interface der Zukunft! Unglaublich …</title>
       <link>/2007/04/user-interface-der-zukunft-unglaublich/</link>
       <pubDate>Tue, 24 Apr 2007 05:52:50 +0000</pubDate>
-      
       <guid>/2007/04/user-interface-der-zukunft-unglaublich/</guid>
       <description>Hier ein User Interface der Zukunft! Das ist wirklich unglaublich, was uns das zukünftig für greznenlose Möglichkeiten bieten wird! Viel Spaß damit!</description>
     </item>
-    
     <item>
       <title>Apple iPhone</title>
       <link>/2007/04/apple-iphone/</link>
       <pubDate>Wed, 11 Apr 2007 13:42:32 +0000</pubDate>
-      
       <guid>/2007/04/apple-iphone/</guid>
-      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:
-http://www.youtube.com/watch?v=YRNugqEQYS4</description>
+      <description>Hier ein sehr interessantes Video über das neue iPhone von Apple! Viel Spaß damit! Google Maps on iPhone:&#xA;http://www.youtube.com/watch?v=YRNugqEQYS4</description>
     </item>
-    
     <item>
       <title>Gabelstaplerfahrer Klaus – Der erste Arbeitstag</title>
       <link>/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</link>
       <pubDate>Sat, 07 Apr 2007 05:52:13 +0000</pubDate>
-      
       <guid>/2007/04/gabelstaplerfahrer-klaus-der-erste-arbeitstag/</guid>
-      <description>Hier mal ein kleiner Film zum Thema Arbeitsschutz!
-Der bekannte deutschsprachige Film “Gabelstaplerfahrer Klaus” sollte jeder der einen Gabelstaplerführerschein macht gesehen haben! Natürlich wollte ich Euch diesen Film nicht vorenthalten! Viel Spaß damit!</description>
+      <description>Hier mal ein kleiner Film zum Thema Arbeitsschutz!&#xA;Der bekannte deutschsprachige Film “Gabelstaplerfahrer Klaus” sollte jeder der einen Gabelstaplerführerschein macht gesehen haben! Natürlich wollte ich Euch diesen Film nicht vorenthalten! Viel Spaß damit!</description>
     </item>
-    
     <item>
       <title>Jeff Han spricht auf der TED Konferenz</title>
       <link>/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</link>
       <pubDate>Mon, 02 Apr 2007 21:47:36 +0000</pubDate>
-      
       <guid>/2007/04/jeff-han-spricht-auf-der-ted-konferenz/</guid>
-      <description>Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!
-  </description>
+      <description>Jeff Han spricht auf der TED Konferenz über ein neues User Interface. Dieses Video ist sehr sehenswert!</description>
     </item>
-    
   </channel>
 </rss>

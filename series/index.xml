@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on IT-ZT DI Herbert Mühlburger</title>
+    <title>Series on Herbert Mühlburger</title>
     <link>/series/</link>
-    <description>Recent content in Series on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Series on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

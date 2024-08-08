@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>image converstion on IT-ZT DI Herbert Mühlburger</title>
+    <title>Image Converstion on Herbert Mühlburger</title>
     <link>/tags/image-converstion/</link>
-    <description>Recent content in image converstion on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Image Converstion on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2016 08:27:56 +0000</lastBuildDate><atom:link href="/tags/image-converstion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2016 08:27:56 +0000</lastBuildDate>
+    <atom:link href="/tags/image-converstion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to convert a .PDF file to .PNG using Image Magick</title>
       <link>/2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/</link>
       <pubDate>Thu, 31 Mar 2016 08:27:56 +0000</pubDate>
-      
       <guid>/2016/03/how-to-convert-a-pdf-file-to-png-using-image-magick/</guid>
-      <description>ImageMagick is a powerfull tool to manipulate images. If you want to convert a .PDF to an .PNG file use the following command:
-convert -verbose -density 300 -trim input.pdf -quality 100 -sharpen 0x1.0 -background white -flatten output.png
-Assuming that your pdf is called “input.pdf” and consists only of one page. The above command colors any transparent background white.
-(via stackoverflow.comand imagemagick.org)</description>
+      <description>ImageMagick is a powerfull tool to manipulate images. If you want to convert a .PDF to an .PNG file use the following command:&#xA;convert -verbose -density 300 -trim input.pdf -quality 100 -sharpen 0x1.0 -background white -flatten output.png&#xA;Assuming that your pdf is called “input.pdf” and consists only of one page. The above command colors any transparent background white.&#xA;(via stackoverflow.com and imagemagick.org)</description>
     </item>
-    
   </channel>
 </rss>

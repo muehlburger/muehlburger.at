@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eric E. Schmidt on IT-ZT DI Herbert Mühlburger</title>
+    <title>Eric E. Schmidt on Herbert Mühlburger</title>
     <link>/tags/eric-e.-schmidt/</link>
-    <description>Recent content in Eric E. Schmidt on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Eric E. Schmidt on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2009 18:49:06 +0000</lastBuildDate><atom:link href="/tags/eric-e.-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2009 18:49:06 +0000</lastBuildDate>
+    <atom:link href="/tags/eric-e.-schmidt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What will the web look like in five years?</title>
       <link>/2009/11/what-will-the-web-look-like-in-five-years/</link>
       <pubDate>Sun, 01 Nov 2009 18:49:06 +0000</pubDate>
-      
       <guid>/2009/11/what-will-the-web-look-like-in-five-years/</guid>
-      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWebhas summarized the highlightsof Eric’s interview as follows:
-  Five years from now the internet will be dominated by Chinese-languagecontent. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
+      <description>Eric Schmidt, CEO of Google was answering this question in an interesting interview at Gartner Symposium/ITxpo Orlando 2009. ReadWriteWeb has summarized the highlights of Eric’s interview as follows:&#xA;Five years from now the internet will be dominated by Chinese-language content. Today’s teenagers are the model of how the web will work in five years – they jump from app to app to app seamlessly. Five years is a factor of ten in Moore’s Law, meaning that computers will be capable of far more by that time than they are today.</description>
     </item>
-    
   </channel>
 </rss>

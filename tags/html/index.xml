@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HTML on IT-ZT DI Herbert Mühlburger</title>
+    <title>HTML on Herbert Mühlburger</title>
     <link>/tags/html/</link>
-    <description>Recent content in HTML on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in HTML on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate><atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2009 09:32:31 +0000</lastBuildDate>
+    <atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Wave API combined with the Wookie engine and integrated in a Moodle platform</title>
       <link>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</link>
       <pubDate>Sat, 13 Jun 2009 09:32:31 +0000</pubDate>
-      
       <guid>/2009/06/google-wave-api-combined-with-the-wookie-engine-and-integrated-in-a-moodle-platform/</guid>
       <description>&amp;lt;p&amp;gt; To take a look, you need to head over to our &amp;lt;a href=&amp;quot;http://getwookie.org/moodle&amp;quot;&amp;gt;Moodle sandbox&amp;lt;/a&amp;gt; and register yourself a profile (you&amp;amp;#8217;ll need to confirm your email address to activate the login). After that, go and &amp;lt;a href=&amp;quot;http://getwookie.org/moodle/course/view.php?id=6&amp;quot;&amp;gt;enrol yourself on this course&amp;lt;/a&amp;gt;. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Feel free to play &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;Sudoku&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.wikipedia.org/wiki/Sudoku&amp;quot;&amp;gt;Sudoku&amp;lt;/a&amp;gt;, mess with the poetry magnets, use the chat, and vote in the polls. All these tools are Widgets, written entirely in regular &amp;lt;a class=&amp;quot;zem_slink&amp;quot; title=&amp;quot;HTML&amp;quot; rel=&amp;quot;wikipedia&amp;quot; href=&amp;quot;http://en.</description>
     </item>
-    
     <item>
       <title>HTML 4.01 bis XHTML 2.0 im Vergleich</title>
       <link>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</link>
       <pubDate>Thu, 05 Jul 2007 12:02:29 +0000</pubDate>
-      
       <guid>/2007/07/html-4-01-bis-xhtml-2-0-im-vergleich/</guid>
-      <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.
-Hier der Link direkt zu Jens Meierts Weblog.[via pixelgraphix]
-Related articles by Zemanta    </description>
+      <description>Jens Meiert bietet auf seinem Blog eine tabellarische Übersicht über alle Elemente, die in HTML 4.01, XHTML 1.0 Strict, XHTML 1.1, HTML 5, und XHTML 2.0 spezifitiert werden.&#xA;Hier der Link direkt zu Jens Meierts Weblog.&#xA;[via pixelgraphix]&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

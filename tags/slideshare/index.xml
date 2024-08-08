@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>slideshare on IT-ZT DI Herbert Mühlburger</title>
+    <title>Slideshare on Herbert Mühlburger</title>
     <link>/tags/slideshare/</link>
-    <description>Recent content in slideshare on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Slideshare on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate><atom:link href="/tags/slideshare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2011 19:31:59 +0000</lastBuildDate>
+    <atom:link href="/tags/slideshare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NoSQL Databases: Why, what and when – An Overview on NoSQL Datastores</title>
       <link>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</link>
       <pubDate>Sun, 06 Mar 2011 19:31:59 +0000</pubDate>
-      
       <guid>/2011/03/nosql-databases-why-what-and-when-an-overview-on-nosql-datastores/</guid>
-      <description> Related Articles    </description>
+      <description> Related Articles </description>
     </item>
-    
     <item>
       <title>SMOB – A Prototype for Semantic Microblogging</title>
       <link>/2008/11/smob-a-prototype-for-semantic-microblogging/</link>
       <pubDate>Mon, 17 Nov 2008 08:28:52 +0000</pubDate>
-      
       <guid>/2008/11/smob-a-prototype-for-semantic-microblogging/</guid>
-      <description>SMOBis a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.
-[slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]
-John Breslin writes in his blog post:
- The prototype uses FOAFand SIOCto model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
+      <description>SMOB is a prototype developed to enable semantic microblogging. It can be seen as Twitter enriched with semantic data.&#xA;[slideshare id=472659&amp;amp;doc=sfsw-1213739228503754-8&amp;amp;w=425]&#xA;John Breslin writes in his blog post:&#xA;The prototype uses FOAF and SIOC to model microbloggers, their properties, account and service information, and the microblog updates that users create. A multitude of publishing services can ping one or a set of aggregating servers as selected by each user, and it is important to note that users retain control of their own data through self hosting.</description>
     </item>
-    
     <item>
       <title>[lecture] – Introduction to scientific working</title>
       <link>/2008/11/lecture-introduction-to-scientific-working/</link>
       <pubDate>Mon, 03 Nov 2008 17:00:20 +0000</pubDate>
-      
       <guid>/2008/11/lecture-introduction-to-scientific-working/</guid>
       <description>(via e-Learning Blog)</description>
     </item>
-    
   </channel>
 </rss>

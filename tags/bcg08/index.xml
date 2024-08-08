@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bcg08 on IT-ZT DI Herbert Mühlburger</title>
+    <title>Bcg08 on Herbert Mühlburger</title>
     <link>/tags/bcg08/</link>
-    <description>Recent content in bcg08 on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Bcg08 on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Nov 2008 08:35:38 +0000</lastBuildDate><atom:link href="/tags/bcg08/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Nov 2008 08:35:38 +0000</lastBuildDate>
+    <atom:link href="/tags/bcg08/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First BarCamp in Graz, Austria</title>
       <link>/2008/11/first-barcamp-in-graz-austria/</link>
       <pubDate>Sun, 23 Nov 2008 08:35:38 +0000</pubDate>
-      
       <guid>/2008/11/first-barcamp-in-graz-austria/</guid>
-      <description>This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens Universityand today it is going to start at 10.00 o’clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:
- BarCampsare organized and evangelized largely through the web, harnessing what might be called a Web 2.0communications toolkit. Anyone can initiate a BarCamp, using the BarCamp wiki.</description>
+      <description>This weekend the first BarCamp of Graz, Austria is going on. Location is the Karl-Franzens University and today it is going to start at 10.00 o’clock am. BarCamps are a growing type of events. A BarCamp is a so called unconference. On wikipedia you can read:&#xA;BarCamps are organized and evangelized largely through the web, harnessing what might be called a Web 2.0 communications toolkit. Anyone can initiate a BarCamp, using the BarCamp wiki.</description>
     </item>
-    
   </channel>
 </rss>

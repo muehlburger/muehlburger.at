@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>websearch on IT-ZT DI Herbert Mühlburger</title>
+    <title>Websearch on Herbert Mühlburger</title>
     <link>/tags/websearch/</link>
-    <description>Recent content in websearch on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Websearch on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2008 09:21:46 +0000</lastBuildDate><atom:link href="/tags/websearch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2008 09:21:46 +0000</lastBuildDate>
+    <atom:link href="/tags/websearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Flu Trends – Google Uses Searches to Track Flu’s Spread</title>
       <link>/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</link>
       <pubDate>Wed, 12 Nov 2008 09:21:46 +0000</pubDate>
-      
       <guid>/2008/11/google-flu-trends-google-uses-searches-to-track-flu-spread/</guid>
-      <description>It stands to reason that people who are “starting to come down with something” often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]
- Google offers a new service called Google Flu Trends. The service uses an analysis of Google’s millions of search queries every day to calculate flu trends.</description>
+      <description>It stands to reason that people who are “starting to come down with something” often take the opportunity to search for information on what ails them, even before they discuss their symptoms with a healthcare professional. Who gets more of those searches than anyone? Google, of course. [ReadWriteWeb]&#xA;Google offers a new service called Google Flu Trends. The service uses an analysis of Google’s millions of search queries every day to calculate flu trends.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>die zeit on IT-ZT DI Herbert Mühlburger</title>
+    <title>Die Zeit on Herbert Mühlburger</title>
     <link>/tags/die-zeit/</link>
-    <description>Recent content in die zeit on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Die Zeit on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2008 21:11:42 +0000</lastBuildDate><atom:link href="/tags/die-zeit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Nov 2008 21:11:42 +0000</lastBuildDate>
+    <atom:link href="/tags/die-zeit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do you need a problem to solve?</title>
       <link>/2008/11/do-you-need-a-problem-to-solve/</link>
       <pubDate>Tue, 11 Nov 2008 21:11:42 +0000</pubDate>
-      
       <guid>/2008/11/do-you-need-a-problem-to-solve/</guid>
-      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.
-The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.comyou can pay and they are going to give you a problem to solve.</description>
+      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.&#xA;The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.com you can pay and they are going to give you a problem to solve.</description>
     </item>
-    
     <item>
       <title>Second Life and more …</title>
       <link>/2007/03/second-life-and-more/</link>
       <pubDate>Sun, 18 Mar 2007 12:18:06 +0000</pubDate>
-      
       <guid>/2007/03/second-life-and-more/</guid>
-      <description>Second Lifewer kenn das nicht, oder besser gefragt, wer hat nicht schon davon gehört? Interessanterweise haben bei der letzten Vorlesung in einem Hörsaal von ca. 300 – 400 Studierenden nur 3 – 4 Studierende angegeben, Second Life zu spielen. Spielen? Second Life spielt man nicht, man lebt in der virtuellen Welt und versucht sich dort in irgendeiner Weise zu verwirklichen. Ob das gelingt ist verschieden. Interessant ist auch, dass die Studierenden von denen hier dei Rede ist nicht einem Studium nachgehen, welches überhaupt nichts mit Informationstechnologie zu tun hat.</description>
+      <description>Second Life wer kenn das nicht, oder besser gefragt, wer hat nicht schon davon gehört? Interessanterweise haben bei der letzten Vorlesung in einem Hörsaal von ca. 300 – 400 Studierenden nur 3 – 4 Studierende angegeben, Second Life zu spielen. Spielen? Second Life spielt man nicht, man lebt in der virtuellen Welt und versucht sich dort in irgendeiner Weise zu verwirklichen. Ob das gelingt ist verschieden. Interessant ist auch, dass die Studierenden von denen hier dei Rede ist nicht einem Studium nachgehen, welches überhaupt nichts mit Informationstechnologie zu tun hat.</description>
     </item>
-    
   </channel>
 </rss>

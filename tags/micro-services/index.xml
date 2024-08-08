@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>micro-services on IT-ZT DI Herbert Mühlburger</title>
+    <title>Micro-Services on Herbert Mühlburger</title>
     <link>/tags/micro-services/</link>
-    <description>Recent content in micro-services on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Micro-Services on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 May 2010 17:08:38 +0000</lastBuildDate><atom:link href="/tags/micro-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2010 17:08:38 +0000</lastBuildDate>
+    <atom:link href="/tags/micro-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiverr – Offer or buy a micro services for $5</title>
       <link>/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/</link>
       <pubDate>Sun, 02 May 2010 17:08:38 +0000</pubDate>
-      
       <guid>/2010/05/fiverr-offer-or-buy-a-micro-services-for-5/</guid>
-      <description>Recently I have read about Fiverr, a service which enables users to offer or buy micro-services for $5 Dollars.
-Here are some sample offers:
-  I will write and record you a song for $5 I will help you with Spanish homework for $5 I will do your maths and programming homework for $5 I will send you a postcard from Austria for $5   That’s a great idea!</description>
+      <description>Recently I have read about Fiverr, a service which enables users to offer or buy micro-services for $5 Dollars.&#xA;Here are some sample offers:&#xA;I will write and record you a song for $5 I will help you with Spanish homework for $5 I will do your maths and programming homework for $5 I will send you a postcard from Austria for $5 That’s a great idea! 🙂&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

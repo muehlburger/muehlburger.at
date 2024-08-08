@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>World Wide Web Consortium on IT-ZT DI Herbert Mühlburger</title>
+    <title>World Wide Web Consortium on Herbert Mühlburger</title>
     <link>/tags/world-wide-web-consortium/</link>
-    <description>Recent content in World Wide Web Consortium on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in World Wide Web Consortium on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jan 2009 21:11:02 +0000</lastBuildDate><atom:link href="/tags/world-wide-web-consortium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jan 2009 21:11:02 +0000</lastBuildDate>
+    <atom:link href="/tags/world-wide-web-consortium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linking Open Data – Anwendungen für Endanwender</title>
       <link>/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
       <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
-      
       <guid>/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
-      <description>Für die Lehrveranstaltung “Einführung in das wissenschaftliche Arbeiten” bei Prof. Dr. Klaus Tochtermannhabe ich einen Artikel zum Thema “Linking Open Data – Anwendungen für Endanwender” geschrieben.
-Auszug aus dem Abstract:
- Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open DataKonzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3CSWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+      <description>Für die Lehrveranstaltung “Einführung in das wissenschaftliche Arbeiten” bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema “Linking Open Data – Anwendungen für Endanwender” geschrieben.&#xA;Auszug aus dem Abstract:&#xA;Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
     </item>
-    
     <item>
       <title>10 Interesting Semantic Apps</title>
       <link>/2009/01/10-interesting-semantic-apps/</link>
       <pubDate>Sun, 11 Jan 2009 19:23:56 +0000</pubDate>
-      
       <guid>/2009/01/10-interesting-semantic-apps/</guid>
-      <description></description>
+      <description> </description>
     </item>
-    
   </channel>
 </rss>

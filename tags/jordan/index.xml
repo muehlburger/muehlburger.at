@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jordan on IT-ZT DI Herbert Mühlburger</title>
+    <title>Jordan on Herbert Mühlburger</title>
     <link>/tags/jordan/</link>
-    <description>Recent content in Jordan on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Jordan on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Apr 2010 09:51:09 +0000</lastBuildDate><atom:link href="/tags/jordan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2010 09:51:09 +0000</lastBuildDate>
+    <atom:link href="/tags/jordan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[paper] – Learning Management Systems: Are They Knowledge Management Tools?</title>
       <link>/2010/04/learning-management-systems-are-they-knowledge-management-tools/</link>
       <pubDate>Tue, 27 Apr 2010 09:51:09 +0000</pubDate>
-      
       <guid>/2010/04/learning-management-systems-are-they-knowledge-management-tools/</guid>
-      <description>Im Zuge der Lehrveranstaltung “Technology Enhanced Learning” an der TU Graz , abgehalten von Dr. Martin Ebner(@mebner) habe ich den Artikel “Learning Management Systems: Are They Knowledge Management Tools?” als Leitartikel zum Thema Lern-Management-Systeme (LMS) ausgewählt.
-Dieser Artikel beschäftigt sich mit der Frage, ob Lern-Management-Systeme (LMS) zu Wissensmanagement Werkzeugen gezählt werden sollten. Die Autoren definieren zunächst Wissensmanagement und Lernen auf Grundlage vorhandener Literatur, bevor auf eLearning und dort im speziellen auf LMS eingegangen wird.</description>
+      <description>Im Zuge der Lehrveranstaltung “Technology Enhanced Learning” an der TU Graz , abgehalten von Dr. Martin Ebner (@mebner) habe ich den Artikel “Learning Management Systems: Are They Knowledge Management Tools?” als Leitartikel zum Thema Lern-Management-Systeme (LMS) ausgewählt.&#xA;Dieser Artikel beschäftigt sich mit der Frage, ob Lern-Management-Systeme (LMS) zu Wissensmanagement Werkzeugen gezählt werden sollten. Die Autoren definieren zunächst Wissensmanagement und Lernen auf Grundlage vorhandener Literatur, bevor auf eLearning und dort im speziellen auf LMS eingegangen wird.</description>
     </item>
-    
   </channel>
 </rss>

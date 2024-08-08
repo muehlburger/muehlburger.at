@@ -9,31 +9,40 @@
 
     
 
-    <meta name="author" content="IT-ZT DI Herbert Mühlburger">
-    <meta name="description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Controloffiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+    <meta name="author" content="Herbert Mühlburger">
+    <meta name="description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
 Es werden per HTTP POST Request Anfragen an http://www.">
     <meta name="keywords" content="IT-ZT, Herbert Mühlburger, Mühlburger, Muehlburger, Information Technology, IT, Herbert Mühlburger, Herbert Muehlburger, Technology Architect, Senior Software Engineer">
 
-    <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="[spritpreisrechner.at] – Apps entwickeln"/>
-<meta name="twitter:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Controloffiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="[spritpreisrechner.at] – Apps entwickeln">
+  <meta name="twitter:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
-Es werden per HTTP POST Request Anfragen an http://www."/>
+Es werden per HTTP POST Request Anfragen an http://www.">
 
-    <meta property="og:title" content="[spritpreisrechner.at] – Apps entwickeln" />
-<meta property="og:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Controloffiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
+    <meta property="og:url" content="/2011/08/spritpreisrechner-at-apps-entwickeln/">
+  <meta property="og:site_name" content="Herbert Mühlburger">
+  <meta property="og:title" content="[spritpreisrechner.at] – Apps entwickeln">
+  <meta property="og:description" content="Vor kurzem wurde in Österreich der Spritpreisrechner der E-Control offiziell der Öffentlichkeit vorgestellt. Es hat nicht lange gedauert, bis auch die ersten Android App Entwickler die Seite zu nutzen versuchten. So finden sich derzeit im Android Market schon einige Spritpreisrechner Apps.
 Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:
-Es werden per HTTP POST Request Anfragen an http://www." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="/2011/08/spritpreisrechner-at-apps-entwickeln/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2011-08-26T09:17:35+00:00" />
-<meta property="article:modified_time" content="2011-08-26T09:17:35+00:00" />
-
+Es werden per HTTP POST Request Anfragen an http://www.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2011-08-26T09:17:35+00:00">
+    <meta property="article:modified_time" content="2011-08-26T09:17:35+00:00">
+    <meta property="article:tag" content="Android Market">
+    <meta property="article:tag" content="HTTP">
+    <meta property="article:tag" content="JSON">
+    <meta property="article:tag" content="Latitude">
+    <meta property="article:tag" content="Spritpreise">
+    <meta property="article:tag" content="Spritpreisrechner.at">
 
 
     <title>
-  [spritpreisrechner.at] – Apps entwickeln · IT-ZT DI Herbert Mühlburger
+  [spritpreisrechner.at] – Apps entwickeln · Herbert Mühlburger
 </title>
 
     
@@ -72,7 +81,7 @@ Es werden per HTTP POST Request Anfragen an http://www." />
 
     
 
-    <meta name="generator" content="Hugo 0.86.1" />
+    <meta name="generator" content="Hugo 0.128.2">
   </head>
 
   
@@ -94,7 +103,7 @@ Es werden per HTTP POST Request Anfragen an http://www." />
       <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="/">
-      IT-ZT DI Herbert Mühlburger
+      Herbert Mühlburger
     </a>
     
       <input type="checkbox" id="menu-toggle" />
@@ -207,51 +216,51 @@ Es werden per HTTP POST Request Anfragen an http://www." />
 <p>Ich habe mir einmal das Datenformat angesehen, welches die Website spritpreisrechner.at für die Abfrage der Spritdaten benutzt. Es ist eigentlich ganz einfach:</p>
 <p>Es werden per HTTP POST Request Anfragen an <!-- raw HTML omitted --><a href="http://www.spritpreisrechner.at/espritmap-app/GasStationServlet">http://www.spritpreisrechner.at/espritmap-app/GasStationServlet</a><!-- raw HTML omitted --> geschickt. Wichtig ist dabei der Parameter &ldquo;data&rdquo; der natürlich mit Werten (Längen- und Breitengraden bzw. einen Suchstring) initialisiert werden muss.</p>
 <p>Beispielsweise könnte man folgenden cURL Aufruf ausführen (die Daten in &ldquo;data&rdquo; sind url-encoded&quot;):</p>
-<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">curl -d &#34;data=%5B%22Graz%22%2C%22DIE%22%2C15.414262484145%2C47.057105360725%2C15.494085024429%2C47.08048974931%5D&#34; http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
-</code></pre></div><p>Der HTTP Request Header sieht konkret folgendermaßen aus:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">Request URL:http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
-Request Method:POST
-Status Code:200 OK
-Request Headersview source
-Accept:\*/\*
-Accept-Charset:ISO-8859-1,utf-8;q=0.7,*;q=0.3
-Accept-Encoding:gzip,deflate,sdch
-Accept-Language:de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4
-Connection:keep-alive
-Content-Length:101
-Content-Type:application/x-www-form-urlencoded
-Host:spritpreisrechner.at
-Origin:http://spritpreisrechner.at
-Referer:http://spritpreisrechner.at/ts/map.jsp
-User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_7\_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
-X-Requested-With:XMLHttpRequest
-Form Dataview URL encoded
-data:[&#34;&#34;,&#34;DIE&#34;,15.409674251128,47.051201316374,15.489496791403,47.074588294516]
-Response Headersview source
-Connection:Keep-Alive
-Content-Type:text/html;charset=UTF-8
-Date:Fri, 26 Aug 2011 08:27:11 GMT
-Keep-Alive:timeout=4, max=150
-Transfer-Encoding:chunked
-</code></pre></div><p>Der Parameter &ldquo;data&rdquo; enthält einen JSON String der mit folgenden Werten befüllt wird:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
-  <span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
-  <span style="color:#0ff;font-weight:bold">&#34;DIE&#34;</span>,
-  <span style="color:#ff0;font-weight:bold">15.414258888907</span>,
-  <span style="color:#ff0;font-weight:bold">47.057106335865</span>,
-  <span style="color:#ff0;font-weight:bold">15.494081429191</span>,
-  <span style="color:#ff0;font-weight:bold">47.080490724022</span>
-]
-</code></pre></div><p>Hier die Beschreibung der einzelnen Felder:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">[
-&#34;&#34;, =&gt; Ort (Tankstellen werden in der Nähe dieses Ortes gesucht) **Update:** Vielen Dank an Andreas Stütz!: Dieser Parameter gibt an, ob auch geschlossene Tankstellen angezeigt werden sollen (&#34;checked&#34;) oder nicht (&#34;&#34;)
-&#34;DIE&#34;, =&gt; Treibstoffart: &#34;DIE&#34; oder &#34;SUP&#34; (Diesel oder Super 95)
-15.414258888907, =&gt; Longitude 1 (Längengrad)
-47.057106335865, =&gt; Latitude 1 (Breitengrad)
-15.494081429191, =&gt; Longitude 2 (Längengrad)
-47.080490724022 =&gt; Latitude 2 (Breitengrad)  
-]
-</code></pre></div><p>Longitude 1 und Latitude 1 geben Koordinaten der linken unteren Ecke, Longitude 2 und Latitude 2 die Koordinaten der oberen rechten Ecke an. Das so aufgespannte Rechteck definiert den sichtbaren Bereich auf der Google Maps Karte. Im Zentrum sollte sich sinnvollerweise die aktuelle Position befinden. Innerhalb des sichtbaren Bereiches werden die 5 billigsten Tankstellen mit den dazugehörigen Spritpreisen angezeigt. Um das Rechteck aufzuspannen kann man sich in Android folgendermaßen behelfen:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>curl -d &#34;data=%5B%22Graz%22%2C%22DIE%22%2C15.414262484145%2C47.057105360725%2C15.494085024429%2C47.08048974931%5D&#34; http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
+</span></span></code></pre></div><p>Der HTTP Request Header sieht konkret folgendermaßen aus:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>Request URL:http://www.spritpreisrechner.at/espritmap-app/GasStationServlet
+</span></span><span style="display:flex;"><span>Request Method:POST
+</span></span><span style="display:flex;"><span>Status Code:200 OK
+</span></span><span style="display:flex;"><span>Request Headersview source
+</span></span><span style="display:flex;"><span>Accept:\*/\*
+</span></span><span style="display:flex;"><span>Accept-Charset:ISO-8859-1,utf-8;q=0.7,*;q=0.3
+</span></span><span style="display:flex;"><span>Accept-Encoding:gzip,deflate,sdch
+</span></span><span style="display:flex;"><span>Accept-Language:de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4
+</span></span><span style="display:flex;"><span>Connection:keep-alive
+</span></span><span style="display:flex;"><span>Content-Length:101
+</span></span><span style="display:flex;"><span>Content-Type:application/x-www-form-urlencoded
+</span></span><span style="display:flex;"><span>Host:spritpreisrechner.at
+</span></span><span style="display:flex;"><span>Origin:http://spritpreisrechner.at
+</span></span><span style="display:flex;"><span>Referer:http://spritpreisrechner.at/ts/map.jsp
+</span></span><span style="display:flex;"><span>User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10\_7\_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+</span></span><span style="display:flex;"><span>X-Requested-With:XMLHttpRequest
+</span></span><span style="display:flex;"><span>Form Dataview URL encoded
+</span></span><span style="display:flex;"><span>data:[&#34;&#34;,&#34;DIE&#34;,15.409674251128,47.051201316374,15.489496791403,47.074588294516]
+</span></span><span style="display:flex;"><span>Response Headersview source
+</span></span><span style="display:flex;"><span>Connection:Keep-Alive
+</span></span><span style="display:flex;"><span>Content-Type:text/html;charset=UTF-8
+</span></span><span style="display:flex;"><span>Date:Fri, 26 Aug 2011 08:27:11 GMT
+</span></span><span style="display:flex;"><span>Keep-Alive:timeout=4, max=150
+</span></span><span style="display:flex;"><span>Transfer-Encoding:chunked
+</span></span></code></pre></div><p>Der Parameter &ldquo;data&rdquo; enthält einen JSON String der mit folgenden Werten befüllt wird:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>[
+</span></span><span style="display:flex;"><span>  <span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#0ff;font-weight:bold">&#34;DIE&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#ff0;font-weight:bold">15.414258888907</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#ff0;font-weight:bold">47.057106335865</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#ff0;font-weight:bold">15.494081429191</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#ff0;font-weight:bold">47.080490724022</span>
+</span></span><span style="display:flex;"><span>]
+</span></span></code></pre></div><p>Hier die Beschreibung der einzelnen Felder:</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>[
+</span></span><span style="display:flex;"><span>&#34;&#34;, =&gt; Ort (Tankstellen werden in der Nähe dieses Ortes gesucht) **Update:** Vielen Dank an Andreas Stütz!: Dieser Parameter gibt an, ob auch geschlossene Tankstellen angezeigt werden sollen (&#34;checked&#34;) oder nicht (&#34;&#34;)
+</span></span><span style="display:flex;"><span>&#34;DIE&#34;, =&gt; Treibstoffart: &#34;DIE&#34; oder &#34;SUP&#34; (Diesel oder Super 95)
+</span></span><span style="display:flex;"><span>15.414258888907, =&gt; Longitude 1 (Längengrad)
+</span></span><span style="display:flex;"><span>47.057106335865, =&gt; Latitude 1 (Breitengrad)
+</span></span><span style="display:flex;"><span>15.494081429191, =&gt; Longitude 2 (Längengrad)
+</span></span><span style="display:flex;"><span>47.080490724022 =&gt; Latitude 2 (Breitengrad)  
+</span></span><span style="display:flex;"><span>]
+</span></span></code></pre></div><p>Longitude 1 und Latitude 1 geben Koordinaten der linken unteren Ecke, Longitude 2 und Latitude 2 die Koordinaten der oberen rechten Ecke an. Das so aufgespannte Rechteck definiert den sichtbaren Bereich auf der Google Maps Karte. Im Zentrum sollte sich sinnvollerweise die aktuelle Position befinden. Innerhalb des sichtbaren Bereiches werden die 5 billigsten Tankstellen mit den dazugehörigen Spritpreisen angezeigt. Um das Rechteck aufzuspannen kann man sich in Android folgendermaßen behelfen:</p>
 <ol>
 <li>
 <p>Aktuelle Position mittels Android LocationManager ermitteln</p>
@@ -264,161 +273,161 @@ Transfer-Encoding:chunked
 </li>
 </ol>
 <p>Wird der oben beschriebene HTTP Request ausgeführt, bekommt man als HTTP Response einen JSON String, der wie folgt aufgebaut ist:</p>
-<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
-  {
-    <span style="font-weight:bold">&#34;kredit&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
-    <span style="font-weight:bold">&#34;self&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
-    <span style="font-weight:bold">&#34;spritPrice&#34;</span>:[
-      {
-        <span style="font-weight:bold">&#34;amount&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;1.262&#34;</span>,
-        <span style="font-weight:bold">&#34;datAnounce&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Thu Aug 25 17:45:55 CEST 2011&#34;</span>,
-        <span style="font-weight:bold">&#34;gasStationId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;7766&#34;</span>,
-        <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-        ],
-        <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-        <span style="font-weight:bold">&#34;datValid&#34;</span>:<span style="color:#ff0;font-weight:bold">1314287155000</span>,
-        <span style="font-weight:bold">&#34;spritId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DIE&#34;</span>
-      }
-    ],
-    <span style="font-weight:bold">&#34;automat&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
-    <span style="font-weight:bold">&#34;city&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Graz&#34;</span>,
-    <span style="font-weight:bold">&#34;open&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
-    <span style="font-weight:bold">&#34;distance&#34;</span>:<span style="color:#ff0;font-weight:bold">1.32</span>,
-    <span style="font-weight:bold">&#34;postalCode&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;8010&#34;</span>,
-    <span style="font-weight:bold">&#34;    gasStationId&#34;</span>:<span style="color:#ff0;font-weight:bold">7766</span>,
-    <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-    ],
-    <span style="font-weight:bold">&#34;priceSearchDisabled&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
-    <span style="font-weight:bold">&#34;longitude&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;15.4509774&#34;</span>,
-    <span style="font-weight:bold">&#34;    payMethod&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;UTA&#34;</span>,
-    <span style="font-weight:bold">&#34;mail&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
-    <span style="font-weight:bold">&#34;gasStationName&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Turmöl&#34;</span>,
-    <span style="font-weight:bold">&#34;fax&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;433164751524&#34;</span>,
-    <span style="font-weight:bold">&#34;    clubCard&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
-    <span style="font-weight:bold">&#34;openingHours&#34;</span>:[
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Feiertag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">8</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;FE&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Dienstag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">2</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DI&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Montag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">1</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;MO&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Freitag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">5</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;FR&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Samstag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">6</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;SA&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Sonntag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">7</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;SO&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Mittwoch&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">3</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;MI&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
-      },
-      {
-        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
-        <span style="font-weight:bold">&#34;day&#34;</span>:{
-          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Donnerstag&#34;</span>,
-          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">4</span>,
-          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
-
-          ],
-          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
-          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DO&#34;</span>
-        },
-        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
-      }
-    ],
-    <span style="font-weight:bold">&#34;access&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
-    <span style="font-weight:bold">&#34;url&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
-    <span style="font-weight:bold">&#34;serviceText&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;ShoprnBistrornWaschanlagernSB-LanzenwäschernDiesel-Schnellläuferrn&#34;</span>,
-    <span style="font-weight:bold">&#34;maestro&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
-    <span style="font-weight:bold">&#34;companionship&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
-    <span style="font-weight:bold">&#34;address&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Conrad.-v.Hötzendorfstr. 135 &#34;</span>,
-    <span style="font-weight:bold">&#34;club&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
-    <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">1</span>,
-    <span style="font-weight:bold">&#34;service&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
-    <span style="font-weight:bold">&#34;latitude&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;47.0510643&#34;</span>,
-    <span style="font-weight:bold">&#34;bar&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
-    <span style="font-weight:bold">&#34;telephone&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;43316475152&#34;</span>,
-    <span style="font-weight:bold">&#34;gasStationInternalId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;CvH&#34;</span>
-  }
-]
-</code></pre></div><p>Einen Parser für diesen JSON String zu schreiben, dürfte nicht allzu schwer sein. 🙂 Das war auch schon alles um eine App für spritpreisrechner.at entwicklen zu können. Eigentlich ziemlich einfach. Was meint ihr? Freu mich auf Kommentare und Anregungen!</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>[
+</span></span><span style="display:flex;"><span>  {
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;kredit&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;self&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;spritPrice&#34;</span>:[
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;amount&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;1.262&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;datAnounce&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Thu Aug 25 17:45:55 CEST 2011&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;gasStationId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;7766&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        ],
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;datValid&#34;</span>:<span style="color:#ff0;font-weight:bold">1314287155000</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;spritId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DIE&#34;</span>
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ],
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;automat&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;city&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Graz&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;open&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;distance&#34;</span>:<span style="color:#ff0;font-weight:bold">1.32</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;postalCode&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;8010&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;    gasStationId&#34;</span>:<span style="color:#ff0;font-weight:bold">7766</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    ],
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;priceSearchDisabled&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;longitude&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;15.4509774&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;    payMethod&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;UTA&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;mail&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;gasStationName&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Turmöl&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;fax&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;433164751524&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;    clubCard&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;openingHours&#34;</span>:[
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Feiertag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">8</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;FE&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Dienstag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">2</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DI&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Montag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">1</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;MO&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Freitag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">5</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;FR&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Samstag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">6</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;SA&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;06:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Sonntag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">7</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;SO&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;22:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Mittwoch&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">3</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;MI&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
+</span></span><span style="display:flex;"><span>      },
+</span></span><span style="display:flex;"><span>      {
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;beginn&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;05:00&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;day&#34;</span>:{
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;dayLabel&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Donnerstag&#34;</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;order&#34;</span>:<span style="color:#ff0;font-weight:bold">4</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorItems&#34;</span>:[
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>          ],
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">0</span>,
+</span></span><span style="display:flex;"><span>          <span style="font-weight:bold">&#34;day&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;DO&#34;</span>
+</span></span><span style="display:flex;"><span>        },
+</span></span><span style="display:flex;"><span>        <span style="font-weight:bold">&#34;end&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;23:00&#34;</span>
+</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>    ],
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;access&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;url&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;serviceText&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;ShoprnBistrornWaschanlagernSB-LanzenwäschernDiesel-Schnellläuferrn&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;maestro&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;companionship&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;address&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;Conrad.-v.Hötzendorfstr. 135 &#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;club&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;errorCode&#34;</span>:<span style="color:#ff0;font-weight:bold">1</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;service&#34;</span>:<span style="color:#fff;font-weight:bold">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;latitude&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;47.0510643&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;bar&#34;</span>:<span style="color:#fff;font-weight:bold">true</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;telephone&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;43316475152&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="font-weight:bold">&#34;gasStationInternalId&#34;</span>:<span style="color:#0ff;font-weight:bold">&#34;CvH&#34;</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>]
+</span></span></code></pre></div><p>Einen Parser für diesen JSON String zu schreiben, dürfte nicht allzu schwer sein. 🙂 Das war auch schon alles um eine App für spritpreisrechner.at entwicklen zu können. Eigentlich ziemlich einfach. Was meint ihr? Freu mich auf Kommentare und Anregungen!</p>
 
       </div>
 
@@ -441,9 +450,9 @@ Transfer-Encoding:chunked
       <footer class="footer">
   <section class="container">
     
-    <p>🔥 for tech. Hire me! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
+    <p>🔥 for tech. Hire us! 👉 <a href='https://www.it-zt.at' target='_blank'>www.it-zt.at</a> 👈</p>
     
-     © 2021
+     © 2024
     
     · <a href="/datenschutz" title="Privacy (Datenschutz)">Imprint & Privacy</a>
     
@@ -453,7 +462,7 @@ Transfer-Encoding:chunked
 
     
       
-      <script src="/js/coder.min.03b17769f4f91ae35667e1f2a1ca8c16f50562576cf90ff32b3179926914daa5.js" integrity="sha256-A7F3afT5GuNWZ&#43;HyocqMFvUFYlds&#43;Q/zKzF5kmkU2qU="></script>
+      <script src="/js/coder.min.cb0c595e02234420f3ad3886bf4a9bd2874d0e1e78e090138a9ef158b35aaf17.js" integrity="sha256-ywxZXgIjRCDzrTiGv0qb0odNDh544JATip7xWLNarxc="></script>
     
 
     
@@ -463,6 +472,9 @@ Transfer-Encoding:chunked
     
 
     
+  
+
+
 
     
 

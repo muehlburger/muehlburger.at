@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linked Data on IT-ZT DI Herbert Mühlburger</title>
+    <title>Linked Data on Herbert Mühlburger</title>
     <link>/tags/linked-data/</link>
-    <description>Recent content in Linked Data on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Linked Data on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate><atom:link href="/tags/linked-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Mar 2009 19:47:27 +0000</lastBuildDate>
+    <atom:link href="/tags/linked-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obama’s impressive use of Semantic Web Technologies</title>
       <link>/2009/03/obamas-impressive-use-of-semantic-web-technologies/</link>
       <pubDate>Mon, 23 Mar 2009 19:47:27 +0000</pubDate>
-      
       <guid>/2009/03/obamas-impressive-use-of-semantic-web-technologies/</guid>
-      <description>US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePointthe follwing:
- In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent. The recently launched recovery.gov website (powered by nothing other then Drupal) brought with it the promise that citizens would be able to view where the money was going and how it was going to be spent.</description>
+      <description>US President Obama enforces the use of Semantic Web Technologies. David Peterson posted on SitePoint the follwing:&#xA;In a revolutionary move, Obama’s administration is set to utilise next generation web technologies to bring an unprecedented level of transparency to government. In this case it will shed light on how the roughly US $800 billion dollar economic stimulus will be spent. The recently launched recovery.gov website (powered by nothing other then Drupal) brought with it the promise that citizens would be able to view where the money was going and how it was going to be spent.</description>
     </item>
-    
     <item>
       <title>TED Talks – Tim Berners-Lee: The next Web of open, linked data</title>
       <link>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</link>
       <pubDate>Wed, 18 Mar 2009 10:24:44 +0000</pubDate>
-      
       <guid>/2009/03/ted-talks-tim-berners-lee-the-next-web-of-open-linked-data/</guid>
-      <description>For everybody who is asking: “What’s the next step in internet evolution?” This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!
-(via TED)</description>
+      <description>For everybody who is asking: “What’s the next step in internet evolution?” This presentation of Tim Berners-Lee could give you the anser. Linking Data is one of the most exciting initiatives going on right now. Enjoy the presentation!&#xA;(via TED)</description>
     </item>
-    
     <item>
       <title>Linking Open Data – Anwendungen für Endanwender</title>
       <link>/2009/01/linking-open-data-anwendungen-fur-endanwender/</link>
       <pubDate>Fri, 16 Jan 2009 21:11:02 +0000</pubDate>
-      
       <guid>/2009/01/linking-open-data-anwendungen-fur-endanwender/</guid>
-      <description>Für die Lehrveranstaltung “Einführung in das wissenschaftliche Arbeiten” bei Prof. Dr. Klaus Tochtermannhabe ich einen Artikel zum Thema “Linking Open Data – Anwendungen für Endanwender” geschrieben.
-Auszug aus dem Abstract:
- Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open DataKonzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3CSWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
+      <description>Für die Lehrveranstaltung “Einführung in das wissenschaftliche Arbeiten” bei Prof. Dr. Klaus Tochtermann habe ich einen Artikel zum Thema “Linking Open Data – Anwendungen für Endanwender” geschrieben.&#xA;Auszug aus dem Abstract:&#xA;Dieser Artikel beschäftigt sich mit Anwendungen, die das Linking Open Data Konzept verwenden. Zuerst wird auf das Open Data Movement eingegangen und anschließend auf das W3C SWEO Linking Open Data Community Project. Es sind zahlreiche Anwendungen entstanden, die Linked Open Data verwenden und daraus einen Mehrwert für Benutzer erzielen.</description>
     </item>
-    
   </channel>
 </rss>

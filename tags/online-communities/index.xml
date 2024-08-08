@@ -1,56 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online Communities on IT-ZT DI Herbert Mühlburger</title>
+    <title>Online Communities on Herbert Mühlburger</title>
     <link>/tags/online-communities/</link>
-    <description>Recent content in Online Communities on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Online Communities on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Sep 2010 13:02:24 +0000</lastBuildDate><atom:link href="/tags/online-communities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2010 13:02:24 +0000</lastBuildDate>
+    <atom:link href="/tags/online-communities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[video] – How is Hadoop used at Twitter?</title>
       <link>/2010/09/video-how-is-hadoop-used-at-twitter/</link>
       <pubDate>Fri, 10 Sep 2010 13:02:24 +0000</pubDate>
-      
       <guid>/2010/09/video-how-is-hadoop-used-at-twitter/</guid>
-      <description>In the following video Dmitriy Ryaboy, a TwitterAnalytics Engineer and a former ClouderaIntern, explains how Twitter uses Hadoopand Pig. Enjoy the video and have a good weekend!
-[vimeo 11110059]
-Related articles    </description>
+      <description> In the following video Dmitriy Ryaboy, a Twitter Analytics Engineer and a former Cloudera Intern, explains how Twitter uses Hadoop and Pig. Enjoy the video and have a good weekend!&#xA;[vimeo 11110059]&#xA;Related articles </description>
     </item>
-    
     <item>
       <title>Grabeeter – Grab and Search your Tweets offline and online</title>
       <link>/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</link>
       <pubDate>Sat, 19 Jun 2010 06:51:24 +0000</pubDate>
-      
       <guid>/2010/06/grabeeter-grab-and-search-your-tweets-offline-and-online/</guid>
-      <description>Grabeeter(@grabeeter) has just been launched and I think it is a very useful tool.
-Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.
-This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
+      <description>Grabeeter (@grabeeter) has just been launched and I think it is a very useful tool.&#xA;Grabeeter enables you to grab your tweets which means that you are able to store your tweets on your local harddrive in a structured format (xml at the time). Using the Grabeeter Client you are also able to perform searches on your local stored tweets.&#xA;This solves in parts the following problem. Maybe some of you have already noticed that if you have written more than 3200 Tweets you are not able to access your first tweets anymore due to Twitter access restrictions.</description>
     </item>
-    
     <item>
       <title>“The Age of Privacy is Over” says Facebook’s CEO Mark Zuckerberg</title>
       <link>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</link>
       <pubDate>Sun, 10 Jan 2010 15:26:51 +0000</pubDate>
-      
       <guid>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</guid>
-      <description>On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he’d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.
-Here is the interview of Zuckerberg:
-Related articles by Zemanta    </description>
+      <description>On a six-minute interview on stage with TechCrunch founder Michael Arrington Facebook CEO Mark Zuckerberg states that if he’d start facebook again all privacy settings by DEFAULT would be PUBLIC. A very interesting approach which leads to the question if people want if all of their data is available publicly? I personally do not.&#xA;Here is the interview of Zuckerberg:&#xA;Related articles by Zemanta </description>
     </item>
-    
     <item>
       <title>[video] – Trouble with the Twittersphere</title>
       <link>/2009/05/video-trouble-with-the-twittersphere/</link>
       <pubDate>Thu, 07 May 2009 09:28:12 +0000</pubDate>
-      
       <guid>/2009/05/video-trouble-with-the-twittersphere/</guid>
-      <description>Just found a nice video about twitter and it’s users called the Twittersphere.
-[youtube PN2HAroA12w]
-(via blogdrauf.de)
-Related articles by Zemanta    </description>
+      <description>Just found a nice video about twitter and it’s users called the Twittersphere.&#xA;[youtube PN2HAroA12w]&#xA;(via blogdrauf.de)&#xA;Related articles by Zemanta </description>
     </item>
-    
   </channel>
 </rss>

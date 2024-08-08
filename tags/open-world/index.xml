@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open world on IT-ZT DI Herbert Mühlburger</title>
+    <title>Open World on Herbert Mühlburger</title>
     <link>/tags/open-world/</link>
-    <description>Recent content in Open world on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Open World on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Mar 2011 18:06:30 +0000</lastBuildDate><atom:link href="/tags/open-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2011 18:06:30 +0000</lastBuildDate>
+    <atom:link href="/tags/open-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minecraft Documentary Explores Indie Game’s Impact</title>
       <link>/2011/03/minecraft-documentary-explores-indie-games-impact/</link>
       <pubDate>Mon, 07 Mar 2011 18:06:30 +0000</pubDate>
-      
       <guid>/2011/03/minecraft-documentary-explores-indie-games-impact/</guid>
-      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:
- Of all the videogame industry’s tremendous success stories, Minecraftmight very well be the most remarkable. [wired.com]
- Have fun watching the interesting video:
-[youtube Ax9kmoyzl1Y]
-(via wired.com)
-   Related articles    </description>
+      <description>The impact of indie games given Minecraft as an example is the topic of the following 20 minutes documentary. Wired.com states:&#xA;Of all the videogame industry’s tremendous success stories, Minecraft might very well be the most remarkable. [wired.com]&#xA;Have fun watching the interesting video:&#xA;[youtube Ax9kmoyzl1Y]&#xA;(via wired.com)&#xA;Related articles </description>
     </item>
-    
   </channel>
 </rss>

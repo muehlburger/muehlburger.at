@@ -1,79 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on IT-ZT DI Herbert Mühlburger</title>
+    <title>Internet on Herbert Mühlburger</title>
     <link>/tags/internet/</link>
-    <description>Recent content in Internet on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Internet on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2015 09:40:16 +0000</lastBuildDate><atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2015 09:40:16 +0000</lastBuildDate>
+    <atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interesting Creative Digital &amp; Internet Agencies</title>
       <link>/2015/09/interesting-creative-digital-and-internet-agencies/</link>
       <pubDate>Sun, 06 Sep 2015 09:40:16 +0000</pubDate>
-      
       <guid>/2015/09/interesting-creative-digital-and-internet-agencies/</guid>
-      <description>Since several months I work as a Full Stack Software Engineer for Scoop &amp;amp; Spoon, a creative digital &amp;amp; internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital &amp;amp; internet agencies are out there and luckily found an interesting article in the brand einsmagazine regarding this topic. The following list is a compilation of interesting agencies out there:
- **Scoop &amp;amp; Spoon **(www.scoopandspoon.com) TRONIC Innovation (tronic.</description>
+      <description>Since several months I work as a Full Stack Software Engineer for Scoop &amp;amp; Spoon, a creative digital &amp;amp; internet agency based in London (UK), Vienna and Graz (Austria). I was wondering which other digital &amp;amp; internet agencies are out there and luckily found an interesting article in the brand eins magazine regarding this topic. The following list is a compilation of interesting agencies out there:&#xA;**Scoop &amp;amp; Spoon **(www.scoopandspoon.com) TRONIC Innovation (tronic.</description>
     </item>
-    
     <item>
       <title>Making Location completely unimportant</title>
       <link>/2013/12/making-location-completely-unimportant/</link>
       <pubDate>Thu, 19 Dec 2013 19:32:40 +0000</pubDate>
-      
       <guid>/2013/12/making-location-completely-unimportant/</guid>
-      <description>Working remote becomes more and more important to many people. Remote: Office Not Requiredwritten by Jason Fried (co-founder of 37signals) and David Heinemeier Hansson(original creator of Ruby on Rails) is a great book dealing with this topic. It describes in detail the benefits and problems of building a software company having employees working from remote locations spread all over the world. This gives them great flexibility and enables to recruit talents without being tied to a specific location.</description>
+      <description>Working remote becomes more and more important to many people. Remote: Office Not Required written by Jason Fried (co-founder of 37signals) and David Heinemeier Hansson (original creator of Ruby on Rails) is a great book dealing with this topic. It describes in detail the benefits and problems of building a software company having employees working from remote locations spread all over the world. This gives them great flexibility and enables to recruit talents without being tied to a specific location.</description>
     </item>
-    
     <item>
       <title>[video] – Understanding Gradients in CSS3</title>
       <link>/2010/03/video-understanding-gradients-in-css3/</link>
       <pubDate>Wed, 24 Mar 2010 07:35:31 +0000</pubDate>
-      
       <guid>/2010/03/video-understanding-gradients-in-css3/</guid>
-      <description>I’ve found an interesting video explaining gradients in CSS3. Have a look at the following:
-(via nettuts)</description>
+      <description>I’ve found an interesting video explaining gradients in CSS3. Have a look at the following:&#xA;(via nettuts)</description>
     </item>
-    
     <item>
       <title>The Virtual Revolution covered by the BBC</title>
       <link>/2010/01/the-virtual-revolution-covered-by-the-bbc/</link>
       <pubDate>Sun, 31 Jan 2010 20:43:46 +0000</pubDate>
-      
       <guid>/2010/01/the-virtual-revolution-covered-by-the-bbc/</guid>
-      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s populationis using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internetin a wide variety of areas. This means that the digital revolutionthat has shaped our world as we know it now, will happen in these areas too.</description>
+      <description>The Virtual Revolution refers to the fact that 20-25% of the word’s population is using the web by now, while other 80% are yet either not connected to broadband connections or are just not using it, as Sir Tim Berners-Lee, the inventor of the web, states. In Afrika for example, people are now getting connected to broadband internet in a wide variety of areas. This means that the digital revolution that has shaped our world as we know it now, will happen in these areas too.</description>
     </item>
-    
     <item>
       <title>Google’s SEO Starter Guide – How to improve your website</title>
       <link>/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</link>
       <pubDate>Thu, 13 Nov 2008 19:40:45 +0000</pubDate>
-      
       <guid>/2008/11/googles-seo-starter-guide-how-to-improve-your-site/</guid>
-      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blogthe following lines: Webmasters often ask us at conferences or in the Webmaster Help Group, “What are some simple ways that I can improve my website’s performance in Google?” There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
+      <description>Brandon Falls from Google Search Quality Team, wrote on the Official Google Webmaster Central Blog the following lines:&#xA;Webmasters often ask us at conferences or in the Webmaster Help Group, “What are some simple ways that I can improve my website’s performance in Google?” There are lots of possible answers to this question, and a wealth of search engine optimization information on the web, so much that it can be intimidating for newer webmasters or those unfamiliar with the topic.</description>
     </item>
-    
     <item>
       <title>Do you need a problem to solve?</title>
       <link>/2008/11/do-you-need-a-problem-to-solve/</link>
       <pubDate>Tue, 11 Nov 2008 21:11:42 +0000</pubDate>
-      
       <guid>/2008/11/do-you-need-a-problem-to-solve/</guid>
-      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.
-The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.comyou can pay and they are going to give you a problem to solve.</description>
+      <description>Three guys from Switzerland have found a new business model: They create problems for their customers. You might know the film called “The Game” where Michael Douglas as a bored but rich investment banker gets involved in a kind of game.&#xA;The three guys from Switzerland make a lot of money with their project called “need a problem” now. On the website www.needaproblem.com you can pay and they are going to give you a problem to solve.</description>
     </item>
-    
     <item>
       <title>Monopoly für die Generation Internet</title>
       <link>/2008/06/monopoly-fur-die-generation-internet/</link>
       <pubDate>Sun, 15 Jun 2008 11:51:06 +0000</pubDate>
-      
       <guid>/2008/06/monopoly-fur-die-generation-internet/</guid>
-      <description>Monopoly, ein Spieldas mit Sicherheitjeder schon mindestens einmal gepielt hat. Für die Generation Internet, gibt es jetzt eine neue Version dieses Spiels. DerName, na wie sollte er schon sein: “Googolopoly“. Treffender könnte man die neue Version dieses Spielwohl nicht benennen.
-Hier kann man sich die Vorlage für das Spiel herunterladen. Danach einfach ausdrucken und los geht’s. Spielgeld sucht man einfach auf Flickr. Oder man lädt es direkt hierherunter.
-[via Spreeblick]</description>
+      <description>Monopoly, ein Spiel das mit Sicherheit jeder schon mindestens einmal gepielt hat. Für die Generation Internet, gibt es jetzt eine neue Version dieses Spiels. Der Name, na wie sollte er schon sein: “Googolopoly“. Treffender könnte man die neue Version dieses Spiel wohl nicht benennen.&#xA;Hier kann man sich die Vorlage für das Spiel herunterladen. Danach einfach ausdrucken und los geht’s. Spielgeld sucht man einfach auf Flickr. Oder man lädt es direkt hier herunter.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scientific writing on IT-ZT DI Herbert Mühlburger</title>
+    <title>Scientific Writing on Herbert Mühlburger</title>
     <link>/tags/scientific-writing/</link>
-    <description>Recent content in scientific writing on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Scientific Writing on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Nov 2008 17:00:20 +0000</lastBuildDate><atom:link href="/tags/scientific-writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Nov 2008 17:00:20 +0000</lastBuildDate>
+    <atom:link href="/tags/scientific-writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[lecture] – Introduction to scientific working</title>
       <link>/2008/11/lecture-introduction-to-scientific-working/</link>
       <pubDate>Mon, 03 Nov 2008 17:00:20 +0000</pubDate>
-      
       <guid>/2008/11/lecture-introduction-to-scientific-working/</guid>
       <description>(via e-Learning Blog)</description>
     </item>
-    
   </channel>
 </rss>

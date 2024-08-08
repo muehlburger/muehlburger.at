@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HP Mini 5101 on IT-ZT DI Herbert Mühlburger</title>
+    <title>HP Mini 5101 on Herbert Mühlburger</title>
     <link>/tags/hp-mini-5101/</link>
-    <description>Recent content in HP Mini 5101 on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in HP Mini 5101 on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2009 17:31:37 +0000</lastBuildDate><atom:link href="/tags/hp-mini-5101/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2009 17:31:37 +0000</lastBuildDate>
+    <atom:link href="/tags/hp-mini-5101/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty</title>
       <link>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</link>
       <pubDate>Fri, 25 Sep 2009 17:31:37 +0000</pubDate>
-      
       <guid>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</guid>
-      <description>Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
-After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
+      <description>Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c).&#xA;After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
     </item>
-    
   </channel>
 </rss>

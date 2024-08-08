@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer graphics on IT-ZT DI Herbert Mühlburger</title>
+    <title>Computer Graphics on Herbert Mühlburger</title>
     <link>/tags/computer-graphics/</link>
-    <description>Recent content in Computer graphics on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Computer Graphics on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2009 16:18:06 +0000</lastBuildDate><atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Aug 2009 16:18:06 +0000</lastBuildDate>
+    <atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Touchable Holography</title>
       <link>/2009/08/touchable-holography/</link>
       <pubDate>Thu, 06 Aug 2009 16:18:06 +0000</pubDate>
-      
       <guid>/2009/08/touchable-holography/</guid>
-      <description>At this years International Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH2009) a touchable holographywas presented by the University of Tokio. It is a kind of holography that you are able to feel and interact with. Great development that you can see in the following video:
-[youtube Y-P1zZAcPuw]
-The first page of the presented scientific paper called “Touchable Holography” can be downloaded here.</description>
+      <description>At this years International Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH2009) a touchable holography was presented by the University of Tokio. It is a kind of holography that you are able to feel and interact with. Great development that you can see in the following video:&#xA;[youtube Y-P1zZAcPuw]&#xA;The first page of the presented scientific paper called “Touchable Holography” can be downloaded here.</description>
     </item>
-    
   </channel>
 </rss>

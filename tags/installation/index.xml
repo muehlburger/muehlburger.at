@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installation on IT-ZT DI Herbert Mühlburger</title>
+    <title>Installation on Herbert Mühlburger</title>
     <link>/tags/installation/</link>
-    <description>Recent content in Installation on IT-ZT DI Herbert Mühlburger</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Installation on Herbert Mühlburger</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jan 2011 20:45:32 +0000</lastBuildDate><atom:link href="/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2011 20:45:32 +0000</lastBuildDate>
+    <atom:link href="/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to install (Oracle) Sun Java SDK 1.6.x (Java 6) on Ubuntu</title>
       <link>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</link>
       <pubDate>Mon, 10 Jan 2011 20:45:32 +0000</pubDate>
-      
       <guid>/2011/01/how-to-install-oracle-sun-java-sdk-1-6-x-java-6-on-ubuntu/</guid>
-      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.
-Canonical-Partner Repositories aktivieren:    Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”.</description>
+      <description>Dieser Beitrag beschreibt die Installation des Sun Java SDK 1.6.x on Ubuntu (Maverick). The English explanation on how to install Sun Java SDK 1.6.x can be found here.&#xA;Canonical-Partner Repositories aktivieren: Dies geschieht unter “System” -&amp;gt; “Systemverwaltung” -&amp;gt; “Synaptic Paketverwalung”. In der Paketverwaltung finden sich die Paketquellen unter dem Menüpunkt “Einstellungen”. In den Einstellungen wechselt man auf den Reiter “Andere Software” und aktiviert dort “Canonical-Partner” bzw. “Canonical-Partner (Quelltext)”. Nach dem Klick auf “Schließen” werden die Paketlisten neu geladen.</description>
     </item>
-    
     <item>
       <title>How to install Broadcom Wireless Device on HP Mini 5101 running Ubuntu Jaunty</title>
       <link>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</link>
       <pubDate>Fri, 25 Sep 2009 17:31:37 +0000</pubDate>
-      
       <guid>/2009/09/howto-install-broadcom-wireless-device-on-hp-mini-5101-running-ubuntu-jaunty/</guid>
-      <description>Yesterday I received my new HPMini 5101 running Suse Linux Enterprise Desktop11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04but there were some problems regarding the wireless chipset (Broadcom5343) and the Ethernetadapter (Marvel 436c).
-After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
+      <description>Yesterday I received my new HP Mini 5101 running Suse Linux Enterprise Desktop 11 (SLED 11). Due to the fact, that i do not like working with Suse I installed Ubuntu 9.04 but there were some problems regarding the wireless chipset (Broadcom 5343) and the Ethernet adapter (Marvel 436c).&#xA;After installation the wireless and the ethernet devices were not working. The problem was that I needed to install proprietary drivers which were not included in Ubuntu due to licence issues.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-08-26T13:16:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-08-26T13:16:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,23 +42,10 @@
                 />
   </url><url>
     <loc>/tags/deep-neural-networks/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/learning/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -45,32 +58,19 @@
                 />
   </url><url>
     <loc>/tags/neural-networks/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/perceptron/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/research/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/research/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -83,7 +83,10 @@
                 />
   </url><url>
     <loc>/2020/architectures-of-neural-networks-explained/</loc>
-    <lastmod>2020-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2020-04-12T20:03:30+02:00</lastmod>
   </url><url>
     <loc>/posts/how-to-read-research-papers/</loc>
     <lastmod>2019-11-14T14:55:26+01:00</lastmod>
@@ -96,19 +99,6 @@
   </url><url>
     <loc>/tags/research-papers/</loc>
     <lastmod>2019-11-14T14:55:26+01:00</lastmod>
-  </url><url>
-    <loc>/2019/01/istio/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/2019/01/istio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/2019/01/istio/"
-                />
   </url><url>
     <loc>/tags/istio/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
@@ -134,6 +124,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/istio/"
+                />
+  </url><url>
+    <loc>/2019/01/istio/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/2019/01/istio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/2019/01/istio/"
                 />
   </url><url>
     <loc>/tags/kubernetes/</loc>
@@ -162,19 +165,6 @@
                 href="/categories/kubernetes/"
                 />
   </url><url>
-    <loc>/categories/videos/</loc>
-    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/videos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/videos/"
-                />
-  </url><url>
     <loc>/tags/videos/</loc>
     <lastmod>2019-01-25T21:10:00+01:00</lastmod>
     <xhtml:link
@@ -186,6 +176,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/videos/"
+                />
+  </url><url>
+    <loc>/categories/videos/</loc>
+    <lastmod>2019-01-25T21:10:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/videos/"
                 />
   </url><url>
     <loc>/tags/architecture/</loc>
@@ -227,10 +230,10 @@
     <loc>/tags/docker/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/microservices/</loc>
+    <loc>/tags/microservices/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/microservices/</loc>
+    <loc>/categories/microservices/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/software-engineering/</loc>
@@ -452,10 +455,10 @@
     <loc>/tags/list-of-agencies/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url><url>
-    <loc>/categories/marketing/</loc>
+    <loc>/tags/marketing/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url><url>
-    <loc>/tags/marketing/</loc>
+    <loc>/categories/marketing/</loc>
     <lastmod>2015-09-06T09:40:16+00:00</lastmod>
   </url><url>
     <loc>/tags/technology/</loc>
@@ -521,10 +524,10 @@
     <loc>/tags/processing/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url><url>
-    <loc>/categories/realtime/</loc>
+    <loc>/tags/realtime/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url><url>
-    <loc>/tags/realtime/</loc>
+    <loc>/categories/realtime/</loc>
     <lastmod>2014-09-06T07:35:27+00:00</lastmod>
   </url><url>
     <loc>/tags/storm/</loc>
@@ -810,6 +813,9 @@
     <lastmod>2011-08-26T09:17:35+00:00</lastmod>
   </url><url>
     <loc>/tags/google/</loc>
+    <lastmod>2011-05-12T11:20:59+00:00</lastmod>
+  </url><url>
+    <loc>/tags/google-i/o/</loc>
     <lastmod>2011-05-12T11:20:59+00:00</lastmod>
   </url><url>
     <loc>/tags/google-tv/</loc>
@@ -1667,13 +1673,13 @@
     <loc>/2010/01/livestream-apple-ipad-the-new-apple-tablet/</loc>
     <lastmod>2010-01-27T18:54:51+00:00</lastmod>
   </url><url>
+    <loc>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</loc>
+    <lastmod>2010-01-10T15:26:51+00:00</lastmod>
+  </url><url>
     <loc>/tags/privacy-settings/</loc>
     <lastmod>2010-01-10T15:26:51+00:00</lastmod>
   </url><url>
     <loc>/tags/techcrunch/</loc>
-    <lastmod>2010-01-10T15:26:51+00:00</lastmod>
-  </url><url>
-    <loc>/2010/01/the-age-of-privacy-is-over-says-facebooks-ceo-mark-zuckerberg/</loc>
     <lastmod>2010-01-10T15:26:51+00:00</lastmod>
   </url><url>
     <loc>/tags/blog/</loc>
@@ -2740,6 +2746,12 @@
     <loc>/tags/europa/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url><url>
+    <loc>/tags/europ%C3%A4ische-union/</loc>
+    <lastmod>2007-08-18T07:49:01+00:00</lastmod>
+  </url><url>
+    <loc>/tags/europ%C3%A4isches-forum-alpbach/</loc>
+    <lastmod>2007-08-18T07:49:01+00:00</lastmod>
+  </url><url>
     <loc>/tags/europe/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url><url>
@@ -2750,12 +2762,6 @@
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url><url>
     <loc>/tags/european-union/</loc>
-    <lastmod>2007-08-18T07:49:01+00:00</lastmod>
-  </url><url>
-    <loc>/tags/europ%C3%A4ische-union/</loc>
-    <lastmod>2007-08-18T07:49:01+00:00</lastmod>
-  </url><url>
-    <loc>/tags/europ%C3%A4isches-forum-alpbach/</loc>
     <lastmod>2007-08-18T07:49:01+00:00</lastmod>
   </url><url>
     <loc>/tags/florida/</loc>
@@ -2797,6 +2803,9 @@
     <loc>/tags/multilateral/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url><url>
+    <loc>/tags/%C3%B6sterreich/</loc>
+    <lastmod>2007-08-17T08:48:53+00:00</lastmod>
+  </url><url>
     <loc>/tags/seminar/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url><url>
@@ -2804,9 +2813,6 @@
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url><url>
     <loc>/tags/tirol/</loc>
-    <lastmod>2007-08-17T08:48:53+00:00</lastmod>
-  </url><url>
-    <loc>/tags/%C3%B6sterreich/</loc>
     <lastmod>2007-08-17T08:48:53+00:00</lastmod>
   </url><url>
     <loc>/tags/business-associations/</loc>
@@ -2926,6 +2932,9 @@
     <loc>/tags/schleswig-holstein/</loc>
     <lastmod>2007-06-11T07:50:03+00:00</lastmod>
   </url><url>
+    <loc>/2007/06/paper-four-papier-der-nachsten-generation/</loc>
+    <lastmod>2007-06-11T07:39:41+00:00</lastmod>
+  </url><url>
     <loc>/tags/crafts/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url><url>
@@ -2939,9 +2948,6 @@
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url><url>
     <loc>/tags/shopping/</loc>
-    <lastmod>2007-06-11T07:39:41+00:00</lastmod>
-  </url><url>
-    <loc>/2007/06/paper-four-papier-der-nachsten-generation/</loc>
     <lastmod>2007-06-11T07:39:41+00:00</lastmod>
   </url><url>
     <loc>/tags/multi-user-systems/</loc>
@@ -3201,8 +3207,6 @@
                 hreflang="en"
                 href="/authors/"
                 />
-  </url><url>
-    <loc>/tags/google-i/o/</loc>
   </url><url>
     <loc>/series/</loc>
     <xhtml:link
